@@ -1,0 +1,2 @@
+﻿status.lib(UdpSocket.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  GateServer.vcxproj -> E:\GG\VER 1\Files\Server\GateServer\Proj\..\Bin\GateServer.exe

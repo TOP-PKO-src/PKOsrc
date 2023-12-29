@@ -1,0 +1,40 @@
+[09-19 15:04:58]Log stream open success.
+[09-19 15:09:13](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 15:09:31](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 15:09:32](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 15:33:47](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-19 15:35:33](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 15:35:44](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 15:35:44](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 15:37:02](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-19 15:57:57](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 15:58:08](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 15:58:09](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 16:10:35](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-19 16:11:46](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 16:11:59](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 16:11:59](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 16:12:28](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-19 16:29:12](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-19 16:29:32](127.0.0.1):[test0001asaa1/0
+[09-19 16:29:41](127.0.0.1):[test0001555551/0
+[09-19 16:29:54](127.0.0.1):[test0001]create char [1341324]£¬	 online/total:1/0
+[09-19 16:29:57](127.0.0.1):[test0001]select char[1341324]begin paly...£¬	 online/total:1/0
+[09-19 16:29:58](127.0.0.1):[test0001] char [1341324]entry map server begin play...£¬	 online/total:1/1
+[09-19 16:32:11](127.0.0.1):[X3]login success, 	 nline/total:2/1
+[09-19 16:32:23](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:2/1
+[09-19 16:32:23](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:2/2
+[09-19 16:39:19](127.0.0.1):[X3]logout,	 online/total:1/1
+[09-19 16:39:22](127.0.0.1):[test0001]logout,	 online/total:0/0
+[09-19 16:41:10](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 16:41:25](127.0.0.1):[test0001]login success, 	 nline/total:2/0
+[09-19 16:41:30](127.0.0.1):[test0001]select char[1341324]begin paly...£¬	 online/total:2/0
+[09-19 16:41:30](127.0.0.1):[test0001] char [1341324]entry map server begin play...£¬	 online/total:2/1
+[09-19 16:41:35](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:2/1
+[09-19 16:41:35](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:2/2
+[09-19 16:54:02](127.0.0.1):[test0001]logout,	 online/total:1/1
+[09-19 17:08:22](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-19 17:12:53](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 17:13:05](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 17:13:06](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 17:16:50](127.0.0.1):[X3]logout,	 online/total:0/0

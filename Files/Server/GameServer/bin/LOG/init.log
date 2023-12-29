@@ -1,0 +1,1440 @@
+[09-28 09:27:31]Load Game Config File(Text Mode) [GameServer1.cfg]
+[09-28 09:27:31]Define __CATCH
+[09-28 09:27:31]game map server [GameServer01] startup...
+[09-28 09:27:31]start initialization GameApp
+[09-28 09:27:31]initialization DB...
+[09-28 09:27:31]database init...ok
+[09-28 09:27:31]database init...ok
+[09-28 09:27:34]start to assign every Entity memory
+[09-28 09:27:34]initialization every form...
+[09-28 09:27:59]initialization Lua Script...
+[09-28 09:28:05]initialization map list...
+[09-28 09:28:18]map garner init resource succeed
+[09-28 09:28:18]map [garner] ok!
+[09-28 09:28:18]Succeed add HelpNPC[酒鬼·芬德内]
+[09-28 09:28:18]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/lietinglinqu.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/haifengyuchang.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/jianayunshi.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/bycduizhang.lua  
+[09-28 09:28:18]执行怪物摆放 script/monster/bycdaoguai.lua  
+[09-28 09:28:18]garner脚本放怪结束! 
+[09-28 09:28:18]GameApp initialization finish!
+[09-28 09:28:18]start init ServerApp
+[09-28 09:28:19]ServerApp init over
+[09-28 09:28:19]startup Gate server connect thread...
+[09-28 09:28:19]startup information server connect thread...
+[09-28 09:28:19]startup game thread...
+[09-28 09:28:19]Game Thread ID = 1228
+[09-28 09:28:19]start create Win32 control dialog box
+[09-28 15:42:53]Load Game Config File(Text Mode) [GameServer1.cfg]
+[09-28 15:42:53]Define __CATCH
+[09-28 15:42:53]game map server [GameServer01] startup...
+[09-28 15:42:53]start initialization GameApp
+[09-28 15:42:53]initialization DB...
+[09-28 15:42:53]database init...ok
+[09-28 15:42:53]database init...ok
+[09-28 15:42:56]start to assign every Entity memory
+[09-28 15:42:56]initialization every form...
+[09-28 15:43:21]initialization Lua Script...
+[09-28 15:43:26]initialization map list...
+[09-28 15:43:38]map garner init resource succeed
+[09-28 15:43:38]map [garner] ok!
+[09-28 15:43:38]Succeed add HelpNPC[酒鬼·芬德内]
+[09-28 15:43:38]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/lietinglinqu.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/haifengyuchang.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/jianayunshi.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/bycduizhang.lua  
+[09-28 15:43:38]执行怪物摆放 script/monster/bycdaoguai.lua  
+[09-28 15:43:38]garner脚本放怪结束! 
+[09-28 15:43:38]GameApp initialization finish!
+[09-28 15:43:38]start init ServerApp
+[09-28 15:43:38]ServerApp init over
+[09-28 15:43:38]startup Gate server connect thread...
+[09-28 15:43:38]startup information server connect thread...
+[09-28 15:43:38]startup game thread...
+[09-28 15:43:38]Game Thread ID = 3852
+[09-28 15:43:38]start create Win32 control dialog box
+[10-08 17:34:23]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-08 17:34:23]Define __CATCH
+[10-08 17:34:23]game map server [GameServer01] startup...
+[10-08 17:34:23]start initialization GameApp
+[10-08 17:34:23]initialization DB...
+[10-08 17:34:24]database init...ok
+[10-08 17:34:24]database init...ok
+[10-08 17:34:28]start to assign every Entity memory
+[10-08 17:34:28]initialization every form...
+[10-08 17:34:54]initialization Lua Script...
+[10-08 17:35:08]initialization map list...
+[10-08 17:36:06]map garner init resource succeed
+[10-08 17:36:06]map [garner] ok!
+[10-08 17:36:06]Succeed add HelpNPC[酒鬼·芬德内]
+[10-08 17:36:06]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-08 17:36:06]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-08 17:36:06]garner脚本放怪结束! 
+[10-08 17:36:06]GameApp initialization finish!
+[10-08 17:36:07]start init ServerApp
+[10-08 17:36:07]ServerApp init over
+[10-08 17:36:07]startup Gate server connect thread...
+[10-08 17:36:07]startup information server connect thread...
+[10-08 17:36:07]startup game thread...
+[10-08 17:36:07]Game Thread ID = 5628
+[10-08 17:36:07]start create Win32 control dialog box
+[10-08 17:51:24]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-08 17:51:24]Define __CATCH
+[10-08 17:51:24]game map server [GameServer01] startup...
+[10-08 17:51:24]start initialization GameApp
+[10-08 17:51:24]initialization DB...
+[10-08 17:51:26]database init...ok
+[10-08 17:51:26]database init...ok
+[10-08 17:51:29]start to assign every Entity memory
+[10-08 17:51:29]initialization every form...
+[10-08 17:51:56]initialization Lua Script...
+[10-08 17:52:03]initialization map list...
+[10-08 17:52:29]map garner init resource succeed
+[10-08 17:52:29]map [garner] ok!
+[10-08 17:52:29]Succeed add HelpNPC[酒鬼·芬德内]
+[10-08 17:52:29]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-08 17:52:29]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-08 17:52:29]garner脚本放怪结束! 
+[10-08 17:52:29]GameApp initialization finish!
+[10-08 17:52:29]start init ServerApp
+[10-08 17:52:29]ServerApp init over
+[10-08 17:52:29]startup Gate server connect thread...
+[10-08 17:52:29]startup information server connect thread...
+[10-08 17:52:29]startup game thread...
+[10-08 17:52:29]Game Thread ID = 4268
+[10-08 17:52:29]start create Win32 control dialog box
+[10-13 11:07:53]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-13 11:07:53]Define __CATCH
+[10-13 11:07:53]game map server [GameServer01] startup...
+[10-13 11:07:53]start initialization GameApp
+[10-13 11:07:53]initialization DB...
+[10-13 11:07:54]database init...ok
+[10-13 11:07:54]database init...ok
+[10-13 11:07:57]start to assign every Entity memory
+[10-13 11:07:57]initialization every form...
+[10-13 11:08:22]initialization Lua Script...
+[10-13 11:08:28]initialization map list...
+[10-13 11:08:45]map garner init resource succeed
+[10-13 11:08:45]map [garner] ok!
+[10-13 11:08:45]Succeed add HelpNPC[酒鬼·芬德内]
+[10-13 11:08:45]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-13 11:08:46]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-13 11:08:46]garner脚本放怪结束! 
+[10-13 11:08:46]GameApp initialization finish!
+[10-13 11:08:46]start init ServerApp
+[10-13 11:08:47]ServerApp init over
+[10-13 11:08:47]startup Gate server connect thread...
+[10-13 11:08:47]startup information server connect thread...
+[10-13 11:08:47]startup game thread...
+[10-13 11:08:47]Game Thread ID = 1748
+[10-13 11:08:47]start create Win32 control dialog box
+[10-13 21:43:40]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-13 21:43:40]Define __CATCH
+[10-13 21:43:40]game map server [GameServer01] startup...
+[10-13 21:43:40]start initialization GameApp
+[10-13 21:43:40]initialization DB...
+[10-13 21:43:41]database init...ok
+[10-13 21:43:41]database init...ok
+[10-13 21:43:44]start to assign every Entity memory
+[10-13 21:43:44]initialization every form...
+[10-13 21:44:02]initialization Lua Script...
+[10-13 21:44:06]initialization map list...
+[10-13 21:44:17]map garner init resource succeed
+[10-13 21:44:17]map [garner] ok!
+[10-13 21:44:17]Succeed add HelpNPC[酒鬼·芬德内]
+[10-13 21:44:17]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-13 21:44:17]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-13 21:44:17]garner脚本放怪结束! 
+[10-13 21:44:17]GameApp initialization finish!
+[10-13 21:44:17]start init ServerApp
+[10-13 21:44:17]ServerApp init over
+[10-13 21:44:17]startup Gate server connect thread...
+[10-13 21:44:17]startup information server connect thread...
+[10-13 21:44:17]startup game thread...
+[10-13 21:44:17]Game Thread ID = 3380
+[10-13 21:44:17]start create Win32 control dialog box
+[10-13 22:58:54]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-13 22:58:54]Define __CATCH
+[10-13 22:58:54]game map server [GameServer01] startup...
+[10-13 22:58:54]start initialization GameApp
+[10-13 22:58:54]initialization DB...
+[10-13 22:58:55]database init...ok
+[10-13 22:58:55]database init...ok
+[10-13 22:58:58]start to assign every Entity memory
+[10-13 22:58:58]initialization every form...
+[10-13 22:59:15]initialization Lua Script...
+[10-13 22:59:19]initialization map list...
+[10-13 22:59:28]map magicsea init resource succeed
+[10-13 22:59:28]map [magicsea] ok!
+[10-13 22:59:28]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/monv480.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/shaxie.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-13 22:59:28]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-13 22:59:28]magicsea脚本放怪结束! 
+[10-13 22:59:28]GameApp initialization finish!
+[10-13 22:59:28]start init ServerApp
+[10-13 22:59:28]ServerApp init over
+[10-13 22:59:28]startup Gate server connect thread...
+[10-13 22:59:28]startup information server connect thread...
+[10-13 22:59:28]startup game thread...
+[10-13 22:59:28]Game Thread ID = 3292
+[10-13 22:59:28]start create Win32 control dialog box
+[10-16 20:55:11]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-16 20:55:11]Define __CATCH
+[10-16 20:55:11]game map server [GameServer01] startup...
+[10-16 20:55:11]start initialization GameApp
+[10-16 20:55:11]initialization DB...
+[10-16 20:55:12]database init...ok
+[10-16 20:55:12]database init...ok
+[10-16 20:55:13]start to assign every Entity memory
+[10-16 20:55:13]initialization every form...
+[10-16 20:55:17]initialization Lua Script...
+[10-16 20:55:19]initialization map list...
+[10-16 20:55:55]map garner init resource succeed
+[10-16 20:55:55]map [garner] ok!
+[10-16 20:55:55]Succeed add HelpNPC[酒鬼·芬德内]
+[10-16 20:55:55]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-16 20:55:55]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-16 20:55:55]garner脚本放怪结束! 
+[10-16 20:55:55]GameApp initialization finish!
+[10-16 20:55:55]start init ServerApp
+[10-16 20:55:55]ServerApp init over
+[10-16 20:55:55]startup Gate server connect thread...
+[10-16 20:55:55]startup information server connect thread...
+[10-16 20:55:55]startup game thread...
+[10-16 20:55:55]Game Thread ID = 6136
+[10-16 20:55:55]start create Win32 control dialog box
+[10-16 20:56:46]start to exit game map server
+[10-17 18:48:45]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-17 18:48:45]Define __CATCH
+[10-17 18:48:45]game map server [GameServer01] startup...
+[10-17 18:48:45]start initialization GameApp
+[10-17 18:48:45]initialization DB...
+[10-17 18:48:46]database init...ok
+[10-17 18:48:46]database init...ok
+[10-17 18:48:47]start to assign every Entity memory
+[10-17 18:48:47]initialization every form...
+[10-17 18:48:51]initialization Lua Script...
+[10-17 18:48:54]initialization map list...
+[10-17 18:49:22]map garner init resource succeed
+[10-17 18:49:22]map [garner] ok!
+[10-17 18:49:22]Succeed add HelpNPC[酒鬼·芬德内]
+[10-17 18:49:22]执行怪物摆放 script/monster/baiyinlinqu.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/lietinglinqu.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/baiyinyuchang.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/jianazuixiayuchang.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/haifengyuchang.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/jianayunshi.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/bycduizhang.lua  
+[10-17 18:49:22]执行怪物摆放 script/monster/bycdaoguai.lua  
+[10-17 18:49:22]garner脚本放怪结束! 
+[10-17 18:49:22]GameApp initialization finish!
+[10-17 18:49:22]start init ServerApp
+[10-17 18:49:22]ServerApp init over
+[10-17 18:49:22]startup Gate server connect thread...
+[10-17 18:49:22]startup information server connect thread...
+[10-17 18:49:22]startup game thread...
+[10-17 18:49:22]Game Thread ID = 2052
+[10-17 18:49:22]start create Win32 control dialog box
+[10-17 18:50:21]start to exit game map server
+[10-17 18:51:05]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-17 18:51:05]Define __CATCH
+[10-17 18:51:05]game map server [GameServer01] startup...
+[10-17 18:51:05]start initialization GameApp
+[10-17 18:51:05]initialization DB...
+[10-17 18:51:06]database init...ok
+[10-17 18:51:06]database init...ok
+[10-17 18:51:07]start to assign every Entity memory
+[10-17 18:51:07]initialization every form...
+[10-17 18:51:11]initialization Lua Script...
+[10-17 18:51:13]initialization map list...
+[10-17 18:51:17]map magicsea init resource succeed
+[10-17 18:51:17]map [magicsea] ok!
+[10-17 18:51:17]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/monv480.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/shaxie.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-17 18:51:17]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-17 18:51:17]magicsea脚本放怪结束! 
+[10-17 18:51:17]GameApp initialization finish!
+[10-17 18:51:17]start init ServerApp
+[10-17 18:51:17]ServerApp init over
+[10-17 18:51:17]startup Gate server connect thread...
+[10-17 18:51:17]startup information server connect thread...
+[10-17 18:51:17]startup game thread...
+[10-17 18:51:17]Game Thread ID = 3148
+[10-17 18:51:17]start create Win32 control dialog box
+[10-18 23:39:02]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-18 23:39:02]Define __CATCH
+[10-18 23:39:02]game map server [GameServer01] startup...
+[10-18 23:39:02]start initialization GameApp
+[10-18 23:39:02]initialization DB...
+[10-18 23:39:03]database init...ok
+[10-18 23:39:03]database init...ok
+[10-18 23:39:04]start to assign every Entity memory
+[10-18 23:39:04]initialization every form...
+[10-18 23:39:08]initialization Lua Script...
+[10-18 23:39:11]initialization map list...
+[10-18 23:39:16]map magicsea init resource succeed
+[10-18 23:39:16]map [magicsea] ok!
+[10-18 23:39:16]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/monv480.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/shaxie.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-18 23:39:16]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-18 23:39:16]magicsea脚本放怪结束! 
+[10-18 23:39:16]GameApp initialization finish!
+[10-18 23:39:16]start init ServerApp
+[10-18 23:39:16]ServerApp init over
+[10-18 23:39:16]startup Gate server connect thread...
+[10-18 23:39:16]startup information server connect thread...
+[10-18 23:39:16]startup game thread...
+[10-18 23:39:16]Game Thread ID = 1728
+[10-18 23:39:16]start create Win32 control dialog box
+[10-19 01:24:06]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:24:06]Define __CATCH
+[10-19 01:24:06]game map server [GameServer01] startup...
+[10-19 01:24:06]start initialization GameApp
+[10-19 01:24:06]initialization DB...
+[10-19 01:24:08]database init...ok
+[10-19 01:24:08]database init...ok
+[10-19 01:24:21]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:24:21]Define __CATCH
+[10-19 01:24:21]game map server [GameServer01] startup...
+[10-19 01:24:21]start initialization GameApp
+[10-19 01:24:21]initialization DB...
+[10-19 01:24:22]database init...ok
+[10-19 01:24:22]database init...ok
+[10-19 01:24:34]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:24:34]Define __CATCH
+[10-19 01:24:34]game map server [GameServer01] startup...
+[10-19 01:24:34]start initialization GameApp
+[10-19 01:24:34]initialization DB...
+[10-19 01:24:35]database init...ok
+[10-19 01:24:35]database init...ok
+[10-19 01:27:03]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:27:03]Define __CATCH
+[10-19 01:27:03]game map server [GameServer01] startup...
+[10-19 01:27:03]start initialization GameApp
+[10-19 01:27:03]initialization DB...
+[10-19 01:27:04]database init...ok
+[10-19 01:27:04]database init...ok
+[10-19 01:29:10]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:29:10]Define __CATCH
+[10-19 01:29:10]game map server [GameServer01] startup...
+[10-19 01:29:10]start initialization GameApp
+[10-19 01:29:10]initialization DB...
+[10-19 01:29:12]database init...ok
+[10-19 01:29:12]database init...ok
+[10-19 01:31:16]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:31:16]Define __CATCH
+[10-19 01:31:16]game map server [GameServer01] startup...
+[10-19 01:31:16]start initialization GameApp
+[10-19 01:31:16]initialization DB...
+[10-19 01:31:17]database init...ok
+[10-19 01:31:17]database init...ok
+[10-19 01:31:37]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:31:37]Define __CATCH
+[10-19 01:31:37]game map server [GameServer01] startup...
+[10-19 01:31:37]start initialization GameApp
+[10-19 01:31:37]initialization DB...
+[10-19 01:31:39]database init...ok
+[10-19 01:31:39]database init...ok
+[10-19 01:37:40]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:37:45]Define __CATCH
+[10-19 01:37:53]game map server [GameServer01] startup...
+[10-19 01:37:54]start initialization GameApp
+[10-19 01:37:54]initialization DB...
+[10-19 01:37:56]database init...ok
+[10-19 01:37:56]database init...ok
+[10-19 01:38:16]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:38:16]Define __CATCH
+[10-19 01:38:16]game map server [GameServer01] startup...
+[10-19 01:38:19]start initialization GameApp
+[10-19 01:38:20]initialization DB...
+[10-19 01:38:22]database init...ok
+[10-19 01:38:27]database init...ok
+[10-19 01:39:05]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:39:05]Define __CATCH
+[10-19 01:39:05]game map server [GameServer01] startup...
+[10-19 01:39:07]start initialization GameApp
+[10-19 01:39:07]initialization DB...
+[10-19 01:39:08]database init...ok
+[10-19 01:39:08]database init...ok
+[10-19 01:39:24]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:39:24]Define __CATCH
+[10-19 01:39:24]game map server [GameServer01] startup...
+[10-19 01:39:26]start initialization GameApp
+[10-19 01:39:26]initialization DB...
+[10-19 01:39:27]database init...ok
+[10-19 01:39:27]database init...ok
+[10-19 01:40:24]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:40:24]Define __CATCH
+[10-19 01:40:24]game map server [GameServer01] startup...
+[10-19 01:40:27]start initialization GameApp
+[10-19 01:40:27]initialization DB...
+[10-19 01:40:28]database init...ok
+[10-19 01:40:28]database init...ok
+[10-19 01:41:24]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:41:24]Define __CATCH
+[10-19 01:41:24]game map server [GameServer01] startup...
+[10-19 01:41:25]start initialization GameApp
+[10-19 01:41:25]initialization DB...
+[10-19 01:41:26]database init...ok
+[10-19 01:41:26]database init...ok
+[10-19 01:42:30]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:42:30]Define __CATCH
+[10-19 01:42:30]game map server [GameServer01] startup...
+[10-19 01:42:31]start initialization GameApp
+[10-19 01:42:31]initialization DB...
+[10-19 01:42:33]database init...ok
+[10-19 01:42:33]database init...ok
+[10-19 01:43:45]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:43:45]Define __CATCH
+[10-19 01:43:45]game map server [GameServer01] startup...
+[10-19 01:43:45]start initialization GameApp
+[10-19 01:43:45]initialization DB...
+[10-19 01:43:46]database init...ok
+[10-19 01:43:46]database init...ok
+[10-19 01:45:21]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:45:21]Define __CATCH
+[10-19 01:45:21]game map server [GameServer01] startup...
+[10-19 01:45:21]start initialization GameApp
+[10-19 01:45:21]initialization DB...
+[10-19 01:45:22]database init...ok
+[10-19 01:45:22]database init...ok
+[10-19 01:46:24]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:46:24]Define __CATCH
+[10-19 01:46:24]game map server [GameServer01] startup...
+[10-19 01:46:24]start initialization GameApp
+[10-19 01:46:24]initialization DB...
+[10-19 01:46:25]database init...ok
+[10-19 01:46:26]database init...ok
+[10-19 01:46:27]start to assign every Entity memory
+[10-19 01:46:27]initialization every form...
+[10-19 01:46:30]initialization Lua Script...
+[10-19 01:46:33]initialization map list...
+[10-19 01:46:36]map magicsea init resource succeed
+[10-19 01:46:36]map [magicsea] ok!
+[10-19 01:46:36]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 01:46:36]执行怪物摆放 script/monster/monv480.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 01:46:37]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 01:46:37]magicsea脚本放怪结束! 
+[10-19 01:46:37]GameApp initialization finish!
+[10-19 01:46:37]start init ServerApp
+[10-19 01:46:37]ServerApp init over
+[10-19 01:46:37]startup Gate server connect thread...
+[10-19 01:46:37]startup information server connect thread...
+[10-19 01:46:37]startup game thread...
+[10-19 01:46:37]Game Thread ID = 2780
+[10-19 01:46:37]start create Win32 control dialog box
+[10-19 01:53:22]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 01:53:22]Define __CATCH
+[10-19 01:53:22]game map server [GameServer01] startup...
+[10-19 01:53:22]start initialization GameApp
+[10-19 01:53:22]initialization DB...
+[10-19 01:53:24]database init...ok
+[10-19 01:53:24]database init...ok
+[10-19 01:53:25]start to assign every Entity memory
+[10-19 01:53:25]initialization every form...
+[10-19 01:53:29]initialization Lua Script...
+[10-19 01:53:33]initialization map list...
+[10-19 01:53:36]map magicsea init resource succeed
+[10-19 01:53:36]map [magicsea] ok!
+[10-19 01:53:36]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/monv480.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 01:53:36]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 01:53:36]magicsea脚本放怪结束! 
+[10-19 01:53:36]GameApp initialization finish!
+[10-19 01:53:36]start init ServerApp
+[10-19 01:53:36]ServerApp init over
+[10-19 01:53:36]startup Gate server connect thread...
+[10-19 01:53:36]startup information server connect thread...
+[10-19 01:53:36]startup game thread...
+[10-19 01:53:42]Game Thread ID = 2420
+[10-19 01:53:42]start create Win32 control dialog box
+[10-19 02:07:25]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 02:07:25]Define __CATCH
+[10-19 02:07:25]game map server [GameServer01] startup...
+[10-19 02:07:25]start initialization GameApp
+[10-19 02:07:25]initialization DB...
+[10-19 02:07:26]database init...ok
+[10-19 02:07:26]database init...ok
+[10-19 02:07:27]start to assign every Entity memory
+[10-19 02:07:27]initialization every form...
+[10-19 02:07:32]initialization Lua Script...
+[10-19 02:07:35]initialization map list...
+[10-19 02:07:39]map magicsea init resource succeed
+[10-19 02:07:39]map [magicsea] ok!
+[10-19 02:07:39]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/monv480.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 02:07:39]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 02:07:39]magicsea脚本放怪结束! 
+[10-19 02:07:39]GameApp initialization finish!
+[10-19 02:07:39]start init ServerApp
+[10-19 02:07:39]ServerApp init over
+[10-19 02:07:39]startup Gate server connect thread...
+[10-19 02:07:39]startup information server connect thread...
+[10-19 02:07:43]startup game thread...
+[10-19 02:07:43]Game Thread ID = 2220
+[10-19 02:07:43]start create Win32 control dialog box
+[10-19 02:26:42]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 02:26:42]Define __CATCH
+[10-19 02:26:42]game map server [GameServer01] startup...
+[10-19 02:26:42]start initialization GameApp
+[10-19 02:26:42]initialization DB...
+[10-19 02:26:43]database init...ok
+[10-19 02:26:43]database init...ok
+[10-19 02:26:44]start to assign every Entity memory
+[10-19 02:26:44]initialization every form...
+[10-19 02:26:48]initialization Lua Script...
+[10-19 02:26:52]initialization map list...
+[10-19 02:26:55]map magicsea init resource succeed
+[10-19 02:26:55]map [magicsea] ok!
+[10-19 02:26:55]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/monv480.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 02:26:55]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 02:26:55]magicsea脚本放怪结束! 
+[10-19 02:26:55]GameApp initialization finish!
+[10-19 02:26:55]start init ServerApp
+[10-19 02:26:55]ServerApp init over
+[10-19 02:26:55]startup Gate server connect thread...
+[10-19 02:26:55]startup information server connect thread...
+[10-19 02:26:58]startup game thread...
+[10-19 02:26:58]Game Thread ID = 1464
+[10-19 02:26:58]start create Win32 control dialog box
+[10-19 13:44:44]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 13:44:44]Define __CATCH
+[10-19 13:44:44]game map server [GameServer01] startup...
+[10-19 13:44:44]start initialization GameApp
+[10-19 13:44:44]initialization DB...
+[10-19 13:44:46]database init...ok
+[10-19 13:44:46]database init...ok
+[10-19 13:44:47]start to assign every Entity memory
+[10-19 13:44:47]initialization every form...
+[10-19 13:44:51]initialization Lua Script...
+[10-19 13:44:54]initialization map list...
+[10-19 13:44:57]map magicsea init resource succeed
+[10-19 13:44:57]map [magicsea] ok!
+[10-19 13:44:57]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/monv480.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 13:44:57]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 13:44:57]magicsea脚本放怪结束! 
+[10-19 13:44:57]GameApp initialization finish!
+[10-19 13:44:57]start init ServerApp
+[10-19 13:44:57]ServerApp init over
+[10-19 13:44:57]startup Gate server connect thread...
+[10-19 13:44:57]startup information server connect thread...
+[10-19 13:45:05]startup game thread...
+[10-19 13:45:05]Game Thread ID = 2596
+[10-19 13:45:05]start create Win32 control dialog box
+[10-19 13:45:44]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 13:45:44]Define __CATCH
+[10-19 13:45:44]game map server [GameServer01] startup...
+[10-19 13:45:44]start initialization GameApp
+[10-19 13:45:44]initialization DB...
+[10-19 13:45:45]database init...ok
+[10-19 13:45:45]database init...ok
+[10-19 13:45:46]start to assign every Entity memory
+[10-19 13:45:46]initialization every form...
+[10-19 13:45:50]initialization Lua Script...
+[10-19 13:45:53]initialization map list...
+[10-19 13:45:56]map magicsea init resource succeed
+[10-19 13:45:56]map [magicsea] ok!
+[10-19 13:45:56]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/monv480.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 13:45:56]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 13:45:56]magicsea脚本放怪结束! 
+[10-19 13:45:56]GameApp initialization finish!
+[10-19 13:45:56]start init ServerApp
+[10-19 13:45:56]ServerApp init over
+[10-19 13:45:56]startup Gate server connect thread...
+[10-19 13:45:56]startup information server connect thread...
+[10-19 13:45:56]startup game thread...
+[10-19 13:46:01]Game Thread ID = 3772
+[10-19 13:46:01]start create Win32 control dialog box
+[10-19 14:17:33]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 14:17:33]Define __CATCH
+[10-19 14:17:33]game map server [GameServer01] startup...
+[10-19 14:17:33]start initialization GameApp
+[10-19 14:17:33]initialization DB...
+[10-19 14:17:34]database init...ok
+[10-19 14:17:34]database init...ok
+[10-19 14:17:35]start to assign every Entity memory
+[10-19 14:17:35]initialization every form...
+[10-19 14:17:40]initialization Lua Script...
+[10-19 14:17:43]initialization map list...
+[10-19 14:17:46]map magicsea init resource succeed
+[10-19 14:17:46]map [magicsea] ok!
+[10-19 14:17:46]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 14:17:46]执行怪物摆放 script/monster/monv480.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 14:17:47]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 14:17:47]magicsea脚本放怪结束! 
+[10-19 14:17:47]GameApp initialization finish!
+[10-19 14:17:47]start init ServerApp
+[10-19 14:17:47]ServerApp init over
+[10-19 14:17:47]startup Gate server connect thread...
+[10-19 14:17:47]startup information server connect thread...
+[10-19 14:24:45]startup game thread...
+[10-19 14:24:49]Game Thread ID = 5680
+[10-19 14:24:49]start create Win32 control dialog box
+[10-19 14:31:21]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 14:31:21]Define __CATCH
+[10-19 14:31:21]game map server [GameServer01] startup...
+[10-19 14:31:21]start initialization GameApp
+[10-19 14:31:21]initialization DB...
+[10-19 14:31:23]database init...ok
+[10-19 14:31:23]database init...ok
+[10-19 14:31:24]start to assign every Entity memory
+[10-19 14:31:24]initialization every form...
+[10-19 14:31:28]initialization Lua Script...
+[10-19 14:31:31]initialization map list...
+[10-19 14:31:35]map magicsea init resource succeed
+[10-19 14:31:35]map [magicsea] ok!
+[10-19 14:31:35]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/monv480.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 14:31:35]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 14:31:35]magicsea脚本放怪结束! 
+[10-19 14:31:35]GameApp initialization finish!
+[10-19 14:31:35]start init ServerApp
+[10-19 14:31:35]ServerApp init over
+[10-19 14:31:35]startup Gate server connect thread...
+[10-19 14:31:35]startup information server connect thread...
+[10-19 14:31:35]startup game thread...
+[10-19 14:31:35]Game Thread ID = 1472
+[10-19 14:31:35]start create Win32 control dialog box
+[10-19 14:44:03]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 14:44:47]Define __CATCH
+[10-19 14:44:47]game map server [GameServer01] startup...
+[10-19 14:44:47]start initialization GameApp
+[10-19 14:44:47]initialization DB...
+[10-19 14:44:48]database init...ok
+[10-19 14:44:48]database init...ok
+[10-19 14:44:50]start to assign every Entity memory
+[10-19 14:44:50]initialization every form...
+[10-19 14:44:54]initialization Lua Script...
+[10-19 14:44:58]initialization map list...
+[10-19 14:45:02]map magicsea init resource succeed
+[10-19 14:45:02]map [magicsea] ok!
+[10-19 14:45:02]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/monv480.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 14:45:02]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 14:45:02]magicsea脚本放怪结束! 
+[10-19 14:45:02]GameApp initialization finish!
+[10-19 14:45:02]start init ServerApp
+[10-19 14:45:02]ServerApp init over
+[10-19 14:45:02]startup Gate server connect thread...
+[10-19 14:45:02]startup information server connect thread...
+[10-19 14:45:02]startup game thread...
+[10-19 14:45:02]Game Thread ID = 4904
+[10-19 14:45:02]start create Win32 control dialog box
+[10-19 14:46:37]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 14:46:49]Define __CATCH
+[10-19 14:46:49]game map server [GameServer01] startup...
+[10-19 14:46:49]start initialization GameApp
+[10-19 14:46:49]initialization DB...
+[10-19 14:46:51]database init...ok
+[10-19 14:46:51]database init...ok
+[10-19 14:46:52]start to assign every Entity memory
+[10-19 14:46:52]initialization every form...
+[10-19 14:46:56]initialization Lua Script...
+[10-19 14:47:00]initialization map list...
+[10-19 14:47:03]map magicsea init resource succeed
+[10-19 14:47:03]map [magicsea] ok!
+[10-19 14:47:03]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/monv480.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 14:47:03]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 14:47:03]magicsea脚本放怪结束! 
+[10-19 14:47:03]GameApp initialization finish!
+[10-19 14:47:04]start init ServerApp
+[10-19 14:47:04]ServerApp init over
+[10-19 14:47:04]startup Gate server connect thread...
+[10-19 14:47:04]startup information server connect thread...
+[10-19 14:47:04]startup game thread...
+[10-19 14:47:04]Game Thread ID = 4760
+[10-19 14:47:04]start create Win32 control dialog box
+[10-19 19:32:48]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-19 19:32:57]Define __CATCH
+[10-19 19:32:57]game map server [GameServer01] startup...
+[10-19 19:32:57]start initialization GameApp
+[10-19 19:32:57]initialization DB...
+[10-19 19:32:59]database init...ok
+[10-19 19:32:59]database init...ok
+[10-19 19:33:00]start to assign every Entity memory
+[10-19 19:33:00]initialization every form...
+[10-19 19:33:04]initialization Lua Script...
+[10-19 19:33:07]initialization map list...
+[10-19 19:33:11]map magicsea init resource succeed
+[10-19 19:33:11]map [magicsea] ok!
+[10-19 19:33:11]执行怪物摆放 script/monster/mingshapaota.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/monv480.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/shalanyuchang.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/mingshayuchang.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/shalanlinqu.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/shaxie.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/shalanyunshi.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/slcdaoguai.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/slcduizhang.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[10-19 19:33:11]执行怪物摆放 script/monster/juxieKiper.lua  
+[10-19 19:33:11]magicsea脚本放怪结束! 
+[10-19 19:33:11]GameApp initialization finish!
+[10-19 19:33:11]start init ServerApp
+[10-19 19:33:11]ServerApp init over
+[10-19 19:33:11]startup Gate server connect thread...
+[10-19 19:33:11]startup information server connect thread...
+[10-19 19:33:11]startup game thread...
+[10-19 19:33:11]Game Thread ID = 4764
+[10-19 19:33:11]start create Win32 control dialog box
+[11-13 17:21:37]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-13 17:21:37]Define __CATCH
+[11-13 17:21:37]game map server [GameServer01] startup...
+[11-13 17:21:37]start initialization GameApp
+[11-13 17:21:37]initialization DB...
+[11-13 17:21:38]database init...ok
+[11-13 17:21:38]database init...ok
+[11-13 17:21:39]start to assign every Entity memory
+[11-13 17:21:39]initialization every form...
+[11-13 17:21:44]initialization Lua Script...
+[11-13 17:21:47]initialization map list...
+[11-13 17:21:52]map magicsea init resource succeed
+[11-13 17:21:52]map [magicsea] ok!
+[11-13 17:21:52]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/monv480.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/shaxie.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-13 17:21:52]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-13 17:21:52]magicsea脚本放怪结束! 
+[11-13 17:21:52]GameApp initialization finish!
+[11-13 17:21:52]start init ServerApp
+[11-13 17:21:52]ServerApp init over
+[11-13 17:21:52]startup Gate server connect thread...
+[11-13 17:21:52]startup information server connect thread...
+[11-13 17:21:52]startup game thread...
+[11-13 17:21:52]Game Thread ID = 4516
+[11-13 17:21:52]start create Win32 control dialog box
+[11-14 01:56:09]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-14 01:56:09]Define __CATCH
+[11-14 01:56:09]game map server [GameServer01] startup...
+[11-14 01:56:09]start initialization GameApp
+[11-14 01:56:09]initialization DB...
+[11-14 01:56:11]database init...ok
+[11-14 01:56:11]database init...ok
+[11-14 01:56:12]start to assign every Entity memory
+[11-14 01:56:12]initialization every form...
+[11-14 01:56:16]initialization Lua Script...
+[11-14 01:56:20]initialization map list...
+[11-14 01:56:23]map magicsea init resource succeed
+[11-14 01:56:23]map [magicsea] ok!
+[11-14 01:56:23]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/monv480.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/shaxie.lua  
+[11-14 01:56:23]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-14 01:56:24]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-14 01:56:24]magicsea脚本放怪结束! 
+[11-14 01:56:24]GameApp initialization finish!
+[11-14 01:56:24]start init ServerApp
+[11-14 01:56:24]ServerApp init over
+[11-14 01:56:24]startup Gate server connect thread...
+[11-14 01:56:24]startup information server connect thread...
+[11-14 01:56:24]startup game thread...
+[11-14 01:56:24]Game Thread ID = 6056
+[11-14 01:56:24]start create Win32 control dialog box
+[11-17 20:14:47]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-17 20:14:47]Define __CATCH
+[11-17 20:14:47]game map server [GameServer01] startup...
+[11-17 20:14:47]start initialization GameApp
+[11-17 20:14:47]initialization DB...
+[11-17 20:14:49]database init...ok
+[11-17 20:14:49]database init...ok
+[11-17 20:14:50]start to assign every Entity memory
+[11-17 20:14:50]initialization every form...
+[11-17 20:14:54]initialization Lua Script...
+[11-17 20:14:57]initialization map list...
+[11-17 20:15:02]map magicsea init resource succeed
+[11-17 20:15:02]map [magicsea] ok!
+[11-17 20:15:02]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/monv480.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/shaxie.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-17 20:15:02]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-17 20:15:02]magicsea脚本放怪结束! 
+[11-17 20:15:02]GameApp initialization finish!
+[11-17 20:15:02]start init ServerApp
+[11-17 20:15:02]ServerApp init over
+[11-17 20:15:02]startup Gate server connect thread...
+[11-17 20:15:02]startup information server connect thread...
+[11-17 20:15:02]startup game thread...
+[11-17 20:15:02]Game Thread ID = 3748
+[11-17 20:15:02]start create Win32 control dialog box
+[11-28 02:02:59]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 02:02:59]Define __CATCH
+[11-28 02:02:59]game map server [GameServer01] startup...
+[11-28 02:02:59]start initialization GameApp
+[11-28 02:02:59]initialization DB...
+[11-28 02:03:00]database init...ok
+[11-28 02:03:00]database init...ok
+[11-28 02:03:01]start to assign every Entity memory
+[11-28 02:03:01]initialization every form...
+[11-28 02:03:05]initialization Lua Script...
+[11-28 02:03:09]initialization map list...
+[11-28 02:03:13]map magicsea init resource succeed
+[11-28 02:03:13]map [magicsea] ok!
+[11-28 02:03:14]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/monv480.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 02:03:14]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 02:03:14]magicsea脚本放怪结束! 
+[11-28 02:03:14]GameApp initialization finish!
+[11-28 02:03:14]start init ServerApp
+[11-28 02:03:14]ServerApp init over
+[11-28 02:03:14]startup Gate server connect thread...
+[11-28 02:03:14]startup information server connect thread...
+[11-28 02:03:14]startup game thread...
+[11-28 02:03:14]Game Thread ID = 900
+[11-28 02:03:14]start create Win32 control dialog box
+[11-28 07:40:10]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 07:40:10]Define __CATCH
+[11-28 07:40:10]game map server [GameServer01] startup...
+[11-28 07:40:10]start initialization GameApp
+[11-28 07:40:10]initialization DB...
+[11-28 07:40:12]database init...ok
+[11-28 07:40:12]database init...ok
+[11-28 07:40:13]start to assign every Entity memory
+[11-28 07:40:13]initialization every form...
+[11-28 07:40:17]initialization Lua Script...
+[11-28 07:40:20]initialization map list...
+[11-28 07:40:25]map magicsea init resource succeed
+[11-28 07:40:25]map [magicsea] ok!
+[11-28 07:40:29]map [07mas] initialization failed!
+[11-28 07:40:29]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/monv480.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 07:40:29]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 07:40:29]magicsea脚本放怪结束! 
+[11-28 07:40:29]GameApp initialization finish!
+[11-28 07:40:29]start init ServerApp
+[11-28 07:40:29]ServerApp init over
+[11-28 07:40:29]startup Gate server connect thread...
+[11-28 07:40:29]startup information server connect thread...
+[11-28 07:40:29]startup game thread...
+[11-28 07:40:29]Game Thread ID = 4164
+[11-28 07:40:29]start create Win32 control dialog box
+[11-28 07:40:37]start to exit game map server
+[11-28 10:42:39]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 10:42:39]Define __CATCH
+[11-28 10:42:39]game map server [GameServer01] startup...
+[11-28 10:42:39]start initialization GameApp
+[11-28 10:42:39]initialization DB...
+[11-28 10:42:40]database init...ok
+[11-28 10:42:40]database init...ok
+[11-28 10:42:42]start to assign every Entity memory
+[11-28 10:42:42]initialization every form...
+[11-28 10:42:45]initialization Lua Script...
+[11-28 10:42:48]initialization map list...
+[11-28 10:42:51]map magicsea init resource succeed
+[11-28 10:42:51]map [magicsea] ok!
+[11-28 10:42:54]map [07mas] initialization failed!
+[11-28 10:42:54]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/monv480.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 10:42:54]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 10:42:54]magicsea脚本放怪结束! 
+[11-28 10:42:54]GameApp initialization finish!
+[11-28 10:42:54]start init ServerApp
+[11-28 10:42:54]ServerApp init over
+[11-28 10:42:54]startup Gate server connect thread...
+[11-28 10:42:54]startup information server connect thread...
+[11-28 10:42:54]startup game thread...
+[11-28 10:42:54]Game Thread ID = 4980
+[11-28 10:42:54]start create Win32 control dialog box
+[11-28 10:46:22]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 10:46:22]Define __CATCH
+[11-28 10:46:22]game map server [GameServer01] startup...
+[11-28 10:46:22]start initialization GameApp
+[11-28 10:46:22]initialization DB...
+[11-28 10:46:23]database init...ok
+[11-28 10:46:23]database init...ok
+[11-28 10:46:24]start to assign every Entity memory
+[11-28 10:46:24]initialization every form...
+[11-28 10:46:28]initialization Lua Script...
+[11-28 10:46:31]initialization map list...
+[11-28 10:46:34]map magicsea init resource succeed
+[11-28 10:46:34]map [magicsea] ok!
+[11-28 10:46:34]map eastgoaf init resource succeed
+[11-28 10:46:34]map [eastgoaf] ok!
+[11-28 10:46:34]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 10:46:34]执行怪物摆放 script/monster/monv480.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 10:46:35]magicsea脚本放怪结束! 
+[11-28 10:46:35]执行怪物摆放 script/monster/haidisuidao.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/xiashuidao.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/heilong1.lua  
+[11-28 10:46:35]执行怪物摆放 script/monster/heilong2.lua  
+[11-28 10:46:35]eastgoaf脚本放怪结束! 
+[11-28 10:46:35]GameApp initialization finish!
+[11-28 10:46:35]start init ServerApp
+[11-28 10:46:35]ServerApp init over
+[11-28 10:46:35]startup Gate server connect thread...
+[11-28 10:46:35]startup information server connect thread...
+[11-28 10:46:35]startup game thread...
+[11-28 10:46:35]Game Thread ID = 1952
+[11-28 10:46:35]start create Win32 control dialog box
+[11-28 11:40:41]start to exit game map server
+[11-28 12:59:14]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 12:59:14]Define __CATCH
+[11-28 12:59:14]game map server [GameServer01] startup...
+[11-28 12:59:14]start initialization GameApp
+[11-28 12:59:14]initialization DB...
+[11-28 12:59:15]database init...ok
+[11-28 12:59:15]database init...ok
+[11-28 12:59:16]start to assign every Entity memory
+[11-28 12:59:16]initialization every form...
+[11-28 12:59:20]initialization Lua Script...
+[11-28 12:59:23]initialization map list...
+[11-28 12:59:28]map magicsea init resource succeed
+[11-28 12:59:28]map [magicsea] ok!
+[11-28 12:59:28]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/monv480.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 12:59:28]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 12:59:28]magicsea脚本放怪结束! 
+[11-28 12:59:28]GameApp initialization finish!
+[11-28 12:59:28]start init ServerApp
+[11-28 12:59:28]ServerApp init over
+[11-28 12:59:28]startup Gate server connect thread...
+[11-28 12:59:28]startup information server connect thread...
+[11-28 12:59:28]startup game thread...
+[11-28 12:59:28]Game Thread ID = 396
+[11-28 12:59:28]start create Win32 control dialog box
+[11-28 13:13:45]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 13:13:45]Define __CATCH
+[11-28 13:13:45]game map server [GameServer01] startup...
+[11-28 13:13:45]start initialization GameApp
+[11-28 13:13:45]initialization DB...
+[11-28 13:13:46]database init...ok
+[11-28 13:13:46]database init...ok
+[11-28 13:13:47]start to assign every Entity memory
+[11-28 13:13:47]initialization every form...
+[11-28 13:13:51]initialization Lua Script...
+[11-28 13:13:54]initialization map list...
+[11-28 13:13:57]map magicsea init resource succeed
+[11-28 13:13:57]map [magicsea] ok!
+[11-28 13:13:59]map jialebi init resource succeed
+[11-28 13:13:59]map [jialebi] ok!
+[11-28 13:13:59]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/monv480.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 13:13:59]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 13:13:59]magicsea脚本放怪结束! 
+[11-28 13:13:59]GameApp initialization finish!
+[11-28 13:13:59]start init ServerApp
+[11-28 13:13:59]ServerApp init over
+[11-28 13:13:59]startup Gate server connect thread...
+[11-28 13:13:59]startup information server connect thread...
+[11-28 13:13:59]startup game thread...
+[11-28 13:13:59]Game Thread ID = 2340
+[11-28 13:13:59]start create Win32 control dialog box
+[11-28 15:12:18]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 15:12:18]Define __CATCH
+[11-28 15:12:18]game map server [GameServer01] startup...
+[11-28 15:12:18]start initialization GameApp
+[11-28 15:12:18]initialization DB...
+[11-28 15:12:20]database init...ok
+[11-28 15:12:20]database init...ok
+[11-28 15:12:21]start to assign every Entity memory
+[11-28 15:12:21]initialization every form...
+[11-28 15:12:25]initialization Lua Script...
+[11-28 15:12:28]initialization map list...
+[11-28 15:12:31]map magicsea init resource succeed
+[11-28 15:12:31]map [magicsea] ok!
+[11-28 15:12:32]map jialebi init resource succeed
+[11-28 15:12:32]map [jialebi] ok!
+[11-28 15:12:32]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/monv480.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 15:12:32]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 15:12:32]magicsea脚本放怪结束! 
+[11-28 15:12:32]GameApp initialization finish!
+[11-28 15:12:32]start init ServerApp
+[11-28 15:12:32]ServerApp init over
+[11-28 15:12:32]startup Gate server connect thread...
+[11-28 15:12:32]startup information server connect thread...
+[11-28 15:12:32]startup game thread...
+[11-28 15:12:32]Game Thread ID = 3780
+[11-28 15:12:32]start create Win32 control dialog box
+[11-28 17:08:50]Load Game Config File(Text Mode) [GameServer.cfg]
+[11-28 17:08:50]Define __CATCH
+[11-28 17:08:50]game map server [GameServer01] startup...
+[11-28 17:08:50]start initialization GameApp
+[11-28 17:08:50]initialization DB...
+[11-28 17:08:52]database init...ok
+[11-28 17:08:52]database init...ok
+[11-28 17:08:53]start to assign every Entity memory
+[11-28 17:08:53]initialization every form...
+[11-28 17:08:57]initialization Lua Script...
+[11-28 17:09:00]initialization map list...
+[11-28 17:09:03]map magicsea init resource succeed
+[11-28 17:09:03]map [magicsea] ok!
+[11-28 17:09:04]map jialebi init resource succeed
+[11-28 17:09:04]map [jialebi] ok!
+[11-28 17:09:04]执行怪物摆放 script/monster/mingshapaota.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/monv480.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/shalanyuchang.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/mingshayuchang.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/shalanlinqu.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/shaxie.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/shalanyunshi.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/slcdaoguai.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/slcduizhang.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[11-28 17:09:04]执行怪物摆放 script/monster/juxieKiper.lua  
+[11-28 17:09:04]magicsea脚本放怪结束! 
+[11-28 17:09:04]GameApp initialization finish!
+[11-28 17:09:04]start init ServerApp
+[11-28 17:09:04]ServerApp init over
+[11-28 17:09:04]startup Gate server connect thread...
+[11-28 17:09:04]startup information server connect thread...
+[11-28 17:09:04]startup game thread...
+[11-28 17:09:04]Game Thread ID = 408
+[11-28 17:09:04]start create Win32 control dialog box
+[12-02 03:46:35]Load Game Config File(Text Mode) [GameServer.cfg]
+[12-02 03:46:35]Define __CATCH
+[12-02 03:46:35]game map server [GameServer01] startup...
+[12-02 03:46:35]start initialization GameApp
+[12-02 03:46:35]initialization DB...
+[12-02 03:46:36]database init...ok
+[12-02 03:46:36]database init...ok
+[12-02 03:46:37]start to assign every Entity memory
+[12-02 03:46:37]initialization every form...
+[12-02 03:46:41]initialization Lua Script...
+[12-02 03:46:45]initialization map list...
+[12-02 03:46:50]map magicsea init resource succeed
+[12-02 03:46:50]map [magicsea] ok!
+[12-02 03:46:52]map jialebi init resource succeed
+[12-02 03:46:52]map [jialebi] ok!
+[12-02 03:46:52]执行怪物摆放 script/monster/mingshapaota.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/monv480.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/shalanyuchang.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/mingshayuchang.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/shalanlinqu.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/shaxie.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/shalanyunshi.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/slcdaoguai.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/slcduizhang.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[12-02 03:46:52]执行怪物摆放 script/monster/juxieKiper.lua  
+[12-02 03:46:52]magicsea脚本放怪结束! 
+[12-02 03:46:52]GameApp initialization finish!
+[12-02 03:46:52]start init ServerApp
+[12-02 03:46:52]ServerApp init over
+[12-02 03:46:52]startup Gate server connect thread...
+[12-02 03:46:52]startup information server connect thread...
+[12-02 03:46:52]startup game thread...
+[12-02 03:46:52]Game Thread ID = 2792
+[12-02 03:46:53]start create Win32 control dialog box
+[12-02 08:06:39]Load Game Config File(Text Mode) [GameServer.cfg]
+[12-02 08:06:39]Define __CATCH
+[12-02 08:06:39]game map server [GameServer01] startup...
+[12-02 08:06:39]start initialization GameApp
+[12-02 08:06:39]initialization DB...
+[12-02 08:06:41]database init...ok
+[12-02 08:06:41]database init...ok
+[12-02 08:06:42]start to assign every Entity memory
+[12-02 08:06:42]initialization every form...
+[12-02 08:06:46]initialization Lua Script...
+[12-02 08:06:49]initialization map list...
+[12-02 08:06:54]map magicsea init resource succeed
+[12-02 08:06:54]map [magicsea] ok!
+[12-02 08:06:56]map jialebi init resource succeed
+[12-02 08:06:56]map [jialebi] ok!
+[12-02 08:06:56]执行怪物摆放 script/monster/mingshapaota.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/monv480.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/shalanyuchang.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/mingshayuchang.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/shalanlinqu.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/shaxie.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/shalanyunshi.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/slcdaoguai.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/slcduizhang.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[12-02 08:06:56]执行怪物摆放 script/monster/juxieKiper.lua  
+[12-02 08:06:56]magicsea脚本放怪结束! 
+[12-02 08:06:56]GameApp initialization finish!
+[12-02 08:06:56]start init ServerApp
+[12-02 08:06:56]ServerApp init over
+[12-02 08:06:56]startup Gate server connect thread...
+[12-02 08:06:56]startup information server connect thread...
+[12-02 08:06:56]startup game thread...
+[12-02 08:06:56]Game Thread ID = 3072
+[12-02 08:06:56]start create Win32 control dialog box
+[12-02 15:43:38]Load Game Config File(Text Mode) [GameServer.cfg]
+[12-02 15:43:38]Define __CATCH
+[12-02 15:43:38]game map server [GameServer01] startup...
+[12-02 15:43:38]start initialization GameApp
+[12-02 15:43:38]initialization DB...
+[12-02 15:43:40]database init...ok
+[12-02 15:43:40]database init...ok
+[12-02 15:43:41]start to assign every Entity memory
+[12-02 15:43:41]initialization every form...
+[12-02 15:43:45]initialization Lua Script...
+[12-02 15:43:48]initialization map list...
+[12-02 15:43:53]map magicsea init resource succeed
+[12-02 15:43:53]map [magicsea] ok!
+[12-02 15:43:55]map jialebi init resource succeed
+[12-02 15:43:55]map [jialebi] ok!
+[12-02 15:43:55]执行怪物摆放 script/monster/mingshapaota.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/monv480.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/shalanyuchang.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/mingshayuchang.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/shalanlinqu.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/shaxie.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/shalanyunshi.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/slcdaoguai.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/slcduizhang.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[12-02 15:43:55]执行怪物摆放 script/monster/juxieKiper.lua  
+[12-02 15:43:55]magicsea脚本放怪结束! 
+[12-02 15:43:55]GameApp initialization finish!
+[12-02 15:43:55]start init ServerApp
+[12-02 15:43:55]ServerApp init over
+[12-02 15:43:55]startup Gate server connect thread...
+[12-02 15:43:55]startup information server connect thread...
+[12-02 15:43:55]startup game thread...
+[12-02 15:43:55]Game Thread ID = 1880
+[12-02 15:43:55]start create Win32 control dialog box
+[12-10 14:50:05]Load Game Config File(Text Mode) [GameServer.cfg]
+[12-10 14:50:05]Define __CATCH
+[12-10 14:50:05]game map server [GameServer01] startup...
+[12-10 14:50:05]start initialization GameApp
+[12-10 14:50:05]initialization DB...
+[12-10 14:50:07]database init...ok
+[12-10 14:50:07]database init...ok
+[12-10 14:50:08]start to assign every Entity memory
+[12-10 14:50:08]initialization every form...
+[06-06 16:02:52]Load Game Config File(Text Mode) [GameServer.cfg]
+[06-06 16:02:52]Define __CATCH
+[06-06 16:02:52]game map server [GameServer01] startup...
+[06-06 16:02:52]start initialization GameApp
+[06-06 16:02:52]initialization DB...
+[06-06 16:02:53]database init...ok
+[06-06 16:02:53]database init...ok
+[06-06 16:02:53]start to assign every Entity memory
+[06-06 16:02:53]initialization every form...
+[06-06 16:02:55]initialization Lua Script...
+[06-06 16:02:55]initialization map list...
+[06-06 16:02:56]map magicsea init resource succeed
+[06-06 16:02:56]map [magicsea] ok!
+[06-06 16:02:56]map jialebi init resource succeed
+[06-06 16:02:56]map [jialebi] ok!
+[06-06 16:02:56]执行怪物摆放 script/monster/mingshapaota.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/monv480.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/shalanyuchang.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/mingshayuchang.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/shalanlinqu.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/shalanmingshaxian.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/shaxie.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/shalanyunshi.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/slcdaoguai.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/slcduizhang.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/WriteSheepKiper.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/JinNiuKiper.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/ShuangZiKiper.lua  
+[06-06 16:02:56]执行怪物摆放 script/monster/juxieKiper.lua  
+[06-06 16:02:56]magicsea脚本放怪结束! 
+[06-06 16:02:56]GameApp initialization finish!
+[06-06 16:02:56]start init ServerApp
+[06-06 16:02:56]ServerApp init over
+[06-06 16:02:56]startup Gate server connect thread...
+[06-06 16:02:56]startup information server connect thread...
+[06-06 16:02:56]startup game thread...
+[06-06 16:02:56]Game Thread ID = 4720
+[06-06 16:02:56]start create Win32 control dialog box

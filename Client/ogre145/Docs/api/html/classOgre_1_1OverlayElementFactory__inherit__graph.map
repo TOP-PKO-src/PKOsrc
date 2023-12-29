@@ -1,0 +1,4 @@
+base referer
+rect $classOgre_1_1BorderPanelOverlayElementFactory.html 5,80 280,107
+rect $classOgre_1_1PanelOverlayElementFactory.html 304,80 539,107
+rect $classOgre_1_1TextAreaOverlayElementFactory.html 563,80 816,107

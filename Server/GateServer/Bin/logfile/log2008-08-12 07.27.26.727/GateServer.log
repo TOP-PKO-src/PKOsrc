@@ -1,0 +1,15 @@
+[08-12 07:05:08]日志流被成功打开.
+[08-12 07:05:53]GameServer= [127.0.0.1] come,Socket num= 1
+[08-12 07:05:53]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-12 07:05:53]not found [garner] map!!!
+[08-12 07:05:53]add GameServer [GameServer01] ok
+[08-12 07:05:53]add [GameServer01]  [garner] map ok
+[08-12 07:14:53]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-12 07:14:53] delete [GameServer01]
+[08-12 07:14:53]delete map [garner]
+[08-12 07:14:53]becaulse GameServer trouble, notice 0 user offline
+[08-12 07:15:53]GameServer= [127.0.0.1] come,Socket num= 1
+[08-12 07:15:53]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-12 07:15:53]not found [garner] map!!!
+[08-12 07:15:53]add GameServer [GameServer01] ok
+[08-12 07:15:53]add [GameServer01]  [garner] map ok

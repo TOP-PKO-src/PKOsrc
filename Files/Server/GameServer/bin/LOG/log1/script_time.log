@@ -1,0 +1,200 @@
+[09-28 09:28:19]script[map_run_garner]cost time too long time = 27
+[09-28 09:31:05]script[map_run_garner]cost time too long time = 49
+[09-28 09:32:29]script[Ship_ExAttrCheck]cost time too long time = 47
+[09-28 09:33:32]script[Skill_Melee_End]cost time too long time = 41
+[09-28 09:33:34]the flow of assign experience when bugbear dead, calculate time too long, time = 382, exp = 207, upgrade = 5, item = 169!
+[09-28 09:33:38]script[check_item_valid]cost time too long time = 26
+[09-28 09:34:29]script[cha_timer]cost time too long time = 75
+[09-28 09:43:31]script[cha_timer]cost time too long time = 60
+[09-28 09:43:35]script[cha_timer]cost time too long time = 31
+[09-28 09:44:37]script[cha_timer]cost time too long time = 46
+[09-28 09:44:48]script[Creat_Item]cost time too long time = 42
+[09-28 09:44:48]script[ItemUse_XRBOX]cost time too long time = 172
+[09-28 09:44:48]script[AttrRecheck]cost time too long time = 44
+[09-28 09:44:48]script[Ship_ExAttrCheck]cost time too long time = 84
+[09-28 09:45:38]script[Skill_Melee_End]cost time too long time = 24
+[09-28 09:45:38]the flow of assign experience when bugbear dead, calculate time too long, time = 25, exp = 12, upgrade = 0, item = 13!
+[09-28 09:45:48]script[cha_timer]cost time too long time = 36
+[09-28 09:46:31]script[cha_timer]cost time too long time = 47
+[09-10 09:49:53]script[AttrRecheck]cost time too long time = 26
+[09-10 09:50:28]script[cha_timer]cost time too long time = 25
+[09-10 09:50:37]script[cha_timer]cost time too long time = 27
+[09-10 09:50:37]script[cha_timer]cost time too long time = 21
+[09-10 09:52:23]script[Ship_ExAttrCheck]cost time too long time = 61
+[09-10 10:00:46]script[ItemUse_XRBOX]cost time too long time = 31
+[09-10 10:06:01]script[cha_timer]cost time too long time = 22
+[09-28 15:43:38]script[map_run_garner]cost time too long time = 50
+[09-28 15:52:48]script[CreatCha]cost time too long time = 22
+[09-28 16:06:37]script[Skill_Melee_End]cost time too long time = 24
+[09-28 16:06:43]the flow of assign experience when bugbear dead, calculate time too long, time = 75, exp = 64, upgrade = 0, item = 10!
+[09-28 16:06:57]script[Shengji_Shuxingchengzhang]cost time too long time = 33
+[09-28 16:06:57]the flow of assign experience when bugbear dead, calculate time too long, time = 34, exp = 33, upgrade = 0, item = 0!
+[09-28 17:11:04]script[cha_timer]cost time too long time = 30
+[09-28 17:20:02]script[cha_timer]cost time too long time = 33
+[09-28 17:26:42]script[cha_timer]cost time too long time = 21
+[09-28 17:27:04]script[cha_timer]cost time too long time = 25
+[09-28 17:29:37]script[cha_timer]cost time too long time = 25
+[09-28 17:55:23]the flow of assign experience when bugbear dead, calculate time too long, time = 15, exp = 0, upgrade = 0, item = 14!
+[10-08 17:36:10]script[map_run_garner]cost time too long time = 66
+[10-08 17:37:03]script[map_run_garner]cost time too long time = 21
+[10-08 17:38:02]script[map_run_garner]cost time too long time = 27
+[10-08 17:43:08]script[AttrRecheck]cost time too long time = 21
+[10-08 17:52:30]script[map_run_garner]cost time too long time = 44
+[10-08 17:54:42]when player dead transfer experience assign script,account time too long! time = 79
+[10-13 11:08:50]script[map_run_garner]cost time too long time = 58
+[10-13 11:13:02]script[map_run_garner]cost time too long time = 29
+[10-13 13:21:27]script[check_item_valid]cost time too long time = 106
+[10-13 13:21:28]script[check_item_final_data]cost time too long time = 222
+[10-13 13:21:30]script[AttrRecheck]cost time too long time = 441
+[10-13 13:21:34]script[after_enter_garner]cost time too long time = 31
+[10-13 13:21:38]script[cha_timer]cost time too long time = 171
+[10-13 13:21:38]script[cha_timer]cost time too long time = 34
+[10-13 13:21:39]script[cha_timer]cost time too long time = 25
+[10-13 13:21:41]script[cha_timer]cost time too long time = 181
+[10-13 13:21:42]script[cha_timer]cost time too long time = 23
+[10-13 13:21:42]script[cha_timer]cost time too long time = 24
+[10-13 13:21:42]script[cha_timer]cost time too long time = 24
+[10-13 13:21:43]script[cha_timer]cost time too long time = 35
+[10-13 13:21:43]script[cha_timer]cost time too long time = 140
+[10-13 13:21:43]script[cha_timer]cost time too long time = 22
+[10-13 13:21:44]script[cha_timer]cost time too long time = 25
+[10-13 13:21:48]script[cha_timer]cost time too long time = 32
+[10-13 13:21:58]script[cha_timer]cost time too long time = 28
+[10-13 13:22:09]script[before_leave_garner]cost time too long time = 24
+[10-13 13:22:45]script[cha_timer]cost time too long time = 94
+[10-13 21:54:57]the flow of assign experience when bugbear dead, calculate time too long, time = 26, exp = 25, upgrade = 0, item = 0!
+[10-13 22:20:11]script[cha_timer]cost time too long time = 22
+[10-13 22:39:36]script[cha_timer]cost time too long time = 22
+[10-13 22:39:36]script[cha_timer]cost time too long time = 34
+[10-13 22:43:39]script[cha_timer]cost time too long time = 21
+[10-13 22:43:58]script[cha_timer]cost time too long time = 36
+[10-13 22:44:45]script[cha_timer]cost time too long time = 41
+[10-13 22:44:45]script[cha_timer]cost time too long time = 54
+[10-13 22:45:42]the flow of assign experience when bugbear dead, calculate time too long, time = 14, exp = 14, upgrade = 0, item = 0!
+[10-13 23:24:52]script[is_friend]cost time too long time = 22
+[10-13 23:31:09]when player dead transfer experience assign script,account time too long! time = 71
+[10-14 21:40:36]script[cha_timer]cost time too long time = 21
+[10-14 21:45:12]script[cha_timer]cost time too long time = 22
+[10-14 21:57:04]script[map_run_magicsea]cost time too long time = 35
+[10-14 21:59:16]script[Skill_Melee_End]cost time too long time = 34
+[10-14 21:59:43]the flow of assign experience when bugbear dead, calculate time too long, time = 218, exp = 189, upgrade = 0, item = 29!
+[10-14 22:00:02]script[Skill_Melee_End]cost time too long time = 32
+[10-14 22:00:08]the flow of assign experience when bugbear dead, calculate time too long, time = 127, exp = 78, upgrade = 0, item = 48!
+[10-14 22:00:34]script[cha_timer]cost time too long time = 28
+[10-14 22:00:39]the flow of assign experience when bugbear dead, calculate time too long, time = 127, exp = 112, upgrade = 0, item = 14!
+[10-14 22:00:50]the flow of assign experience when bugbear dead, calculate time too long, time = 109, exp = 107, upgrade = 0, item = 1!
+[10-14 22:01:05]script[Shengji_Shuxingchengzhang]cost time too long time = 66
+[10-14 22:01:05]the flow of assign experience when bugbear dead, calculate time too long, time = 217, exp = 215, upgrade = 0, item = 1!
+[10-14 22:01:16]the flow of assign experience when bugbear dead, calculate time too long, time = 116, exp = 116, upgrade = 0, item = 0!
+[10-14 22:01:33]script [Check_Baoliao]cost time too long, time = 26
+[10-14 22:01:33]the flow of assign experience when bugbear dead, calculate time too long, time = 231, exp = 162, upgrade = 0, item = 68!
+[10-14 22:01:46]the flow of assign experience when bugbear dead, calculate time too long, time = 183, exp = 182, upgrade = 0, item = 0!
+[10-14 22:02:04]the flow of assign experience when bugbear dead, calculate time too long, time = 106, exp = 85, upgrade = 0, item = 21!
+[10-14 22:02:13]the flow of assign experience when bugbear dead, calculate time too long, time = 188, exp = 161, upgrade = 0, item = 26!
+[10-14 22:02:52]the flow of assign experience when bugbear dead, calculate time too long, time = 126, exp = 122, upgrade = 0, item = 3!
+[10-14 22:03:12]the flow of assign experience when bugbear dead, calculate time too long, time = 31, exp = 27, upgrade = 0, item = 3!
+[10-14 22:03:48]the flow of assign experience when bugbear dead, calculate time too long, time = 223, exp = 223, upgrade = 0, item = 0!
+[10-14 22:15:56]script[is_friend]cost time too long time = 29
+[10-14 22:22:41]script[cha_timer]cost time too long time = 30
+[10-14 22:58:23]script[cha_timer]cost time too long time = 34
+[10-15 22:56:45]the flow of assign experience when bugbear dead, calculate time too long, time = 97, exp = 50, upgrade = 0, item = 46!
+[10-15 22:57:11]the flow of assign experience when bugbear dead, calculate time too long, time = 50, exp = 49, upgrade = 0, item = 0!
+[10-15 22:57:27]the flow of assign experience when bugbear dead, calculate time too long, time = 41, exp = 41, upgrade = 0, item = 0!
+[10-15 23:18:20]the flow of assign experience when bugbear dead, calculate time too long, time = 96, exp = 96, upgrade = 0, item = 0!
+[10-15 23:20:18]script[check_item_final_data]cost time too long time = 28
+[10-15 23:20:18]script[check_item_final_data]cost time too long time = 48
+[10-15 23:20:18]script[check_item_final_data]cost time too long time = 43
+[10-15 23:20:19]script[check_item_final_data]cost time too long time = 61
+[10-15 23:20:19]script[check_item_final_data]cost time too long time = 54
+[10-15 23:20:19]script[check_item_final_data]cost time too long time = 61
+[10-15 23:21:13]the flow of assign experience when bugbear dead, calculate time too long, time = 66, exp = 66, upgrade = 0, item = 0!
+[10-15 23:27:38]the flow of assign experience when bugbear dead, calculate time too long, time = 68, exp = 55, upgrade = 0, item = 12!
+[10-15 23:28:05]the flow of assign experience when bugbear dead, calculate time too long, time = 40, exp = 39, upgrade = 0, item = 0!
+[10-15 23:33:29]script[Creat_Item]cost time too long time = 31
+[10-15 23:48:23]the flow of assign experience when bugbear dead, calculate time too long, time = 32, exp = 32, upgrade = 0, item = 0!
+[10-15 23:49:27]the flow of assign experience when bugbear dead, calculate time too long, time = 51, exp = 38, upgrade = 0, item = 13!
+[10-17 18:52:30]the flow of assign experience when bugbear dead, calculate time too long, time = 25, exp = 25, upgrade = 0, item = 0!
+[10-18 23:57:27]the flow of assign experience when bugbear dead, calculate time too long, time = 81, exp = 80, upgrade = 0, item = 0!
+[11-13 17:29:41]the flow of assign experience when bugbear dead, calculate time too long, time = 53, exp = 53, upgrade = 0, item = 0!
+[11-14 03:36:16]script[cha_timer]cost time too long time = 26
+[11-17 20:19:20]the flow of assign experience when bugbear dead, calculate time too long, time = 19, exp = 18, upgrade = 0, item = 0!
+[11-28 05:53:00]script[check_item_valid]cost time too long time = 76
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 299
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 27
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 21
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 89
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 42
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 21
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 22
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 24
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 46
+[11-28 05:53:01]script[check_item_final_data]cost time too long time = 49
+[11-28 05:53:02]script[AttrRecheck]cost time too long time = 713
+[11-28 05:53:03]script[after_enter_magicsea]cost time too long time = 42
+[11-28 05:53:05]script[cha_timer]cost time too long time = 100
+[11-28 05:53:05]script[cha_timer]cost time too long time = 23
+[11-28 05:53:07]script[map_copy_run_magicsea]cost time too long time = 42
+[11-28 05:53:07]script[cha_timer]cost time too long time = 40
+[11-28 05:53:08]script[cha_timer]cost time too long time = 22
+[11-28 05:53:09]script[cha_timer]cost time too long time = 22
+[11-28 05:53:23]script[before_leave_magicsea]cost time too long time = 85
+[11-28 05:54:09]script[is_teammate]cost time too long time = 46
+[11-28 05:58:57]script[cha_timer]cost time too long time = 23
+[11-28 06:10:39]script[cha_timer]cost time too long time = 24
+[11-28 06:13:24]script[cha_timer]cost time too long time = 33
+[11-28 06:13:55]script[cha_timer]cost time too long time = 70
+[11-28 06:16:29]script[cha_timer]cost time too long time = 25
+[11-28 06:16:49]script[cha_timer]cost time too long time = 41
+[11-28 06:18:43]script[cha_timer]cost time too long time = 45
+[11-28 06:18:44]script[cha_timer]cost time too long time = 33
+[11-28 06:23:19]script[cha_timer]cost time too long time = 35
+[11-28 06:25:04]script[cha_timer]cost time too long time = 22
+[11-28 06:25:57]script[cha_timer]cost time too long time = 43
+[11-28 06:25:59]script[cha_timer]cost time too long time = 32
+[11-28 06:34:30]script[cha_timer]cost time too long time = 37
+[11-28 06:34:34]script[cha_timer]cost time too long time = 24
+[11-28 06:37:39]script[cha_timer]cost time too long time = 33
+[11-28 06:52:36]script[cha_timer]cost time too long time = 25
+[11-28 06:53:14]script[check_item_final_data]cost time too long time = 35
+[11-28 06:53:14]script[check_item_final_data]cost time too long time = 46
+[11-28 06:53:14]script[check_item_final_data]cost time too long time = 29
+[11-28 06:53:14]script[check_item_final_data]cost time too long time = 44
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 37
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 46
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 22
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 30
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 45
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 36
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 37
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 46
+[11-28 06:53:15]script[check_item_final_data]cost time too long time = 28
+[11-28 06:53:25]script[is_teammate]cost time too long time = 23
+[11-28 06:53:26]script[Skill_Melee_End]cost time too long time = 265
+[11-28 06:53:30]the flow of assign experience when bugbear dead, calculate time too long, time = 254, exp = 184, upgrade = 0, item = 66!
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 23
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 37
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 61
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 33
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 32
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 57
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 64
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 25
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 37
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 38
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 21
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 43
+[11-28 07:01:08]script[check_item_final_data]cost time too long time = 56
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 55
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 34
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 57
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 29
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 39
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 33
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 34
+[11-28 07:38:49]script[check_item_final_data]cost time too long time = 21
+[11-28 07:38:50]script[check_item_final_data]cost time too long time = 27
+[11-28 11:10:32]script[EightyLv_ExpAdd]cost time too long time = 25
+[11-28 11:10:52]script[EightyLv_ExpAdd]cost time too long time = 56
+[11-28 15:13:56]the flow of assign experience when bugbear dead, calculate time too long, time = 27, exp = 27, upgrade = 0, item = 0!
+[12-02 03:56:43]the flow of assign experience when bugbear dead, calculate time too long, time = 22, exp = 22, upgrade = 0, item = 0!
+[12-02 15:43:55]script[map_run_magicsea]cost time too long time = 27

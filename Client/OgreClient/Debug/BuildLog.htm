@@ -1,0 +1,143 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<pre>
+<table width=100% bgcolor=#CFCFE5><tr> <td> <font face=arial size=+3>
+Build Log
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+<h3>------- Build started: Project: client, Configuration: Debug|Win32 -------
+</h3>
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Command Lines
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Creating temporary file "c:\KopUnicode\Client\OgreClient\Debug\RSP000001.rsp" with contents
+[
+/Od /I "C:\Documents and Settings\Administrator\桌面\game\ogre145\OgreMain\include" /I "C:\Documents and Settings\Administrator\桌面\game\ogre145\Dependencies\include" /I "C:\Documents and Settings\Administrator\桌面\game\ogre145\Dependencies\include\CEGUI" /I "C:\KopUnicode\Client\CaLua25\include" /I "C:\KopUnicode\Common\Common\include" /I "C:\KopUnicode\Common\Server\sdk\include" /I "C:\KopUnicode\Common\Util\include" /I "C:\KopUnicode\Common\ICUHelper\inc" /I "C:\KopUnicode\Common\icu\include" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Gm /EHsc /RTC1 /MLd /Yu"stdafx.h" /Fp"Debug/client.pch" /Fo"Debug/" /Fd"Debug/vc70.pdb" /W3 /c /Wp64 /ZI /TP
+.\STStateObj.cpp
+.\ProCirculateCS.cpp
+.\ProCirculateCC.cpp
+.\PacketCmd_SC.cpp
+.\PacketCmd_CS.cpp
+.\NetProtocol.cpp
+.\NetPkGuild.cpp
+.\NetIF.cpp
+.\NetGuild.cpp
+.\HMManage.cpp
+.\Connection.cpp
+.\Actor.cpp
+]
+Creating command line "cl.exe @c:\KopUnicode\Client\OgreClient\Debug\RSP000001.rsp /nologo"
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Output Window
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Compiling...
+STStateObj.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(30) : error C2065: 'g_pGameApp' : undeclared identifier
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(30) : error C2227: left of '->GetCurScene' must point to class/struct/union
+        type is ''unknown-type''
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(30) : error C2227: left of '->GetMainCha' must point to class/struct/union
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(33) : error C2039: 'getName' : is not a member of 'GameCharacter'
+        c:\KopUnicode\Client\OgreClient\GameCharacter.h(5) : see declaration of 'GameCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(54) : error C2039: 'IsMainCha' : is not a member of 'GameCharacter'
+        c:\KopUnicode\Client\OgreClient\GameCharacter.h(5) : see declaration of 'GameCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(57) : error C2039: 'getName' : is not a member of 'GameCharacter'
+        c:\KopUnicode\Client\OgreClient\GameCharacter.h(5) : see declaration of 'GameCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(80) : error C2039: 'IsMainCha' : is not a member of 'GameCharacter'
+        c:\KopUnicode\Client\OgreClient\GameCharacter.h(5) : see declaration of 'GameCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(83) : error C2039: 'getName' : is not a member of 'GameCharacter'
+        c:\KopUnicode\Client\OgreClient\GameCharacter.h(5) : see declaration of 'GameCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(134) : error C2027: use of undefined type 'CCharacter'
+        c:\KopUnicode\Client\OgreClient\HMSynchroObj.h(5) : see declaration of 'CCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(134) : error C2227: left of '->GetCurX' must point to class/struct/union
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(134) : error C2027: use of undefined type 'CCharacter'
+        c:\KopUnicode\Client\OgreClient\HMSynchroObj.h(5) : see declaration of 'CCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(134) : error C2227: left of '->GetCurY' must point to class/struct/union
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(136) : error C2027: use of undefined type 'CCharacter'
+        c:\KopUnicode\Client\OgreClient\HMSynchroObj.h(5) : see declaration of 'CCharacter'
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(136) : error C2227: left of '->MoveTo' must point to class/struct/union
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(163) : error C2039: 'GetDistance' : is not a member of 'operator``global namespace'''
+c:\KopUnicode\Client\OgreClient\STStateObj.cpp(163) : error C3861: 'GetDistance': identifier not found, even with argument-dependent lookup
+HMManage.cpp
+c:\KopUnicode\Client\OgreClient\HMManage.cpp(7) : fatal error C1083: Cannot open include file: 'Character.h': No such file or directory
+Actor.cpp
+c:\KopUnicode\Client\OgreClient\Actor.h(217) : error C3861: 'SAFE_DELETE': identifier not found, even with argument-dependent lookup
+c:\KopUnicode\Client\OgreClient\Actor.h(225) : error C3861: 'SAFE_DELETE': identifier not found, even with argument-dependent lookup
+c:\KopUnicode\Client\OgreClient\Actor.cpp(4) : fatal error C1083: Cannot open include file: 'FindPath.h': No such file or directory
+Generating Code...
+Compiling...
+ProCirculateCS.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+Generating Code...
+Compiling...
+ProCirculateCC.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Generating Code...
+Compiling...
+PacketCmd_SC.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+PacketCmd_CS.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+NetProtocol.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+NetPkGuild.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+NetIF.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(46) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+c:\KopUnicode\Common\Server\sdk\include\Point.h(60) : error C2872: 'Rect' : ambiguous symbol
+        could be 'c:\KopUnicode\Common\Server\sdk\include\Point.h(36) : Rect'
+        or       'c:\documents and settings\administrator\桌面\game\ogre145\ogremain\include\ogrecommon.h(338) : Ogre::Rect'
+NetGuild.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Connection.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Generating Code...
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Results
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+Build log was saved at "file://c:\KopUnicode\Client\OgreClient\Debug\BuildLog.htm"
+client - 32 error(s), 0 warning(s)</pre></table><table   width=100% height=20 bgcolor=#CFCFE5><tr><td><font face=arial size=+2>
+</font></table></body></html>

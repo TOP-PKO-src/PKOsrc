@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EffectEditor", "EffectEditer.vcproj", "{C2FFF408-0149-47D2-8D1E-B9D66DF6ECC3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/tool/EffectEditor2\u0022,\u0020UQFAAAAA
+		SccLocalPath0 = ..
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection0 = proj\\
+		SolutionUniqueID = {CF93D132-99A1-44A9-8624-2FD39B8A72CC}
+		SccProjectUniqueName1 = EffectEditer.vcproj
+		SccLocalPath1 = ..
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = proj\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C2FFF408-0149-47D2-8D1E-B9D66DF6ECC3}.Debug.ActiveCfg = Debug|Win32
+		{C2FFF408-0149-47D2-8D1E-B9D66DF6ECC3}.Debug.Build.0 = Debug|Win32
+		{C2FFF408-0149-47D2-8D1E-B9D66DF6ECC3}.Release.ActiveCfg = Release|Win32
+		{C2FFF408-0149-47D2-8D1E-B9D66DF6ECC3}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

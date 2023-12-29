@@ -1,0 +1,16 @@
+[10-16 20:55:04]Log stream open success.
+[10-16 20:55:55]GameServer= [127.0.0.1] come,Socket num= 1
+[10-16 20:55:55]recieve GameServer [GameServer01] map string [garner;] total [1]
+[10-16 20:55:55]not found [garner] map!!!
+[10-16 20:55:55]add GameServer [GameServer01] ok
+[10-16 20:55:55]add [GameServer01]  [garner] map ok
+[10-16 20:56:19]client: 127.0.0.1	come...Socket num: 1
+[10-16 20:56:19]client: 127.0.0.1	login ok.
+[10-16 20:56:30]not found [magicsea] map!!!
+[10-16 20:56:32]not found [magicsea] map!!!
+[10-16 20:56:34]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-16 20:56:46]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-16 20:56:46] delete [GameServer01]
+[10-16 20:56:46]delete map [garner]
+[10-16 20:56:46]becaulse GameServer trouble, notice 0 user offline
+[10-16 20:57:20]Log stream close success.

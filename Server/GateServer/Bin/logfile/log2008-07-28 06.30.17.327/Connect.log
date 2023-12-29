@@ -1,0 +1,6 @@
+[07-28 06:26:24]日志流被成功打开.
+[07-28 06:26:24]连接GroupServer开始…
+[07-28 06:26:24]connect GroupServer: 127.0.0.1,Socket num:1
+[07-28 06:26:24]登录GroupServer成功!
+[07-28 06:29:53]disconnection with GroupServer,Socket num: 0,reason =程序因为退出而ShutDown网络子系统。, reconnecting...
+[07-28 06:29:59]日志流被成功关闭.

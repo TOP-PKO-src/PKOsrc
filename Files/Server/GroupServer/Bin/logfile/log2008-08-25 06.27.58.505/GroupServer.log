@@ -1,0 +1,19 @@
+[08-25 05:23:24]Log stream open success.
+[08-25 05:27:58](127.0.0.1)£º[X1]login failed, error:1001
+[08-25 05:30:17](127.0.0.1)£º[X1]login failed, error:1001
+[08-25 05:30:19](127.0.0.1)£º[X1]login failed, error:1001
+[08-25 05:30:23](127.0.0.1)£º[X1]login failed, error:1001
+[08-25 05:30:37](127.0.0.1)£º[X1]login failed, error:1001
+[08-25 05:30:48](127.0.0.1)£º[test0001]login success, 	 nline/total:1/0
+[08-25 05:31:01](127.0.0.1)£º[test0001]select char[arena2]begin paly...£¬	 online/total£º1/0
+[08-25 05:31:02](127.0.0.1):[test0001] char [arena2]entry map server begin play...£¬	 online/total:1/1
+[08-25 05:40:35](127.0.0.1)£º[test0001]logout,	 online/total:0/0
+[08-25 05:46:59](127.0.0.1)£º[test0001]login success, 	 nline/total:1/0
+[08-25 05:47:05](127.0.0.1)£º[test0001]select char[hjj]begin paly...£¬	 online/total£º1/0
+[08-25 05:47:05](127.0.0.1):[test0001] char [hjj]entry map server begin play...£¬	 online/total:1/1
+[08-25 05:50:58](127.0.0.1)£º[test0001]logout,	 online/total:0/0
+[08-25 05:52:41](127.0.0.1)£º[test0001]login success, 	 nline/total:1/0
+[08-25 05:52:53](127.0.0.1)£º[test0001hjj1/0
+[08-25 05:55:49](127.0.0.1)£º[test0001]logout,	 online/total:0/0
+[08-25 05:56:36](127.0.0.1)£º[test0001]login success, 	 nline/total:1/0
+[08-25 05:56:59](127.0.0.1)£º[test0001arena21/0

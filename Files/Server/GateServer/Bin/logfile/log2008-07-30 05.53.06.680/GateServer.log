@@ -1,0 +1,28 @@
+[07-30 05:18:42]日志流被成功打开.
+[07-30 05:21:52]GameServer= [127.0.0.1] come,Socket num= 1
+[07-30 05:21:53]recieve GameServer [GameServer01] map string [garner;] total [1]
+[07-30 05:21:53]not found [garner] map!!!
+[07-30 05:21:53]add GameServer [GameServer01] ok
+[07-30 05:21:53]add [GameServer01]  [garner] map ok
+[07-30 05:22:06]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:22:06]client: 127.0.0.1	login error, error:1104
+[07-30 05:22:06]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-30 05:22:08]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:22:09]client: 127.0.0.1	login ok.
+[07-30 05:33:09]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-30 05:33:53]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:33:54]client: 127.0.0.1	login ok.
+[07-30 05:35:18]client: 127.0.0.1 gone...Socket num: 0 ,reason=KeepAlive失败。
+[07-30 05:42:17]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:42:17]client: 127.0.0.1	login ok.
+[07-30 05:51:21]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-30 05:52:39]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:52:39]client: 127.0.0.1	login error: GroupServer is disresponse!
+[07-30 05:52:39]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-30 05:52:42]client: 127.0.0.1	come...Socket num: 1
+[07-30 05:52:42]client: 127.0.0.1	login error: GroupServer is disresponse!
+[07-30 05:52:42]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-30 05:52:50]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[07-30 05:52:50] delete [GameServer01]
+[07-30 05:52:50]delete map [garner]
+[07-30 05:52:50]becaulse GameServer trouble, notice 0 user offline

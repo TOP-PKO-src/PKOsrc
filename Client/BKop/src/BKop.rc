@@ -1,0 +1,726 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\BKop.rc2""  // 非 Microsoft Visual C++ 编辑资源\r\n"
+    "#include ""afxres.rc""         // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\BKop.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU 
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "退出(&X)",                    ID_APP_EXIT
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "帮助主题(&H)",                ID_HELP_FINDER
+        MENUITEM SEPARATOR
+        MENUITEM "关于 BKop(&A)...",            ID_APP_ABOUT
+    END
+END
+
+IDR_MENU_PACKAGE MENU 
+BEGIN
+    POPUP "包裹"
+    BEGIN
+        MENUITEM "使用(&U)",                    ID_M_USE
+        MENUITEM "装备(&E)",                    ID_M_EQUIP
+        MENUITEM "丢弃(&D)",                    ID_M_DROP
+        MENUITEM SEPARATOR
+        MENUITEM "详细信息(&I)",                ID_M_INFO
+    END
+    POPUP "装备"
+    BEGIN
+        MENUITEM "卸下(&U)",                    ID_M_UNEQUIP
+        MENUITEM SEPARATOR
+        MENUITEM "详细信息(&I)",                ID_M_INFO
+    END
+    POPUP "道具"
+    BEGIN
+        MENUITEM "拾取(&P)",                    ID_M_PICKUP
+    END
+END
+
+IDR_MENU_TALK MENU 
+BEGIN
+    POPUP "私聊"
+    BEGIN
+        MENUITEM "清除信息(&C)",                ID_MENU_PRIVATE_CLEAR
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS 
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+    VK_F1,          ID_CONTEXT_HELP,        VIRTKEY, SHIFT, NOINVERT
+    VK_F1,          ID_HELP,                VIRTKEY, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 235, 55
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "关于 BKop"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "BKop Version 1.0",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2005",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,16,WS_GROUP
+END
+
+IDD_MAINVIEW DIALOGEX 0, 0, 386, 302
+STYLE DS_SETFONT | WS_CHILD
+FONT 9, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    CONTROL         "",IDC_RICHEDIT23,"RichEdit20A",ES_MULTILINE | 
+                    ES_NOHIDESEL | ES_READONLY | NOT WS_VISIBLE | WS_BORDER | 
+                    WS_VSCROLL | WS_HSCROLL,7,15,373,202
+    CONTROL         "",IDC_TAB1,"SysTabControl32",TCS_BOTTOM | NOT 
+                    WS_VISIBLE,7,216,187,14,WS_EX_TRANSPARENT
+    CONTROL         "信息锁定",IDC_CHECK_LOCK,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | NOT WS_VISIBLE | WS_TABSTOP,330,219,48,10
+    COMBOBOX        IDC_COMBO_MODE,249,218,46,74,CBS_DROPDOWNLIST | NOT 
+                    WS_VISIBLE | WS_VSCROLL
+    LTEXT           "显示模式：",IDC_STATIC,207,221,41,8,NOT WS_VISIBLE
+    PUSHBUTTON      "清屏",IDC_BUTTON_CLEAR,296,217,33,14,NOT WS_VISIBLE
+    GROUPBOX        "当前帐号控制（临时处理）",IDC_STATIC,24,236,337,52,
+                    BS_FLAT | NOT WS_VISIBLE
+    CONTROL         "重复登陆冲击帐号服务器",IDC_RADIO1,"Button",
+                    BS_AUTORADIOBUTTON | NOT WS_VISIBLE | WS_DISABLED | 
+                    WS_GROUP,47,261,131,10
+    CONTROL         "重复登陆冲击游戏服务器",IDC_RADIO2,"Button",
+                    BS_AUTORADIOBUTTON | NOT WS_VISIBLE | WS_DISABLED,47,274,
+                    131,10
+    CONTROL         "上线后随机走动",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON | 
+                    NOT WS_VISIBLE | WS_DISABLED,227,248,80,10
+    CONTROL         "上线后不做任何操作",IDC_RADIO4,"Button",
+                    BS_AUTORADIOBUTTON | NOT WS_VISIBLE | WS_DISABLED,227,
+                    274,91,10
+    CONTROL         "对所有帐号使用当前设置",IDC_CHECK_SET_THE_SAME,"Button",
+                    BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,248,236,
+                    102,10
+    CONTROL         "上线后随机瞬移",IDC_RADIO5,"Button",BS_AUTORADIOBUTTON | 
+                    NOT WS_VISIBLE | WS_DISABLED,227,261,85,10
+    CONTROL         "重复登陆冲击组服务器",IDC_RADIO6,"Button",
+                    BS_AUTORADIOBUTTON | NOT WS_VISIBLE | WS_DISABLED,47,248,
+                    131,10
+    CONTROL         "",IDC_STATIC_SHEET_RECT,"Static",SS_BLACKFRAME | NOT 
+                    WS_VISIBLE,0,0,385,302
+END
+
+IDD_DIALOG_DELETE DIALOGEX 0, 0, 210, 91
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "删除确认"
+FONT 8, "MS Shell Dlg", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "删除全部",IDC_BUTTON_TOTAL_COUNT,105,8,98,14
+    PUSHBUTTON      "删除列表选择的",IDC_BUTTON_SELECTED_COUNT,105,23,98,14
+    PUSHBUTTON      "删除列表勾选的",IDC_BUTTON_CHECK_COUNT,105,38,98,14
+    PUSHBUTTON      "取消",IDC_BUTTON7,105,68,98,14
+    PUSHBUTTON      "删除当前选择的",IDC_BUTTON_NOW_COUNT,105,53,98,14
+    LTEXT           "帐号总数：100",IDC_STATIC_TOTAL_COUNT,9,11,83,8
+    LTEXT           "当前帐号：",IDC_STATIC_NOW_COUNT,9,56,83,8
+    LTEXT           "帐号数目：100",IDC_STATIC_CHECK_COUNT,9,41,83,8
+    LTEXT           "帐号数目：100",IDC_STATIC_SELECTED_COUNT,9,26,83,8
+    LTEXT           "->",IDC_STATIC,94,11,9,8
+    LTEXT           "->",IDC_STATIC,94,41,9,8
+    LTEXT           "->",IDC_STATIC,94,26,9,8
+    LTEXT           "->",IDC_STATIC,94,56,9,8
+END
+
+IDD_DIALOG_ROLE DIALOGEX 0, 0, 153, 329
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+CAPTION "角色"
+FONT 8, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "名字：Arcol",IDC_STATIC_NAME,1,6,91,8
+    LTEXT           "等级：100",IDC_STATIC_LEVEL,92,6,61,8
+    GROUPBOX        "个人信息",IDC_STATIC,1,17,126,217
+    GROUPBOX        "地图信息",IDC_STATIC,1,238,126,49
+    LTEXT           "HP:",IDC_STATIC,8,28,13,8
+    CONTROL         "",IDC_PROGRESS_HP,"msctls_progress32",0x1,22,30,51,6
+    RTEXT           "10000/10000",IDC_STATIC_HP,77,29,45,8
+    LTEXT           "SP:",IDC_STATIC,8,40,13,8
+    CONTROL         "",IDC_PROGRESS_SP,"msctls_progress32",0x1,22,41,51,6
+    RTEXT           "10000/10000",IDC_STATIC_SP,77,41,45,8
+    LTEXT           "EXP:",IDC_STATIC,4,51,17,8
+    CONTROL         "",IDC_PROGRESS_EXP,"msctls_progress32",0x1,22,52,70,6
+    RTEXT           "100,000,000/1,000,000,000",IDC_STATIC_EXP,21,61,99,8
+    LTEXT           "力量(STR):100",IDC_STATIC_STR,3,190,52,8
+    LTEXT           "灵巧(DEX):100",IDC_STATIC_DEX,64,190,52,8
+    LTEXT           "敏捷(AGI):100",IDC_STATIC_AGI,3,200,52,8
+    LTEXT           "体质(VIT):100",IDC_STATIC_VIT,64,200,52,8
+    LTEXT           "精力(STA):100",IDC_STATIC_STA,3,210,52,8
+    LTEXT           "幸运(LUK):100",IDC_STATIC_LUK,64,210,52,8
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_STR,55,189,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_DEX,116,189,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_AGI,55,199,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_VIT,116,199,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_STA,55,209,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "+",IDC_BUTTON_ADD_LUK,116,209,9,10,NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    LTEXT           "剩余属性点:100",IDC_STATIC_ATTRIBUTE_POINT,3,222,57,8
+    LTEXT           "剩余技能点:100",IDC_STATIC_SKILL_POINT,67,222,57,8
+    RTEXT           "99.99%",IDC_STATIC_EXP_PERCENT,98,51,25,8
+    CONTROL         "",IDC_LIST_STATE,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,4,81,119,105
+    LTEXT           "Money:",IDC_STATIC_MONEY,4,72,119,8
+    LTEXT           "当前地图：未知",IDC_STATIC_MAP_NAME,15,254,108,8
+    LTEXT           "当前坐标：",IDC_STATIC_MAP_POSITION,15,269,108,8
+END
+
+IDD_DIALOG_LOGIN DIALOGEX 0, 0, 134, 286
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+CAPTION "登陆"
+FONT 8, "宋体", 400, 0, 0x86
+BEGIN
+    EDITTEXT        IDC_EDIT_ACCOUNT,48,22,69,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_PASSWORD,48,38,69,13,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    PUSHBUTTON      "添加(&A)",IDC_BUTTON_ADD,8,73,55,13
+    COMBOBOX        IDC_COMBO_ROLE,48,55,70,47,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    CONTROL         "",IDC_LIST_ACCOUNT,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_ALIGNLEFT | WS_BORDER | 
+                    WS_TABSTOP,5,88,121,122
+    PUSHBUTTON      "删除...(&D)",IDC_BUTTON_DELETE,66,73,55,13,WS_DISABLED
+    PUSHBUTTON      "保存列表(&S)",IDC_BUTTON_SAVE,11,214,54,13
+    PUSHBUTTON      "登陆",IDC_BUTTON_LOGIN,11,227,54,13
+    PUSHBUTTON      "读取列表(&L)",IDC_BUTTON_LOAD,65,214,54,13
+    LTEXT           "服务器：",IDC_STATIC,14,7,34,8
+    LTEXT           "用户名：",IDC_STATIC,14,23,33,8
+    LTEXT           "密码：",IDC_STATIC,22,41,25,8
+    LTEXT           "人物：",IDC_STATIC,22,57,25,8
+    PUSHBUTTON      "注销",IDC_BUTTON6,65,227,54,13
+    CONTROL         "断线后不重新连接",IDC_CHECK_DONT_RECONNECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,12,259,78,10
+    PUSHBUTTON      "读取自动跳转坐标列表...",IDC_BUTTON_LOAD_MOVE_TABLE,11,
+                    240,108,14,WS_DISABLED
+    CONTROL         "重复创建删除角色",IDC_CHECK_AUTO_CREATE_DEL,"Button",
+                    BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_DISABLED | 
+                    WS_TABSTOP,12,271,100,10
+    COMBOBOX        IDC_COMBO_SERVER,48,4,70,91,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_VIEW_ITEM DIALOGEX 0, 0, 133, 331
+STYLE DS_SETFONT | WS_CHILD | WS_SYSMENU
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "当前帐号：",IDC_STATIC,3,4,41,8
+    COMBOBOX        IDC_COMBO_SELECT_MAIN_PLAYER,44,2,86,110,
+                    CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "",IDC_STATIC_SHEET_RECT,"Static",SS_BLACKFRAME | 
+                    SS_NOTIFY | NOT WS_VISIBLE,0,20,133,307
+END
+
+IDD_DIALOG_SURROUND DIALOGEX 0, 0, 153, 329
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+CAPTION "环境"
+FONT 8, "宋体", 400, 0, 0x86
+BEGIN
+    LTEXT           "附近的玩家：",IDC_STATIC,4,3,81,8
+    LTEXT           "附近的怪物：",IDC_STATIC,4,102,81,8
+    LTEXT           "附近的道具：",IDC_STATIC,4,200,79,8
+    CONTROL         "",IDC_LIST_PLAYERS,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,3,13,123,84
+    CONTROL         "",IDC_LIST_MONSTER,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,3,111,123,84
+    CONTROL         "",IDC_LIST_ITEMS,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,3,211,123,84
+END
+
+IDD_DIALOG_NPC DIALOGEX 0, 0, 153, 329
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+CAPTION "NPC"
+FONT 8, "宋体", 400, 0, 0x86
+BEGIN
+    CONTROL         "",IDC_LIST_NPC,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,3,13,123,160
+    LTEXT           "附近的NPC：",IDC_STATIC,4,3,81,8
+END
+
+IDD_DIALOG_ITEMS DIALOGEX 0, 0, 153, 329
+STYLE DS_SETFONT | WS_CHILD | WS_CAPTION | WS_SYSMENU
+CAPTION "道具"
+FONT 8, "宋体", 400, 0, 0x86
+BEGIN
+    CONTROL         "",IDC_LIST_ITEMS,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,1,110,127,184
+    CONTROL         "",IDC_LIST_EQUIP,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,1,15,127,79
+    LTEXT           "穿着的装备:",IDC_STATIC,2,4,60,8
+    LTEXT           "包裹里的物品:",IDC_STATIC,2,99,67,8
+END
+
+IDD_DIALOG_SYSTEM DIALOGEX 0, 0, 381, 321
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "系统"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_RICHEDIT_SYSTEM,"RichEdit20A",ES_MULTILINE | 
+                    ES_NOHIDESEL | ES_READONLY | WS_BORDER | WS_VSCROLL | 
+                    WS_HSCROLL,4,8,373,289
+    CONTROL         "滚动锁定",IDC_CHECK_LOCK,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_TABSTOP,330,304,46,9
+    PUSHBUTTON      "清屏(&C)",IDC_BUTTON_CLEAR,252,302,57,13
+    CONTROL         "屏蔽系统信息(黄色)",IDC_CHECK_SYSTEM_FILTER,"Button",
+                    BS_AUTOCHECKBOX | WS_DISABLED | WS_TABSTOP,11,304,85,10
+    CONTROL         "屏蔽调试信息(蓝色)",IDC_CHECK_DEBUG_FILTER,"Button",
+                    BS_AUTOCHECKBOX | WS_DISABLED | WS_TABSTOP,101,304,85,10
+    PUSHBUTTON      "复制所有(&A)",IDC_BUTTON_COPY,190,302,57,13
+END
+
+IDD_DIALOG_TALK DIALOGEX 0, 0, 381, 321
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "对话"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    GROUPBOX        "接收信息:",IDC_STATIC,3,5,373,260
+    GROUPBOX        "发送信息:",IDC_STATIC,3,272,373,43
+    COMBOBOX        IDC_COMBO_CHANNEL,58,282,51,30,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "选择频道:",IDC_STATIC,17,284,39,8
+    COMBOBOX        IDC_COMBO_TARGET,268,282,82,30,CBS_DROPDOWN | 
+                    CBS_AUTOHSCROLL | CBS_SORT | WS_DISABLED | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "目标:",IDC_STATIC,242,284,23,8
+    COMBOBOX        IDC_COMBO_TEXT,58,298,237,30,CBS_DROPDOWN | 
+                    CBS_AUTOHSCROLL | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "发送内容:",IDC_STATIC,17,300,39,8
+    PUSHBUTTON      "发送(&S)",IDC_BUTTON_SEND,313,297,50,14
+    CONTROL         "",IDC_STATIC_SHEET_RECT,"Static",SS_BLACKFRAME | NOT 
+                    WS_VISIBLE,7,18,363,230
+    COMBOBOX        IDC_COMBO_COMMAND,146,282,76,30,CBS_DROPDOWNLIST | 
+                    CBS_SORT | WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "操作:",IDC_STATIC,121,284,20,8
+    PUSHBUTTON      "...",IDC_BUTTON_NAME_LIST,350,282,13,13,WS_DISABLED
+    PUSHBUTTON      "...",IDC_BUTTON_AUTO_PUBLISH_MGR,296,298,13,13
+END
+
+IDD_DIALOG_MAP DIALOGEX 0, 0, 381, 321
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "地图"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+IDD_DIALOG_SCRIPT DIALOGEX 0, 0, 381, 321
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "脚本"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+IDD_DIALOG_SETUP DIALOGEX 0, 0, 381, 321
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "设置"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+IDD_DIALOG_TOTAL_TALK_SESSION DIALOGEX 0, 0, 358, 225
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_CHILD | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "全部"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_RICHEDIT_TALK,"RichEdit20A",ES_MULTILINE | 
+                    ES_NOHIDESEL | ES_READONLY | WS_BORDER | WS_VSCROLL | 
+                    WS_HSCROLL,0,1,357,223
+END
+
+IDD_DIALOG_PRIVATE_TALK_SESSION DIALOGEX 0, 0, 358, 225
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "私聊"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_RICHEDIT_TALK,"RichEdit20A",ES_MULTILINE | 
+                    ES_NOHIDESEL | ES_READONLY | WS_BORDER | WS_VSCROLL | 
+                    WS_HSCROLL,0,0,286,144
+    LISTBOX         IDC_LIST_PLAYER,286,15,71,105,LBS_OWNERDRAWFIXED | 
+                    LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_HSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "接收总条数: 0",IDC_STATIC_IN,290,122,67,8
+    LTEXT           "发送总条数: 0",IDC_STATIC_OUT,290,133,67,8
+    LTEXT           "玩家列表(收/发)",IDC_STATIC,290,4,63,8
+    PUSHBUTTON      "清空所有",IDC_BUTTON_CLEAR,288,143,65,14,NOT WS_VISIBLE
+    GROUPBOX        "全部",IDC_STATIC,1,146,356,78,WS_TABSTOP
+    CONTROL         "",IDC_RICHEDIT_TOTAL_TALK,"RichEdit20A",ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_NOHIDESEL | 
+                    ES_READONLY | WS_BORDER | WS_VSCROLL | WS_HSCROLL,4,155,
+                    349,65
+END
+
+IDD_DIALOG_NORMAL_TALK_SESSION DIALOGEX 0, 0, 358, 225
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "对话"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_RICHEDIT_TALK,"RichEdit20A",ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_NOHIDESEL | 
+                    ES_READONLY | WS_BORDER | WS_VSCROLL | WS_HSCROLL,0,0,
+                    357,144
+    GROUPBOX        "全部",IDC_STATIC,1,146,356,78,WS_TABSTOP
+    CONTROL         "",IDC_RICHEDIT_TOTAL_TALK,"RichEdit20A",ES_MULTILINE | 
+                    ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_NOHIDESEL | 
+                    ES_READONLY | WS_BORDER | WS_VSCROLL | WS_HSCROLL,4,155,
+                    349,65
+END
+
+IDD_DIALOG_AUTO_PUBLISH_MGR DIALOGEX 0, 0, 460, 154
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "自动发送管理器"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT_TEXT,39,23,416,14,ES_AUTOHSCROLL
+    LTEXT           "发布内容:",IDC_STATIC,3,26,36,8
+    LTEXT           "发布人:",IDC_STATIC,11,10,28,8
+    COMBOBOX        IDC_COMBO1,39,8,57,30,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "发布频道:",IDC_STATIC,101,10,36,8
+    COMBOBOX        IDC_COMBO2,137,8,39,30,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "发布时间:",IDC_STATIC,181,10,36,8
+    CONTROL         "",IDC_DATETIMEPICKER1,"SysDateTimePick32",
+                    DTS_RIGHTALIGN | DTS_UPDOWN | WS_TABSTOP,218,7,73,15
+    LTEXT           "间隔:",IDC_STATIC,304,10,20,8
+    COMBOBOX        IDC_COMBO3,323,8,36,30,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO4,417,8,28,30,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "分钟",IDC_STATIC,361,10,17,8
+    LTEXT           "自动重复:",IDC_STATIC,381,10,36,8
+    LTEXT           "次",IDC_STATIC,446,10,9,8
+    CONTROL         "",IDC_LIST_INFO,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_ALIGNLEFT | WS_BORDER | 
+                    WS_TABSTOP,3,55,453,98
+    LTEXT           "注意:添加后立即生效,实际发布信息时间每次都会推后1分钟,若误添加请在1分钟内删除",
+                    IDC_STATIC,19,40,305,8
+    PUSHBUTTON      "删除",IDC_BUTTON_DEL,406,38,50,14,WS_DISABLED
+    PUSHBUTTON      "添加",IDC_BUTTON_ADD,355,38,50,14,WS_DISABLED
+    PUSHBUTTON      "N",IDC_BUTTON_GET_NOW_TIME,291,7,10,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <公司名>"
+            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "BKop.exe"
+            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "OriginalFilename", "BKop.exe"
+            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "翻译", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_DIALOG_DELETE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 203
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_VIEW_ITEM, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 327
+    END
+
+    IDD_DIALOG_ITEMS, DIALOG
+    BEGIN
+        RIGHTMARGIN, 135
+    END
+
+    IDD_DIALOG_TOTAL_TALK_SESSION, DIALOG
+    BEGIN
+        RIGHTMARGIN, 357
+        BOTTOMMARGIN, 224
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_MAINVIEW DLGINIT
+BEGIN
+    IDC_COMBO_MODE, 0x403, 5, 0
+0xf2bc, 0xa5b5, "\000" 
+    IDC_COMBO_MODE, 0x403, 5, 0
+0xd5c6, 0xa8cd, "\000" 
+    IDC_COMBO_MODE, 0x403, 5, 0
+0xb5cf, 0xb3cd, "\000" 
+    IDC_COMBO_MODE, 0x403, 5, 0
+0xf7b5, 0xd4ca, "\000" 
+    IDC_COMBO_MODE, 0x403, 9, 0
+0xdfb8, 0xb6bc, 0xf7b5, 0xd4ca, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE 初始化失败。请确保 OLE 库是正确的版本。"
+    IDP_SOCKETS_INIT_FAILED "Windows 套接字初始化失败。"
+END
+
+STRINGTABLE 
+BEGIN
+    IDR_MAINFRAME           "BKop"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "BKop"
+    AFX_IDS_IDLEMESSAGE     "若要获取帮助，请按 F1"
+    AFX_IDS_HELPMODEMESSAGE "选择要获取其帮助信息的对象"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_APP_ABOUT            "显示程序信息、版本号和版权\n关于"
+    ID_APP_EXIT             "退出应用程序；提示保存文档\n退出"
+    ID_HELP_INDEX           "打开帮助\n帮助主题"
+    ID_HELP_FINDER          "列出帮助主题\n帮助主题"
+    ID_HELP_USING           "显示有关如何使用帮助的说明\n帮助"
+    ID_CONTEXT_HELP         "显示有关单击过的按钮、菜单和窗口的帮助信息\n帮助"
+    ID_HELP                 "显示当前任务或命令的帮助信息\n帮助"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_NEXT_PANE            "切换到下一个窗格\n下一窗格"
+    ID_PREV_PANE            "切换回上一个窗格\n上一窗格"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "将活动窗口拆分为多个窗格\n拆分"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_EDIT_CLEAR           "清除选定内容\n清除"
+    ID_EDIT_CLEAR_ALL       "清除全部内容\n全部清除"
+    ID_EDIT_COPY            "复制选定内容并将其放到剪贴板上\n复制"
+    ID_EDIT_CUT             "剪切选定内容并将其放到剪贴板上\n剪切"
+    ID_EDIT_FIND            "查找指定的文本\n查找"
+    ID_EDIT_PASTE           "插入剪贴板内容\n粘贴"
+    ID_EDIT_REPEAT          "重复上一操作\n重复"
+    ID_EDIT_REPLACE         "用其他文本替换特定的文本\n替换"
+    ID_EDIT_SELECT_ALL      "选定整个文档\n全选"
+    ID_EDIT_UNDO            "撤消上一操作\n撤消"
+    ID_EDIT_REDO            "恢复上次撤消的操作\n重做"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "显示或隐藏工具栏\n切换工具栏"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "更改窗口大小"
+    AFX_IDS_SCMOVE          "更改窗口位置"
+    AFX_IDS_SCMINIMIZE      "将窗口缩小为图标"
+    AFX_IDS_SCMAXIMIZE      "使窗口最大化显示"
+    AFX_IDS_SCNEXTWINDOW    "切换到下一个文档窗口"
+    AFX_IDS_SCPREVWINDOW    "切换到前一个文档窗口"
+    AFX_IDS_SCCLOSE         "关闭活动窗口并提示保存文档"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "将窗口恢复到正常大小"
+    AFX_IDS_SCTASKLIST      "激活任务列表"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\BKop.rc2"  // 非 Microsoft Visual C++ 编辑资源
+#include "afxres.rc"         // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

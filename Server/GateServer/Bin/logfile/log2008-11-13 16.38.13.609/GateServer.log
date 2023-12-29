@@ -1,0 +1,156 @@
+[10-19 01:45:16]Log stream open success.
+[10-19 01:46:37]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 01:46:41]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 01:46:41]not found [magicsea] map!!!
+[10-19 01:46:41]add GameServer [GameServer01] ok
+[10-19 01:46:41]add [GameServer01]  [magicsea] map ok
+[10-19 01:47:27]client: 127.0.0.1	come...Socket num: 1
+[10-19 01:47:27]client: 127.0.0.1	login ok.
+[10-19 01:47:32]client: 127.0.0.1:3195	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25200
+[10-19 01:47:32]clinet: 127.0.0.1:3195	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25200
+[10-19 01:53:18]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-19 01:53:18] delete [GameServer01]
+[10-19 01:53:18]delete map [magicsea]
+[10-19 01:53:18]becaulse GameServer trouble, notice 1 user offline
+[10-19 01:53:18]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 01:53:18]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[10-19 01:53:41]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 01:53:58]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 01:53:58]not found [magicsea] map!!!
+[10-19 01:53:58]add GameServer [GameServer01] ok
+[10-19 01:53:58]add [GameServer01]  [magicsea] map ok
+[10-19 01:55:36]client: 127.0.0.1	come...Socket num: 1
+[10-19 01:55:36]client: 127.0.0.1	login ok.
+[10-19 01:55:40]client: 127.0.0.1:3200	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A252E0
+[10-19 01:55:40]clinet: 127.0.0.1:3200	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A252E0
+[10-19 02:07:19]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-19 02:07:19] delete [GameServer01]
+[10-19 02:07:19]delete map [magicsea]
+[10-19 02:07:19]becaulse GameServer trouble, notice 1 user offline
+[10-19 02:07:19]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 02:07:19]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[10-19 02:07:43]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 02:07:43]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 02:07:43]not found [magicsea] map!!!
+[10-19 02:07:43]add GameServer [GameServer01] ok
+[10-19 02:07:43]add [GameServer01]  [magicsea] map ok
+[10-19 02:26:37]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[10-19 02:26:37] delete [GameServer01]
+[10-19 02:26:37]delete map [magicsea]
+[10-19 02:26:37]becaulse GameServer trouble, notice 0 user offline
+[10-19 02:26:58]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 02:26:58]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 02:26:58]not found [magicsea] map!!!
+[10-19 02:26:58]add GameServer [GameServer01] ok
+[10-19 02:26:58]add [GameServer01]  [magicsea] map ok
+[10-19 02:28:06]client: 127.0.0.1	come...Socket num: 1
+[10-19 02:28:06]client: 127.0.0.1	login ok.
+[10-19 02:28:10]client: 127.0.0.1:3208	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A253C0
+[10-19 02:28:10]clinet: 127.0.0.1:3208	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A253C0
+[10-19 13:41:55]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[10-19 13:41:55] delete [GameServer01]
+[10-19 13:41:55]delete map [magicsea]
+[10-19 13:41:55]becaulse GameServer trouble, notice 0 user offline
+[10-19 13:41:55]client: 127.0.0.1 gone...Socket num: 0 ,reason=KeepAlive失败。
+[10-19 13:45:03]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 13:45:21]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 13:45:21]not found [magicsea] map!!!
+[10-19 13:45:21]add GameServer [GameServer01] ok
+[10-19 13:45:21]add [GameServer01]  [magicsea] map ok
+[10-19 13:45:24]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[10-19 13:45:24] delete [GameServer01]
+[10-19 13:45:24]delete map [magicsea]
+[10-19 13:45:24]becaulse GameServer trouble, notice 0 user offline
+[10-19 13:46:01]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 13:46:01]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 13:46:01]not found [magicsea] map!!!
+[10-19 13:46:01]add GameServer [GameServer01] ok
+[10-19 13:46:01]add [GameServer01]  [magicsea] map ok
+[10-19 14:07:12]client: 127.0.0.1	come...Socket num: 1
+[10-19 14:07:12]client: 127.0.0.1	login error, error:1104
+[10-19 14:07:12]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-19 14:07:14]client: 127.0.0.1	come...Socket num: 1
+[10-19 14:07:14]client: 127.0.0.1	login ok.
+[10-19 14:09:00]client: 127.0.0.1:3227	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25580
+[10-19 14:09:00]clinet: 127.0.0.1:3227	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25580
+[10-19 14:15:20]clinet: 127.0.0.1:3227	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25580
+[10-19 14:17:27]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-19 14:17:27] delete [GameServer01]
+[10-19 14:17:27]delete map [magicsea]
+[10-19 14:17:27]becaulse GameServer trouble, notice 1 user offline
+[10-19 14:17:27]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 14:17:27]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[10-19 14:24:49]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 14:24:49]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 14:24:49]not found [magicsea] map!!!
+[10-19 14:24:49]add GameServer [GameServer01] ok
+[10-19 14:24:49]add [GameServer01]  [magicsea] map ok
+[10-19 14:25:57]client: 127.0.0.1	come...Socket num: 1
+[10-19 14:25:57]client: 127.0.0.1	login ok.
+[10-19 14:26:07]client: 127.0.0.1:3299	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25660
+[10-19 14:26:07]clinet: 127.0.0.1:3299	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25660
+[10-19 14:30:40]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-19 14:30:40] delete [GameServer01]
+[10-19 14:30:40]delete map [magicsea]
+[10-19 14:30:40]becaulse GameServer trouble, notice 1 user offline
+[10-19 14:30:40]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 14:30:41]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[10-19 14:31:35]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 14:31:43]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 14:31:43]not found [magicsea] map!!!
+[10-19 14:31:43]add GameServer [GameServer01] ok
+[10-19 14:31:43]add [GameServer01]  [magicsea] map ok
+[10-19 14:32:31]client: 127.0.0.1	come...Socket num: 1
+[10-19 14:32:31]client: 127.0.0.1	login ok.
+[10-19 14:32:35]client: 127.0.0.1:3335	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25740
+[10-19 14:32:35]clinet: 127.0.0.1:3335	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25740
+[10-19 14:43:19]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[10-19 14:43:19] delete [GameServer01]
+[10-19 14:43:19]delete map [magicsea]
+[10-19 14:43:19]becaulse GameServer trouble, notice 1 user offline
+[10-19 14:43:19]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 14:43:19]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[10-19 14:45:02]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 14:45:07]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 14:45:07]not found [magicsea] map!!!
+[10-19 14:45:07]add GameServer [GameServer01] ok
+[10-19 14:45:07]add [GameServer01]  [magicsea] map ok
+[10-19 14:46:29]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[10-19 14:46:29] delete [GameServer01]
+[10-19 14:46:29]delete map [magicsea]
+[10-19 14:46:29]becaulse GameServer trouble, notice 0 user offline
+[10-19 14:47:04]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 14:47:04]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 14:47:04]not found [magicsea] map!!!
+[10-19 14:47:04]add GameServer [GameServer01] ok
+[10-19 14:47:04]add [GameServer01]  [magicsea] map ok
+[10-19 14:50:02]client: 127.0.0.1	come...Socket num: 1
+[10-19 14:50:02]client: 127.0.0.1	login ok.
+[10-19 14:50:06]client: 127.0.0.1:3383	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25820
+[10-19 14:50:06]clinet: 127.0.0.1:3383	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25820
+[10-19 19:25:45]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[10-19 19:25:45] delete [GameServer01]
+[10-19 19:25:45]delete map [magicsea]
+[10-19 19:25:45]becaulse GameServer trouble, notice 0 user offline
+[10-19 19:25:45]client: 127.0.0.1 gone...Socket num: 0 ,reason=KeepAlive失败。
+[10-19 19:32:12]client: 127.0.0.1	come...Socket num: 1
+[10-19 19:32:12]client: 127.0.0.1	login error, error:1104
+[10-19 19:32:12]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-19 19:32:14]client: 127.0.0.1	come...Socket num: 1
+[10-19 19:32:15]client: 127.0.0.1	login ok.
+[10-19 19:32:19]not found [magicsea] map!!!
+[10-19 19:32:21]not found [magicsea] map!!!
+[10-19 19:32:25]not found [magicsea] map!!!
+[10-19 19:33:11]GameServer= [127.0.0.1] come,Socket num= 1
+[10-19 19:33:11]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-19 19:33:11]not found [magicsea] map!!!
+[10-19 19:33:11]add GameServer [GameServer01] ok
+[10-19 19:33:11]add [GameServer01]  [magicsea] map ok
+[10-19 19:33:36]client: 127.0.0.1:3888	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A259E0
+[10-19 19:33:36]clinet: 127.0.0.1:3888	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A259E0
+[10-19 19:45:10]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-19 19:45:10] delete [GameServer01]
+[10-19 19:45:10]delete map [magicsea]
+[10-19 19:45:10]becaulse GameServer trouble, notice 1 user offline
+[10-19 19:45:10]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 19:45:10]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。

@@ -1,0 +1,1 @@
+GameServer.exe GameServer1.cfg

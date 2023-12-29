@@ -1,0 +1,12 @@
+[10-16 20:54:45]Log stream open success.
+[10-16 20:54:45]begin connect database
+[10-16 20:54:46]begin init AccountServer connect
+[10-16 20:54:46]AccountServer:127.0.0.1,1978come ! Socket num:1
+[10-16 20:54:46]begin read GroupServer.cfg
+[10-16 20:54:46]begin load ChaNameFilter.txt
+[10-16 20:54:46]begin listen port:1975
+[10-16 20:54:46]open listen port:1975success, init is ok
+[10-16 20:55:04]GateServer:127.0.0.1,4999come ! Socket num:2
+[10-16 20:57:10]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(-3)网络被对方正常关闭。
+[10-16 20:57:11]GateServer:127.0.0.1,4999go ! Socket num:0reason=(-3)网络被对方正常关闭。
+[10-16 20:57:23]Log stream close success.

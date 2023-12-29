@@ -1,0 +1,76 @@
+[07-30 07:00:15]日志流被成功打开.
+[07-30 07:01:32](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:01:42](127.0.0.1)：[test0002]select char[456]begin paly...，	 online/total：1/0
+[07-30 07:01:42](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 07:01:51](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:01:55](127.0.0.1)：[test0002]select char[456]begin paly...，	 online/total：1/0
+[07-30 07:01:55](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 07:02:05](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:02:09](127.0.0.1)：[test0002]select char[234]begin paly...，	 online/total：1/0
+[07-30 07:02:09](127.0.0.1):[test0002] char [234]entry map server begin play...，	 online/total:1/1
+[07-30 07:21:22](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 07:22:05](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:22:17](127.0.0.1)：[test0002]select char[456]begin paly...，	 online/total：1/0
+[07-30 07:22:17](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 07:22:26](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:22:29](127.0.0.1)：[test0002]select char[234]begin paly...，	 online/total：1/0
+[07-30 07:22:29](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 07:22:41](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-30 07:22:47](127.0.0.1)：[test0001]select char[tui1]begin paly...，	 online/total：1/0
+[07-30 07:22:47](127.0.0.1):[test0001] char [tui1]entry map server begin play...，	 online/total:1/1
+[07-30 07:27:34](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-30 07:33:57](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 07:34:14](127.0.0.1)：[test00024561/0
+[07-30 07:34:24](127.0.0.1)：[test00022341/0
+[07-30 07:34:39]account[test0002]new char[234]the same name exception
+[07-30 07:34:48](127.0.0.1)：[test0002]create char [23455]，	 online/total:1/0
+[07-30 07:34:53](127.0.0.1)：[test0002]select char[23455]begin paly...，	 online/total：1/0
+[07-30 07:34:53](127.0.0.1):[test0002] char [23455]entry map server begin play...，	 online/total:1/1
+[07-30 07:37:42](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 09:19:34](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 09:19:44](127.0.0.1)：[test0002]select char[23455]begin paly...，	 online/total：1/0
+[07-30 09:19:44](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 09:19:52](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 09:20:05](127.0.0.1)：[test0002]create char [3467]，	 online/total:1/0
+[07-30 09:20:09](127.0.0.1)：[test0002]select char[3467]begin paly...，	 online/total：1/0
+[07-30 09:20:10](127.0.0.1):[test0002] char [3467]entry map server begin play...，	 online/total:1/1
+[07-30 09:21:17](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 12:33:30](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 12:33:43](127.0.0.1)：[test000234671/0
+[07-30 12:33:52](127.0.0.1)：[test0002234551/0
+[07-30 12:34:06]account[test0002]new char[1234]the same name exception
+[07-30 12:34:10](127.0.0.1)：[test0002]create char [123456787]，	 online/total:1/0
+[07-30 12:34:16](127.0.0.1)：[test0002]select char[123456787]begin paly...，	 online/total：1/0
+[07-30 12:34:16](127.0.0.1):[test0002] char [123456787]entry map server begin play...，	 online/total:1/1
+[07-30 12:35:45](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 12:47:33](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 12:47:44](127.0.0.1)：[test00021234567871/0
+[07-30 12:48:00](127.0.0.1)：[test0002]create char [4325435325]，	 online/total:1/0
+[07-30 12:49:22](127.0.0.1)：[test0002]select char[4325435325]begin paly...，	 online/total：1/0
+[07-30 12:49:23](127.0.0.1):[test0002] char [4325435325]entry map server begin play...，	 online/total:1/1
+[07-30 12:56:53](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 13:46:48](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 13:47:25](127.0.0.1)：[test000243254353251/0
+[07-30 13:47:44](127.0.0.1)：[test0002]create char [090897]，	 online/total:1/0
+[07-30 13:47:49](127.0.0.1)：[test0002]select char[090897]begin paly...，	 online/total：1/0
+[07-30 13:47:49](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 13:48:00](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-30 13:48:14](127.0.0.1)：[test00020908971/0
+[07-30 13:48:31](127.0.0.1)：[test0002]create char [090909090]，	 online/total:1/0
+[07-30 13:48:35](127.0.0.1)：[test0002]select char[090909090]begin paly...，	 online/total：1/0
+[07-30 13:48:36](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-30 13:48:49](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-30 13:48:53](127.0.0.1)：[test0003]select char[TTTT]begin paly...，	 online/total：1/0
+[07-30 13:48:54](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-30 13:49:02](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-30 13:55:31](127.0.0.1)：[test0003]select char[TTTT]begin paly...，	 online/total：1/0
+[07-30 13:55:44](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-30 13:55:59](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-30 13:56:04](127.0.0.1)：[test0003]select char[TTTT]begin paly...，	 online/total：1/0
+[07-30 13:56:06](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-30 13:56:17](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-30 13:56:22](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-30 13:59:20](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-30 14:00:31](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-30 14:00:44](127.0.0.1)：[test0003]select char[TTTT]begin paly...，	 online/total：1/0
+[07-30 14:02:11](127.0.0.1)：[test0003]logout,	 online/total:0/0

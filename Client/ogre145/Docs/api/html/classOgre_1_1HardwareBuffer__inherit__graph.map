@@ -1,0 +1,6 @@
+base referer
+rect $classOgre_1_1HardwareIndexBuffer.html 27,80 213,107
+rect $classOgre_1_1HardwarePixelBuffer.html 237,80 419,107
+rect $classOgre_1_1HardwareVertexBuffer.html 443,80 635,107
+rect $classOgre_1_1DefaultHardwareIndexBuffer.html 5,155 235,181
+rect $classOgre_1_1DefaultHardwareVertexBuffer.html 421,155 656,181

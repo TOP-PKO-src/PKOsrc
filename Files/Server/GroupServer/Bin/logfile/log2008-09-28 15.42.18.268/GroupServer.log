@@ -1,0 +1,11 @@
+[09-28 09:26:39]Log stream open success.
+[09-28 09:32:03](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-28 09:32:28](127.0.0.1):[test0001]select char[limeili]begin paly...£¨	 online/total:1/0
+[09-28 09:32:29](127.0.0.1):[test0001] char [limeili]entry map server begin play...£¨	 online/total:1/1
+[09-10 09:49:23](127.0.0.1):[test0002]login success, 	 nline/total:2/1
+[09-10 09:49:48](127.0.0.1):[test0002]select char[¿Ó√¿¿ˆ]begin paly...£¨	 online/total:2/1
+[09-10 09:49:50](127.0.0.1):[test0002]select char[Chaos]begin paly...£¨	 online/total:2/1
+[09-10 09:49:52](127.0.0.1):[test0002]select char[113111]begin paly...£¨	 online/total:2/1
+[09-10 09:49:53](127.0.0.1):[test0002] char [113111]entry map server begin play...£¨	 online/total:2/2
+[09-10 10:14:26](127.0.0.1):[test0002]logout,	 online/total:1/1
+[09-10 10:14:27](127.0.0.1):[test0001]logout,	 online/total:0/0

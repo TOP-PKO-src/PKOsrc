@@ -1,0 +1,17 @@
+[12-02 03:45:59]Log stream open success.
+[12-02 03:47:49](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[12-02 03:48:01](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[12-02 03:48:02](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[12-02 03:48:50](127.0.0.1):[yyy]logout,	 online/total:0/0
+[12-02 03:56:23](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[12-02 03:56:27](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[12-02 03:56:27](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[12-02 03:58:44](127.0.0.1):[yyy]logout,	 online/total:0/0
+[12-02 04:02:58](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[12-02 04:03:02](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[12-02 04:03:02](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[12-02 04:12:55](127.0.0.1):[yyy]logout,	 online/total:0/0
+[12-02 04:14:47](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[12-02 04:14:52](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[12-02 04:14:52](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[12-02 04:16:05](127.0.0.1):[yyy]logout,	 online/total:0/0

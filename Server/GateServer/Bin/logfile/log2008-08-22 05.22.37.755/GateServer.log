@@ -1,0 +1,29 @@
+[08-21 09:45:12]日志流被成功打开.
+[08-21 09:46:46]GameServer= [127.0.0.1] come,Socket num= 1
+[08-21 09:46:46]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-21 09:46:46]not found [garner] map!!!
+[08-21 09:46:46]add GameServer [GameServer01] ok
+[08-21 09:46:46]add [GameServer01]  [garner] map ok
+[08-21 13:37:27]client: 127.0.0.1	come...Socket num: 1
+[08-21 13:37:29]client: 127.0.0.1	login ok.
+[08-21 13:38:08]client: 127.0.0.1:3669	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39B88
+[08-21 13:38:15]clinet: 127.0.0.1:3669	Gate recieve from [127.0.0.1]failed EnterMap command ,Error:8
+[08-21 13:38:15]client: 127.0.0.1 gone...Socket num: 0 ,reason=未知Disconnect码：-33
+[08-21 13:38:32]client: 127.0.0.1	come...Socket num: 1
+[08-21 13:38:32]client: 127.0.0.1	login ok.
+[08-21 13:38:38]client: 127.0.0.1:3677	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39C88
+[08-21 13:38:38]clinet: 127.0.0.1:3677	Gate recieve from [127.0.0.1]failed EnterMap command ,Error:8
+[08-21 13:38:38]client: 127.0.0.1 gone...Socket num: 0 ,reason=未知Disconnect码：-33
+[08-21 13:41:34]client: 127.0.0.1	come...Socket num: 1
+[08-21 13:41:34]client: 127.0.0.1	login ok.
+[08-21 13:41:41]client: 127.0.0.1:3700	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39D88
+[08-21 13:41:56]clinet: 127.0.0.1:3700	Gate recieve from [127.0.0.1]failed EnterMap command ,Error:8
+[08-21 13:41:56]client: 127.0.0.1 gone...Socket num: 0 ,reason=未知Disconnect码：-33
+[08-21 13:42:12]client: 127.0.0.1	come...Socket num: 1
+[08-21 13:42:12]client: 127.0.0.1	login ok.
+[08-21 13:42:16]client: 127.0.0.1:3706	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39E88
+[08-21 13:42:33]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-21 13:42:33] delete [GameServer01]
+[08-21 13:42:33]delete map [garner]
+[08-21 13:42:33]becaulse GameServer trouble, notice 0 user offline
+[08-21 13:44:35]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。

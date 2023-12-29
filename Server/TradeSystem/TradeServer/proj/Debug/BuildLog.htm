@@ -1,0 +1,118 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<pre>
+<table width=100% bgcolor=#CFCFE5><tr> <td> <font face=arial size=+3>
+Build Log
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+<h3>------- Build started: Project: TradeServer, Configuration: Debug|Win32 -------
+</h3>
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Command Lines
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Creating temporary file "c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\BAT000001.bat" with contents
+[
+@echo off
+wsdl /parsableerrors /out:"Moliyo.h" /l:"Microsoft.MCpp.MCppCodeProvider, MCppCodeDomProvider, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Custom=null" .\Moliyo\results.discomap /nologo /namespace:Moliyo
+cl /nologo /TP /FU System.dll /FU System.XML.dll /FU System.Data.dll "Moliyo.h" /clr /Fo"Debug" /link /dll /out:"Moliyo.h.dll"
+
+]
+Creating command line "c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\BAT000001.bat"
+Creating temporary file "c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\RSP000002.rsp" with contents
+[
+/Od /I "..\..\InfoNet\include" /I "c:\KopUnicode\Server\TradeSystem\TradeServer\proj\..\..\..\..\Common\EncLib\include" /AI "../bin" /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FD /EHsc /MTd /GS /Fo"Debug/" /Fd"Debug/vc70.pdb" /W3 /c /Wp64 /Zi /clr /TP
+\KopUnicode\Server\TradeSystem\TradeServer\src\MyListView.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\MyComboBox.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\WebServiceThread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\VisualWindow.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\main.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\billing.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\storethread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\managethread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\mailthread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\logthread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\MainLogic.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\DBLogic.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\netthread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\thread.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\socket2.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\msgqueue.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\log.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\lock.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\iocp.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\INIStream.cpp
+\KopUnicode\Server\TradeSystem\TradeServer\src\ado.cpp
+]
+Creating command line "cl.exe @c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\RSP000002.rsp /nologo"
+Creating command line "rc.exe /fo"Debug/TradeServer.res" \KopUnicode\Server\TradeSystem\TradeServer\src\TradeServer.rc"
+Creating temporary file "c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\RSP000003.rsp" with contents
+[
+/OUT:"../bin/TradeServer_d.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\..\InfoNet\lib" /LIBPATH:"c:\KopUnicode\Server\TradeSystem\TradeServer\proj\..\..\..\..\Common\EncLib\lib" /NODEFAULTLIB:"libcd.lib" /DEBUG /ASSEMBLYDEBUG /PDB:"../bin/TradeServer_d.pdb" /SUBSYSTEM:CONSOLE /MACHINE:X86 /FIXED:No  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib
+.\Debug\ado.obj
+.\Debug\INIStream.obj
+.\Debug\iocp.obj
+.\Debug\lock.obj
+.\Debug\log.obj
+.\Debug\msgqueue.obj
+.\Debug\socket2.obj
+.\Debug\thread.obj
+.\Debug\netthread.obj
+.\Debug\DBLogic.obj
+.\Debug\MainLogic.obj
+.\Debug\logthread.obj
+.\Debug\mailthread.obj
+.\Debug\managethread.obj
+.\Debug\storethread.obj
+.\Debug\billing.obj
+.\Debug\main.obj
+.\Debug\VisualWindow.obj
+.\Debug\WebServiceThread.obj
+.\Debug\MyComboBox.obj
+.\Debug\MyListView.obj
+.\Debug\TradeServer.res
+]
+Creating command line "link.exe @c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\RSP000003.rsp"
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Output Window
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Creating web service proxy file for Moliyo ...
+Writing file 'Moliyo.h'.
+Moliyo.h
+LINK : warning LNK4243: DLL containing objects compiled with /clr is not linked with /NOENTRY; image may not run correctly
+Compiling...
+MyListView.cpp
+MyComboBox.cpp
+WebServiceThread.cpp
+VisualWindow.cpp
+main.cpp
+billing.cpp
+storethread.cpp
+managethread.cpp
+mailthread.cpp
+logthread.cpp
+MainLogic.cpp
+DBLogic.cpp
+netthread.cpp
+thread.cpp
+socket2.cpp
+msgqueue.cpp
+log.cpp
+lock.cpp
+iocp.cpp
+INIStream.cpp
+Generating Code...
+Compiling...
+ado.cpp
+Generating Code...
+Compiling resources...
+Linking...
+DBLogic.obj : warning LNK4227: metadata operation warning (00131189) : Inconsistent parameter information in duplicated methods (methods: new; type: <Module>): (0x08000022).
+main.obj : warning LNK4227: metadata operation warning (00131189) : Inconsistent parameter information in duplicated methods (methods: new; type: <Module>): (0x08000020).
+EncLib_d.lib(d3des.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\TradeSystem\TradeServer\proj\..\..\..\..\Common\EncLib\lib\EncLib_d.lib' or at 'c:\KopUnicode\Server\TradeSystem\TradeServer\bin\vc70.pdb'; linking object as if no debug info
+EncLib_d.lib(enclib.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\TradeSystem\TradeServer\proj\..\..\..\..\Common\EncLib\lib\EncLib_d.lib' or at 'c:\KopUnicode\Server\TradeSystem\TradeServer\bin\vc70.pdb'; linking object as if no debug info
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Results
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+Build log was saved at "file://c:\KopUnicode\Server\TradeSystem\TradeServer\proj\Debug\BuildLog.htm"
+TradeServer - 0 error(s), 5 warning(s)</pre></table><table   width=100% height=20 bgcolor=#CFCFE5><tr><td><font face=arial size=+2>
+</font></table></body></html>

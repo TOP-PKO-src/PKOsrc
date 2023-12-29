@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f4a89715-e280-4419-b608-80a3ff88283e}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6838d4da-9dbc-4df2-a10f-183c32514457}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{6deca639-6257-4cb3-9bd3-3f189a7dd9a2}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CaLua_avltree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_helper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_luafuncs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_parser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_stack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CaLua_vmstack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\CaLua.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaLua_avltree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaLua_guts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaLua_hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CaLua_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exports.def">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

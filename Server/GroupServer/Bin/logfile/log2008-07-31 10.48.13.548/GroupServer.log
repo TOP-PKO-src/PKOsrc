@@ -1,0 +1,50 @@
+[07-31 04:58:43]日志流被成功打开.
+[07-31 05:22:05](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:22:28](127.0.0.1)：[test0002sddd1/0
+[07-31 05:22:38](127.0.0.1)：[test000222221/0
+[07-31 05:22:47](127.0.0.1)：[test0002123213121/0
+[07-31 05:23:02](127.0.0.1)：[test0002]create char [123098]，	 online/total:1/0
+[07-31 05:23:08](127.0.0.1)：[test0002]select char[123098]begin paly...，	 online/total：1/0
+[07-31 05:23:14](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 05:24:34](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:24:38](127.0.0.1)：[test0002]select char[123098]begin paly...，	 online/total：1/0
+[07-31 05:25:53](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 05:26:03](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:26:08](127.0.0.1)：[test0002]select char[123098]begin paly...，	 online/total：1/0
+[07-31 05:26:37](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 05:26:48](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:26:52](127.0.0.1)：[test0002]select char[123098]begin paly...，	 online/total：1/0
+[07-31 05:35:49](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 05:39:51](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:40:13](127.0.0.1)：[test00021230981/0
+[07-31 05:40:54](127.0.0.1)：[test0002]create char [8908767234]，	 online/total:1/0
+[07-31 05:40:59](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 05:41:02](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 05:42:39](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 05:42:42](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 05:43:10](127.0.0.1)：[test0002]create char [213465]，	 online/total:1/0
+[07-31 05:43:14](127.0.0.1)：[test0002]select char[213465]begin paly...，	 online/total：1/0
+[07-31 05:43:21](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 05:43:49](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 05:43:53](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 05:43:56](127.0.0.1)：[test0002]select char[213465]begin paly...，	 online/total：1/0
+[07-31 10:22:11](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 10:22:51](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 10:23:10](127.0.0.1)：[test0002]select char[8908767234]begin paly...，	 online/total：1/0
+[07-31 10:23:20](127.0.0.1)：[test000289087672341/0
+[07-31 10:23:22](127.0.0.1)：[test0002]select char[213465]begin paly...，	 online/total：1/0
+[07-31 10:23:31](127.0.0.1)：[test00022134651/0
+[07-31 10:23:42](127.0.0.1)：[test0002]create char [4321]，	 online/total:1/0
+[07-31 10:23:48](127.0.0.1)：[test0002]select char[4321]begin paly...，	 online/total：1/0
+[07-31 10:25:03](127.0.0.1)：[test0002]select char[4321]begin paly...，	 online/total：1/0
+[07-31 10:25:08](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 10:32:57](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 10:35:23](127.0.0.1)：[test0002]create char [9718432]，	 online/total:1/0
+[07-31 10:35:40](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 10:36:31](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-31 10:36:59](127.0.0.1)：[test000297184321/0
+[07-31 10:37:18](127.0.0.1)：[test000243211/0
+[07-31 10:41:26](127.0.0.1)：[test0002]create char [090867]，	 online/total:1/0
+[07-31 10:41:26](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-31 10:42:12]recieved kill acctid:[2] command(not in play list)!
+[07-31 10:42:14](127.0.0.1)：[test0002]login success, 	 nline/total:1/0

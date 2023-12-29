@@ -1,0 +1,44 @@
+使用CEGUI的字体系统
+修改bin\scripts\mindpower.cfg
+FontImplFactory = CEGUI
+
+1、在lua脚本里注册字体。
+
+DEFAULT_FONT = UI_CreateFont( "./font/font1.xml", 9, 9, 0 )	//0
+FONT14 = UI_CreateFont( "./font/font2.xml", 12, 12, 0 )		//1
+MAIN_FONT = UI_CreateFont( "./font/mainfont.xml", 12, 12, 0 )	//2
+
+每调用一次lua函数，client会调用CGuiFont::CreateFont来创建一个以索引值为名称的字体。
+例如上面创建了三个名称为 0，1，2的字体。
+这里使用数值作为字体的名称是为了和客户端的字体系统兼容，因为之前客户端都是使用数值来作为字体的ID。
+
+font文件夹里的xml文件保存了字体的属性。
+
+2、在客户端里获取字体。
+通过FontModule::FontSystem::getSingleton().getFont()来获取字体，需要传入字体名称。
+
+3、使用字体
+和以前一样，字体的接口没有改变。
+
+4、修改字体的注册属性
+注册属性保存在font文件夹的xml里。
+
+
+-----------------------------------------------------------------------------------
+
+
+
+使用mindpower的字体系统
+修改bin\scripts\mindpower.cfg
+FontImplFactory = Mindpower
+1、在lua脚本里注册字体。
+DEFAULT_FONT = UI_CreateFont( "./font/simsun.ttc", 9, 9, 0 )	//0
+FONT14 = UI_CreateFont( "./font/simsun.ttc", 12, 12, 0 )	//1
+MAIN_FONT = UI_CreateFont( "./font/simsun.ttc", 12, 12, 0 )	//2
+基本和CEGUI一样，不同之处在于这里直接把字体文件（*.ttc,*.ttf）和字体尺寸传给系统。
+
+2、在客户端里获取字体。
+通过FontModule::FontSystem::getSingleton().getFont()来获取字体，需要传入字体名称。
+
+3、使用字体
+和以前一样，字体的接口没有改变。

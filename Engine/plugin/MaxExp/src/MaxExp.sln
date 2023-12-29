@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpCharacter", "ExpCharacter\ExpCharacter.vcproj", "{A54C4403-3019-4A65-A700-CA109FC5D768}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpModel", "ExpModelObject\ExpGeomModel.vcproj", "{4B22E1FD-9A62-4AF0-B0B2-8A7A426F3913}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpItem", "ExpItem\ExpItem.vcproj", "{6063FFA0-6C39-4A20-B068-E54341D71F5F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpShapeTrack", "ExpShapeTrack\ExpShapeTrack.vcproj", "{EB10185F-E416-425D-A941-CD770DB7FBCD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectUniqueName0 = ExpModelObject\\ExpGeomModel.vcproj
+		SccProjectName0 = \u0022$/\u0022,\u0020AAAAAAAA
+		SccLocalPath0 = ..\\..\\..
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection0 = plugin\\MaxExp\\src\\ExpModelObject\\
+		SccProjectUniqueName1 = ExpCharacter\\ExpCharacter.vcproj
+		SccProjectName1 = \u0022$/\u0022,\u0020AAAAAAAA
+		SccLocalPath1 = ..\\..\\..
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = plugin\\MaxExp\\src\\ExpCharacter\\
+		SccProjectUniqueName2 = ExpItem\\ExpItem.vcproj
+		SccProjectName2 = \u0022$/\u0022,\u0020AAAAAAAA
+		SccLocalPath2 = ..\\..\\..
+		SccProvider2 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = plugin\\MaxExp\\src\\ExpItem\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A54C4403-3019-4A65-A700-CA109FC5D768}.Debug.ActiveCfg = Release|Win32
+		{A54C4403-3019-4A65-A700-CA109FC5D768}.Debug.Build.0 = Release|Win32
+		{A54C4403-3019-4A65-A700-CA109FC5D768}.Release.ActiveCfg = Release|Win32
+		{A54C4403-3019-4A65-A700-CA109FC5D768}.Release.Build.0 = Release|Win32
+		{4B22E1FD-9A62-4AF0-B0B2-8A7A426F3913}.Debug.ActiveCfg = Release|Win32
+		{4B22E1FD-9A62-4AF0-B0B2-8A7A426F3913}.Debug.Build.0 = Release|Win32
+		{4B22E1FD-9A62-4AF0-B0B2-8A7A426F3913}.Release.ActiveCfg = Release|Win32
+		{4B22E1FD-9A62-4AF0-B0B2-8A7A426F3913}.Release.Build.0 = Release|Win32
+		{6063FFA0-6C39-4A20-B068-E54341D71F5F}.Debug.ActiveCfg = Release|Win32
+		{6063FFA0-6C39-4A20-B068-E54341D71F5F}.Debug.Build.0 = Release|Win32
+		{6063FFA0-6C39-4A20-B068-E54341D71F5F}.Release.ActiveCfg = Release|Win32
+		{6063FFA0-6C39-4A20-B068-E54341D71F5F}.Release.Build.0 = Release|Win32
+		{EB10185F-E416-425D-A941-CD770DB7FBCD}.Debug.ActiveCfg = Debug|Win32
+		{EB10185F-E416-425D-A941-CD770DB7FBCD}.Debug.Build.0 = Debug|Win32
+		{EB10185F-E416-425D-A941-CD770DB7FBCD}.Release.ActiveCfg = Release|Win32
+		{EB10185F-E416-425D-A941-CD770DB7FBCD}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

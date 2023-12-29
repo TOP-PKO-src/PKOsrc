@@ -1,0 +1,3 @@
+DirectX81GUIRenderer
+
+添加了一个class RestoreD3DStateCommand。因为DirectX81GUIRenderer会把D3D device的z-buffer禁用，因此我们要把z-buffer恢复，否则渲染人物时就会混乱。

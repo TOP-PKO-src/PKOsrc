@@ -1,0 +1,45 @@
+[07-31 04:58:43]日志流被成功打开.
+[07-31 04:58:44]begin connect database
+[07-31 04:58:45]begin init AccountServer connect
+[07-31 04:58:45]AccountServer:127.0.0.1,1978come ! Socket num:1
+[07-31 04:58:45]begin read GroupServer.cfg
+[07-31 04:58:45]begin load ChaNameFilter.txt
+[07-31 04:58:45]begin listen port:1975
+[07-31 04:58:45]open listen port:1975success, init is ok
+[07-31 05:21:19]GateServer:127.0.0.1,1779come ! Socket num:2
+[07-31 10:35:23]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-31 10:35:29]AccountServer:127.0.0.1,1978come ! Socket num:2
+[07-31 10:41:26]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-31 10:41:26]GateServer:127.0.0.1,2828come ! Socket num:1
+[07-31 10:41:26]GateServer:127.0.0.1,2832come ! Socket num:1
+[07-31 10:41:26]GateServer:127.0.0.1,1779go ! Socket num:0reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-31 10:41:26]GateServer:127.0.0.1,2828go ! Socket num:1reason=(65534)程序采用的默认反连接。
+[07-31 10:41:27]GateServer:127.0.0.1,2835come ! Socket num:2
+[07-31 10:41:27]GateServer:127.0.0.1,2835go ! Socket num:1reason=(65534)程序采用的默认反连接。
+[07-31 10:41:31]AccountServer:127.0.0.1,1978come ! Socket num:2
+[07-31 10:41:32]GateServer:127.0.0.1,2838come ! Socket num:3
+[07-31 10:41:32]GateServer:127.0.0.1,2838go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:41:37]GateServer:127.0.0.1,2839come ! Socket num:3
+[07-31 10:41:37]GateServer:127.0.0.1,2839go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:41:42]GateServer:127.0.0.1,2841come ! Socket num:3
+[07-31 10:41:42]GateServer:127.0.0.1,2841go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:41:47]GateServer:127.0.0.1,2842come ! Socket num:3
+[07-31 10:41:47]GateServer:127.0.0.1,2842go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:41:52]GateServer:127.0.0.1,2844come ! Socket num:3
+[07-31 10:41:52]GateServer:127.0.0.1,2844go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:41:57]GateServer:127.0.0.1,2845come ! Socket num:3
+[07-31 10:41:57]GateServer:127.0.0.1,2845go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:02]GateServer:127.0.0.1,2847come ! Socket num:3
+[07-31 10:42:02]GateServer:127.0.0.1,2847go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:07]GateServer:127.0.0.1,2848come ! Socket num:3
+[07-31 10:42:07]GateServer:127.0.0.1,2848go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:12]GateServer:127.0.0.1,2851come ! Socket num:3
+[07-31 10:42:12]GateServer:127.0.0.1,2851go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:17]GateServer:127.0.0.1,2853come ! Socket num:3
+[07-31 10:42:17]GateServer:127.0.0.1,2853go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:22]GateServer:127.0.0.1,2856come ! Socket num:3
+[07-31 10:42:22]GateServer:127.0.0.1,2856go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:27]GateServer:127.0.0.1,2857come ! Socket num:3
+[07-31 10:42:27]GateServer:127.0.0.1,2857go ! Socket num:2reason=(65534)程序采用的默认反连接。
+[07-31 10:42:32]GateServer:127.0.0.1,2859come ! Socket num:3
+[07-31 10:42:32]GateServer:127.0.0.1,2859go ! Socket num:2reason=(65534)程序采用的默认反连接。

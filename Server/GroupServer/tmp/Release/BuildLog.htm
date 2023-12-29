@@ -1,0 +1,162 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<pre>
+<table width=100% bgcolor=#CFCFE5><tr> <td> <font face=arial size=+3>
+Build Log
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+<h3>------- Build started: Project: GroupServer, Configuration: Release|Win32 -------
+</h3>
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Command Lines
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Creating temporary file "c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000004.rsp" with contents
+[
+/O2 /I "c:\KopUnicode\Server\GroupServer\Proj\..\src" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Util\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Common\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\CaLua\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\ICUHelper\inc" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\icu\include" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FD /MT /GS /Fo"c:\KopUnicode\Server\GroupServer\Proj\..\tmp\Release/" /Fd"c:\KopUnicode\Server\GroupServer\Proj\..\tmp\Release/vc70.pdb" /W3 /c /Wp64 /Zi /TP  /EHa
+\KopUnicode\Server\GroupServer\src\Script.cpp
+\KopUnicode\Server\GroupServer\src\Parser.cpp
+\KopUnicode\Server\GroupServer\src\LuaFunc.cpp
+\KopUnicode\Server\GroupServer\src\TeamMember.cpp
+\KopUnicode\Server\GroupServer\src\Team.cpp
+\KopUnicode\Server\GroupServer\src\SessionChat.cpp
+\KopUnicode\Server\GroupServer\src\Player.cpp
+\KopUnicode\Server\GroupServer\src\Master.cpp
+\KopUnicode\Server\GroupServer\src\Invitation.cpp
+\KopUnicode\Server\GroupServer\src\GuildMember.cpp
+\KopUnicode\Server\GroupServer\src\Guild.cpp
+\KopUnicode\Server\GroupServer\src\GroupSMain.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppTeam.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppServ.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppPrsn.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppMaster.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppInit.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppGuld.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppFrnd.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerAppChat.cpp
+\KopUnicode\Server\GroupServer\src\GroupServerApp.cpp
+\KopUnicode\Server\GroupServer\src\Friend.cpp
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp
+]
+Creating command line "cl.exe @c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000004.rsp /nologo"
+Creating temporary file "c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000005.rsp" with contents
+[
+/O2 /I "c:\KopUnicode\Server\GroupServer\Proj\..\src" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Util\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Common\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\CaLua\include" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\ICUHelper\inc" /I "c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\icu\include" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FD /MT /GS /Fo"c:\KopUnicode\Server\GroupServer\Proj\..\tmp\Release/stdafx1.obj" /Fd"c:\KopUnicode\Server\GroupServer\Proj\..\tmp\Release/vc70.pdb" /W3 /c /Wp64 /Zi /TP  /EHa
+\KopUnicode\Server\GroupServer\src\stdafx.cpp
+]
+Creating command line "cl.exe @c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000005.rsp /nologo"
+Creating temporary file "c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000006.rsp" with contents
+[
+/OUT:"c:\KopUnicode\Server\GroupServer\Proj\..\Bin/GroupServer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib" /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Util\lib" /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Common\lib" /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\CaLua\lib" /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\ICUHelper\lib" /LIBPATH:"c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\icu\lib" /NODEFAULTLIB:"LIBCMTD.lib" /DEBUG /PDB:"c:\KopUnicode\Server\GroupServer\Proj\..\Bin/GroupServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /MACHINE:X86 Ws2_32.lib LIBDBC.lib Util.lib WinMM.lib Common.lib ICUHelper.lib icudt.lib icuuc.lib icuin.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib
+\KopUnicode\Server\GroupServer\tmp\Release\DBConnect.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Friend.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerApp.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppChat.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppFrnd.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppGuld.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppInit.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppMaster.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppPrsn.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppServ.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupServerAppTeam.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GroupSMain.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Guild.obj
+\KopUnicode\Server\GroupServer\tmp\Release\GuildMember.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Invitation.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Master.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Player.obj
+\KopUnicode\Server\GroupServer\tmp\Release\SessionChat.obj
+\KopUnicode\Server\GroupServer\tmp\Release\stdafx1.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Team.obj
+\KopUnicode\Server\GroupServer\tmp\Release\TeamMember.obj
+\KopUnicode\Server\GroupServer\tmp\Release\LuaFunc.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Parser.obj
+\KopUnicode\Server\GroupServer\tmp\Release\Script.obj
+]
+Creating command line "link.exe @c:\KopUnicode\Server\GroupServer\tmp\Release\RSP000006.rsp"
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Output Window
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>Compiling...
+Script.cpp
+Parser.cpp
+LuaFunc.cpp
+TeamMember.cpp
+Team.cpp
+SessionChat.cpp
+Player.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Master.cpp
+Invitation.cpp
+GuildMember.cpp
+Guild.cpp
+GroupSMain.cpp
+\KopUnicode\Server\GroupServer\src\GroupSMain.cpp(8) : warning C4073: initializers put in library initialization area
+GroupServerAppTeam.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppServ.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppPrsn.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+\KopUnicode\Server\GroupServer\src\GroupServerAppPrsn.cpp(12) : warning C4800: 'dbc::uChar' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\GroupServerAppPrsn.cpp(62) : warning C4800: 'dbc::uChar' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\GroupServerAppPrsn.cpp(64) : warning C4244: '=' : conversion from 'dbc::uLong' to 'short', possible loss of data
+\KopUnicode\Server\GroupServer\src\GroupServerAppPrsn.cpp(80) : warning C4800: 'dbc::uChar' : forcing value to bool 'true' or 'false' (performance warning)
+GroupServerAppMaster.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppInit.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppGuld.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppFrnd.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+GroupServerAppChat.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Generating Code...
+Compiling...
+GroupServerApp.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+Friend.cpp
+DBConnect.cpp
+the version is long struct, are you clear? lark.li 20080411
+the version is long struct, are you clear? lark.li 20080411
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(582) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(594) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(598) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(605) : warning C4305: 'return' : truncation from 'int' to 'bool'
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(638) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(691) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+\KopUnicode\Server\GroupServer\src\DBConnect.cpp(698) : warning C4305: 'return' : truncation from 'int' to 'bool'
+Generating Code...
+Compiling...
+stdafx.cpp
+Linking...
+LINK : warning LNK4089: all references to 'icuin38.dll' discarded by /OPT:REF
+LIBDBC.lib(AcceptConnect.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(Comm.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(CommRPC.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(DataSocket.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(DBCCommon.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(IniFile.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(LogStream.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(Packet.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(Receiver.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(Sender.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(TaskQueue.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(ThreadPool.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+LIBDBC.lib(Timer.obj) : warning LNK4099: PDB 'vc70.pdb' was not found with 'c:\KopUnicode\Server\GroupServer\Proj\..\..\..\Common\Server\sdk\lib\LIBDBC.lib' or at 'c:\KopUnicode\Server\GroupServer\Bin\vc70.pdb'; linking object as if no debug info
+</pre></table><table width=100% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+Results
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+Build log was saved at "file://c:\KopUnicode\Server\GroupServer\tmp\Release\BuildLog.htm"
+GroupServer - 0 error(s), 26 warning(s)</pre></table><table   width=100% height=20 bgcolor=#CFCFE5><tr><td><font face=arial size=+2>
+</font></table></body></html>

@@ -1,0 +1,4 @@
+base referer
+rect $classOgre_1_1Singleton.html 5,5 291,32
+rect $classOgre_1_1HardwareBufferManager.html 339,5 544,32
+rect $classOgre_1_1DefaultHardwareBufferManager.html 592,5 840,32

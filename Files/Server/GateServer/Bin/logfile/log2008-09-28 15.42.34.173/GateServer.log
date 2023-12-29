@@ -1,0 +1,26 @@
+[09-28 09:26:51]Log stream open success.
+[09-28 09:28:19]GameServer= [127.0.0.1] come,Socket num= 1
+[09-28 09:28:19]recieve GameServer [GameServer01] map string [garner;] total [1]
+[09-28 09:28:19]not found [garner] map!!!
+[09-28 09:28:19]add GameServer [GameServer01] ok
+[09-28 09:28:19]add [GameServer01]  [garner] map ok
+[09-28 09:32:02]client: 127.0.0.1	come...Socket num: 1
+[09-28 09:32:03]client: 127.0.0.1	login ok.
+[09-28 09:32:28]client: 127.0.0.1:1279	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1574,Gate address:E49AB0
+[09-28 09:32:29]clinet: 127.0.0.1:1279	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-10 09:49:22]client: 127.0.0.1	come...Socket num: 2
+[09-10 09:49:23]client: 127.0.0.1	login ok.
+[09-10 09:49:48]not found [magicsea] map!!!
+[09-10 09:49:50]not found [magicsea] map!!!
+[09-10 09:49:52]client: 127.0.0.1:1403	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1276,Gate address:E49BB0
+[09-10 09:49:53]clinet: 127.0.0.1:1403	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:33637C4,Gate address:E49BB0
+[09-10 09:50:32]clinet: 127.0.0.1:1403	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:33637C4,Gate address:E49BB0
+[09-10 09:55:42]clinet: 127.0.0.1:1403	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:33637C4,Gate address:E49BB0
+[09-10 10:14:26]client: 127.0.0.1:1403	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1276,Gate address:E49BB0,Game address:33637C4
+[09-10 10:14:26]client: 127.0.0.1 gone...Socket num: 1 ,reason=网络被对方正常关闭。
+[09-10 10:14:27]client: 127.0.0.1:1279	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1574,Gate address:E49AB0,Game address:3360044
+[09-10 10:14:27]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户Logout。
+[09-10 10:14:32]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-10 10:14:32] delete [GameServer01]
+[09-10 10:14:32]delete map [garner]
+[09-10 10:14:32]becaulse GameServer trouble, notice 0 user offline

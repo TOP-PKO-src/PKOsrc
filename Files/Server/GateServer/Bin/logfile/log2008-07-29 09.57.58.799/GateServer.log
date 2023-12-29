@@ -1,0 +1,12 @@
+[07-28 06:43:59]日志流被成功打开.
+[07-28 06:44:02]GameServer= [127.0.0.1] come,Socket num= 1
+[07-28 06:44:02]recieve GameServer [GameServer01] map string [garner;] total [1]
+[07-28 06:44:02]not found [garner] map!!!
+[07-28 06:44:02]add GameServer [GameServer01] ok
+[07-28 06:44:02]add [GameServer01]  [garner] map ok
+[07-28 06:44:10]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:44:10]client: 127.0.0.1	login ok.
+[07-28 06:44:24]client: 127.0.0.1:2813	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:196,Gate address:9FF6A0
+[07-28 06:44:24]clinet: 127.0.0.1:2813	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2030024,Gate address:9FF6A0
+[07-28 07:32:06]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-28 07:32:06]client: 127.0.0.1:2813	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:196,Gate address:9FF6A0,Game address:2030024

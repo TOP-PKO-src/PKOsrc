@@ -1,0 +1,49 @@
+EXECUTABLE := Builder
+LIBS :=
+
+CFLAGS := -ggdb3
+CXXFLAGS := $(CFLAGS) -I. -O 
+
+LDFLAGS  = -L. -lzstream -lz
+AR       = ar cr
+
+
+RM-F := rm -f 
+
+SOURCE := $(wildcard *.c) $(wildcard *.cpp) 
+OBJS := $(patsubst %.c,%.o,$(patsubst %.cpp,%.o,$(SOURCE))) 
+DEPS := $(patsubst %.o,%.d,$(OBJS)) 
+MISSING_DEPS := $(filter-out $(wildcard $(DEPS)),$(DEPS)) 
+MISSING_DEPS_SOURCES := $(wildcard $(patsubst %.d,%.c,$(MISSING_DEPS))) $(patsubst %.d,%.cpp,$(MISSING_DEPS))
+
+..PHONY : everything deps objs clean veryclean rebuild 
+
+everything : $(EXECUTABLE)
+
+deps : $(DEPS) 
+
+objs : $(OBJS) 
+
+clean : 
+	@$(RM-F) *.o 
+	@$(RM-F) *.d 
+	
+zstream : libzstream.a
+
+veryclean: clean 
+	@$(RM-F) $(EXECUTABLE) 
+
+rebuild: veryclean everything 
+
+ifneq ($(MISSING_DEPS),) 
+$(MISSING_DEPS) : 
+	@$(RM-F) $(patsubst %.d,%.o,$@) 
+endif 
+
+-include $(DEPS) 
+
+$(EXECUTABLE) : $(OBJS) 
+	g++ -o $(EXECUTABLE) $(OBJS) $(addprefix -l,$(LIBS)) ${LDFLAGS}
+
+libzstream.a : zstream.o
+	${AR} libzstream.a zstream.o

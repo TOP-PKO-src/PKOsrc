@@ -1,0 +1,107 @@
+[09-02 15:10:38]Log stream open success.
+[09-02 15:17:11](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:17:29](127.0.0.1)：[test0001]select char[123456789]begin paly...，	 online/total：1/0
+[09-02 15:17:32](127.0.0.1):[test0001] char [123456789]entry map server begin play...，	 online/total:1/1
+[09-02 15:18:04](127.0.0.1)：[test0001]exit char[123456789]begin entry select char UI...，	 online/total:1/0
+[09-02 15:18:21](127.0.0.1)：[test0001123456asd1/0
+[09-02 15:18:35](127.0.0.1)：[test00011234567891/0
+[09-02 15:18:56](127.0.0.1)：[test0001]create char [limeili]，	 online/total:1/0
+[09-02 15:18:58](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:18:58](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:21:35](127.0.0.1)：[test0001]exit char[limeili]begin entry select char UI...，	 online/total:1/0
+[09-02 15:21:41](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:21:41](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:22:42](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:25:26]recieved kill acctid:[1] command(not in play list)!
+[09-02 15:27:42](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:27:52](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:27:53](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:28:16](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:29:32](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:29:40](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:29:40](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:33:38](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:35:17](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:35:22](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:35:22](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:35:48](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:39:25](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:39:34](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:39:34](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:40:50](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:49:57](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:50:06](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 15:50:06](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 15:50:25](127.0.0.1)：[test0001]exit char[limeili]begin entry select char UI...，	 online/total:1/0
+[09-02 15:50:30](127.0.0.1)：[test0001]select char[8564543]begin paly...，	 online/total：1/0
+[09-02 15:50:30](127.0.0.1):[test0001] char [8564543]entry map server begin play...，	 online/total:1/1
+[09-02 15:50:57](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 15:56:37](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 15:57:01](127.0.0.1)：[test0001]create char [jiana]，	 online/total:1/0
+[09-02 15:57:04](127.0.0.1)：[test0001]select char[jiana]begin paly...，	 online/total：1/0
+[09-02 15:57:04](127.0.0.1):[test0001] char [jiana]entry map server begin play...，	 online/total:1/1
+[09-02 15:57:57](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:03:51](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:03:56](127.0.0.1)：[test0001]select char[jiana]begin paly...，	 online/total：1/0
+[09-02 16:03:56](127.0.0.1):[test0001] char [jiana]entry map server begin play...，	 online/total:1/1
+[09-02 16:04:16](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:28:40](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:29:05](127.0.0.1)：[test0001jiana1/0
+[09-02 16:29:07](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:29:08](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:34:23](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:34:40](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:34:44](127.0.0.1)：[test0001]select char[8564543]begin paly...，	 online/total：1/0
+[09-02 16:34:44](127.0.0.1):[test0001] char [8564543]entry map server begin play...，	 online/total:1/1
+[09-02 16:34:52](127.0.0.1)：[test0001]exit char[8564543]begin entry select char UI...，	 online/total:1/0
+[09-02 16:34:57](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:34:57](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:35:11](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:37:19](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:37:23](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:37:23](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:38:24](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:38:42](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:38:46](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:38:46](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:40:15](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:44:52](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:44:57](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:44:57](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:46:24](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:46:48](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:46:53](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:46:53](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:47:16](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:49:30](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:49:34](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:49:34](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:53:38](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 16:56:35](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 16:56:39](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:56:53](127.0.0.1)：[test0001]select char[8564543]begin paly...，	 online/total：1/0
+[09-02 16:56:55](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:58:07](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 16:58:07](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 16:58:51](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 17:01:04](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 17:01:08](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 17:01:08](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 17:07:19](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 17:08:38](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 17:08:43](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 17:08:43](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 17:16:00](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 17:17:09](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 17:17:13](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 17:17:13](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 17:19:26](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 17:21:27](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 17:21:31](127.0.0.1)：[test0001]select char[limeili]begin paly...，	 online/total：1/0
+[09-02 17:21:31](127.0.0.1):[test0001] char [limeili]entry map server begin play...，	 online/total:1/1
+[09-02 17:50:07](127.0.0.1)：[test0002]login success, 	 nline/total:2/1
+[09-02 17:50:17](127.0.0.1)：[test0002]select char[113111]begin paly...，	 online/total：2/1
+[09-02 17:50:18](127.0.0.1)：[test0002]select char[李美丽]begin paly...，	 online/total：2/1
+[09-02 17:50:18](127.0.0.1):[test0002] char [李美丽]entry map server begin play...，	 online/total:2/2
+[09-02 17:51:48](127.0.0.1)：[test0002]logout,	 online/total:1/1
+[09-02 17:51:49](127.0.0.1)：[test0001]logout,	 online/total:0/0

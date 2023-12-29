@@ -1,0 +1,4 @@
+base referer
+rect $classOgre_1_1Archive.html 7,31 111,57
+rect $classOgre_1_1FileSystemArchive.html 161,5 332,32
+rect $classOgre_1_1ZipArchive.html 185,56 308,83

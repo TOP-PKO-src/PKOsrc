@@ -1,0 +1,5 @@
+base referer
+rect $classOgre_1_1StringInterface.html 5,80 152,107
+rect $classOgre_1_1MovableObject.html 176,80 325,107
+rect $classOgre_1_1ShadowCaster.html 89,5 236,32
+rect $classOgre_1_1AnimableObject.html 260,5 415,32

@@ -1,0 +1,9 @@
+[07-29 10:29:16]日志流被成功打开.
+[07-29 10:29:16]begin connect database
+[07-29 10:29:17]begin init AccountServer connect
+[07-29 10:29:17]AccountServer:127.0.0.1,1978come ! Socket num:1
+[07-29 10:29:17]begin read GroupServer.cfg
+[07-29 10:29:17]begin load ChaNameFilter.txt
+[07-29 10:29:17]begin listen port:1975
+[07-29 10:29:17]open listen port:1975success, init is ok
+[07-29 10:31:14]GateServer:127.0.0.1,2405come ! Socket num:2

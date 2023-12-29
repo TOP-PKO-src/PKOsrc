@@ -1,0 +1,24 @@
+[08-12 07:45:17]日志流被成功打开.
+[08-12 07:47:20](127.0.0.1)：[yangtao1]login success, 	 nline/total:1/0
+[08-12 07:47:31](127.0.0.1)：[yangtao1]select char[YangTao1]begin paly...，	 online/total：1/0
+[08-12 07:47:32](127.0.0.1)：[yangtao1]logout,	 online/total:0/0
+[08-12 07:48:11](127.0.0.1)：[test0006]login success, 	 nline/total:1/0
+[08-12 07:48:14](127.0.0.1)：[test0006]logout,	 online/total:0/0
+[08-12 07:48:25](127.0.0.1)：[test0005]login success, 	 nline/total:1/0
+[08-12 07:48:30](127.0.0.1)：[test0005]logout,	 online/total:0/0
+[08-12 07:48:41](127.0.0.1)：[test0004]login success, 	 nline/total:1/0
+[08-12 07:48:48](127.0.0.1)：[test0004]logout,	 online/total:0/0
+[08-12 07:48:57](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[08-12 07:49:02](127.0.0.1)：[test0003]select char[sadadasdada]begin paly...，	 online/total：1/0
+[08-12 07:49:04](127.0.0.1):[test0003] char [sadadasdada]entry map server begin play...，	 online/total:1/1
+[08-12 07:49:14](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[08-12 07:50:33](127.0.0.1)：[llhguild]login success, 	 nline/total:1/0
+[08-12 07:51:23](127.0.0.1)：[llhguild]logout,	 online/total:0/0
+[08-12 07:51:35](127.0.0.1)：[x2]login success, 	 nline/total:1/0
+[08-12 07:51:41](127.0.0.1)：[x2]select char[X2]begin paly...，	 online/total：1/0
+[08-12 07:51:44](127.0.0.1):[x2] char [X2]entry map server begin play...，	 online/total:1/1
+[08-12 07:51:53](127.0.0.1)：[x2]logout,	 online/total:0/0
+[08-12 07:52:00](127.0.0.1)：[x2]login success, 	 nline/total:1/0
+[08-12 07:52:03](127.0.0.1)：[x2]select char[X222]begin paly...，	 online/total：1/0
+[08-12 07:52:04](127.0.0.1):[x2] char [X222]entry map server begin play...，	 online/total:1/1
+[08-12 07:52:12](127.0.0.1)：[x2]logout,	 online/total:0/0

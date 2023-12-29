@@ -1,0 +1,13 @@
+[07-28 06:26:24]日志流被成功打开.
+[07-28 06:27:30]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:27:30]client: 127.0.0.1	login error, error:1104
+[07-28 06:27:30]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-28 06:27:32]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:27:32]client: 127.0.0.1	login ok.
+[07-28 06:27:47]not found [garner] map!!!
+[07-28 06:27:50]not found [garner] map!!!
+[07-28 06:27:52]not found [garner] map!!!
+[07-28 06:29:03]not found [garner] map!!!
+[07-28 06:29:06]not found [garner] map!!!
+[07-28 06:29:53]client: 127.0.0.1 gone...Socket num: 0 ,reason=程序因为退出而ShutDown网络子系统。
+[07-28 06:29:59]日志流被成功关闭.

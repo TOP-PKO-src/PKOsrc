@@ -1,0 +1,103 @@
+[08-12 07:27:26]日志流被成功打开.
+[08-12 07:27:27]GameServer= [127.0.0.1] come,Socket num= 1
+[08-12 07:27:27]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-12 07:27:27]not found [garner] map!!!
+[08-12 07:27:27]add GameServer [GameServer01] ok
+[08-12 07:27:27]add [GameServer01]  [garner] map ok
+[08-12 07:28:00]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-12 07:28:00] delete [GameServer01]
+[08-12 07:28:00]delete map [garner]
+[08-12 07:28:00]becaulse GameServer trouble, notice 0 user offline
+[08-12 07:28:56]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:28:57]client: 127.0.0.1	login error, error:1001
+[08-12 07:28:57]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:29:03]GameServer= [127.0.0.1] come,Socket num= 1
+[08-12 07:29:03]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-12 07:29:03]not found [garner] map!!!
+[08-12 07:29:03]add GameServer [GameServer01] ok
+[08-12 07:29:03]add [GameServer01]  [garner] map ok
+[08-12 07:29:40]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:29:40]client: 127.0.0.1	login error, error:1001
+[08-12 07:29:40]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:29:58]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:29:58]client: 127.0.0.1	login error, error:1001
+[08-12 07:29:58]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:31:09]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:31:09]client: 127.0.0.1	login ok.
+[08-12 07:31:29]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:31:46]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:31:46]client: 127.0.0.1	login ok.
+[08-12 07:31:52]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:32:02]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:32:02]client: 127.0.0.1	login ok.
+[08-12 07:32:06]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:32:47]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:32:47]client: 127.0.0.1	login error, error:1001
+[08-12 07:32:47]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:32:52]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:32:52]client: 127.0.0.1	login error, error:1001
+[08-12 07:32:52]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:32:59]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:32:59]client: 127.0.0.1	login error, error:1001
+[08-12 07:32:59]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:33:40]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:33:40]client: 127.0.0.1	login error, error:1001
+[08-12 07:33:40]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:33:42]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:33:42]client: 127.0.0.1	login error, error:1001
+[08-12 07:33:42]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:33:57]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:33:57]client: 127.0.0.1	login error, error:1001
+[08-12 07:33:57]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:34:05]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:34:05]client: 127.0.0.1	login error, error:1001
+[08-12 07:34:05]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:34:07]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:34:08]client: 127.0.0.1	login ok.
+[08-12 07:34:13]client: 127.0.0.1:2914	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:113,Gate address:F3A628
+[08-12 07:34:16]clinet: 127.0.0.1:2914	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A628
+[08-12 07:34:49]client: 127.0.0.1:2914	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:113,Gate address:F3A628,Game address:3310044
+[08-12 07:34:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:35:04]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:35:04]client: 127.0.0.1	login ok.
+[08-12 07:35:08]client: 127.0.0.1:2921	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1275,Gate address:F3A728
+[08-12 07:35:10]clinet: 127.0.0.1:2921	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A728
+[08-12 07:35:33]client: 127.0.0.1:2921	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1275,Gate address:F3A728,Game address:3310044
+[08-12 07:35:33]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:35:42]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:35:42]client: 127.0.0.1	login ok.
+[08-12 07:35:46]client: 127.0.0.1:2926	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:121,Gate address:F3A828
+[08-12 07:35:47]clinet: 127.0.0.1:2926	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A828
+[08-12 07:36:12]client: 127.0.0.1:2926	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:121,Gate address:F3A828,Game address:3310044
+[08-12 07:36:12]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:36:27]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:36:27]client: 127.0.0.1	login error, error:1002
+[08-12 07:36:27]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:36:34]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:36:34]client: 127.0.0.1	login error, error:1001
+[08-12 07:36:34]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:36:43]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:36:44]client: 127.0.0.1	login error, error:1001
+[08-12 07:36:44]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:36:52]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:36:52]client: 127.0.0.1	login ok.
+[08-12 07:36:57]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-12 07:37:09]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:37:09]client: 127.0.0.1	login error, error:1001
+[08-12 07:37:09]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:37:50]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:37:51]client: 127.0.0.1	login error, error:1001
+[08-12 07:37:51]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:39:02]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:39:02]client: 127.0.0.1	login error, error:1001
+[08-12 07:39:02]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:40:42]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:40:42]client: 127.0.0.1	login error, error:1001
+[08-12 07:40:42]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:40:55]client: 127.0.0.1	come...Socket num: 1
+[08-12 07:40:55]client: 127.0.0.1	login error, error:1001
+[08-12 07:40:56]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-12 07:44:05]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-12 07:44:05] delete [GameServer01]
+[08-12 07:44:05]delete map [garner]
+[08-12 07:44:05]becaulse GameServer trouble, notice 0 user offline

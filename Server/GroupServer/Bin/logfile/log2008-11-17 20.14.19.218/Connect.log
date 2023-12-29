@@ -1,0 +1,14 @@
+[11-13 16:37:19]Log stream open success.
+[11-13 16:37:19]begin connect database
+[11-13 16:37:21]begin init AccountServer connect
+[11-13 16:37:21]AccountServer:127.0.0.1,1978come ! Socket num:1
+[11-13 16:37:21]begin read GroupServer.cfg
+[11-13 16:37:21]begin load ChaNameFilter.txt
+[11-13 16:37:21]begin listen port:1975
+[11-13 16:37:21]open listen port:1975success, init is ok
+[11-13 16:38:13]GateServer:127.0.0.1,2638come ! Socket num:2
+[11-13 21:51:35]GateServer:127.0.0.1,2638go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-13 21:51:35]GateServer:127.0.0.1,3258come ! Socket num:1
+[11-13 21:51:35]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-13 21:51:42]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-14 04:28:46]GateServer:127.0.0.1,3258go ! Socket num:1reason=(-3)网络被对方正常关闭。

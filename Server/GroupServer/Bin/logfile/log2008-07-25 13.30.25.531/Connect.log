@@ -1,0 +1,5 @@
+[07-25 13:26:55]日志流被成功打开.
+[07-25 13:26:58]begin connect database
+[07-25 13:26:58]File:\KopUnicode\Server\GroupServer\src\GroupServerAppInit.cpp Line:152 desc:Unable to connect database
+
+[07-25 13:27:12]日志流被成功关闭.

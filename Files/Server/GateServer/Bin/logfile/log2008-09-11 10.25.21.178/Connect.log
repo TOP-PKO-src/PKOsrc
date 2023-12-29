@@ -1,0 +1,6 @@
+[09-03 13:55:38]Log stream open success.
+[09-03 13:55:38]连接GroupServer开始…
+[09-03 13:55:38]connect GroupServer: 127.0.0.1,Socket num:1
+[09-03 13:55:38]登录GroupServer成功!
+[09-03 15:36:00]disconnection with GroupServer,Socket num: 0,reason =程序因为退出而ShutDown网络子系统。, reconnecting...
+[09-03 15:36:10]Log stream close success.

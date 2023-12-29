@@ -1,0 +1,26 @@
+[08-22 05:22:37]Log stream open success.
+[08-22 06:55:02]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 06:55:02]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 06:55:02]not found [garner] map!!!
+[08-22 06:55:02]add GameServer [GameServer01] ok
+[08-22 06:55:02]add [GameServer01]  [garner] map ok
+[08-22 07:05:03]client: 127.0.0.1	come...Socket num: 1
+[08-22 07:05:04]client: 127.0.0.1	login ok.
+[08-22 07:05:20]client: 127.0.0.1:1626	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39B70
+[08-22 07:05:31]clinet: 127.0.0.1:1626	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39B70
+[08-22 07:05:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-22 07:05:49]client: 127.0.0.1:1626	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1431,Gate address:F39B70,Game address:3310044
+[08-22 07:06:39]client: 127.0.0.1	come...Socket num: 1
+[08-22 07:06:39]client: 127.0.0.1	login ok.
+[08-22 07:06:48]client: 127.0.0.1:1653	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39C70
+[08-22 07:06:48]clinet: 127.0.0.1:1653	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 07:09:56]clinet: 127.0.0.1:1653	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 07:15:46]clinet: 127.0.0.1:1653	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 07:30:25]client: 127.0.0.1:1653	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:1431,Gate address:F39C70,Game address:3310044
+[08-22 09:18:47]client: 127.0.0.1 gone...Socket num: 0 ,reason=KeepAlive失败。
+[08-22 09:20:19]client: 127.0.0.1	come...Socket num: 1
+[08-22 09:20:19]client: 127.0.0.1	login ok.
+[08-22 09:24:59]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 09:24:59] delete [GameServer01]
+[08-22 09:24:59]delete map [garner]
+[08-22 09:24:59]becaulse GameServer trouble, notice 0 user offline

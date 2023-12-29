@@ -1,0 +1,17 @@
+SCC = This is a Source Code Control file
+
+[PhyExport.dsp]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources", DOAAAAAA
+
+[PhyExport.dsw]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources", DOAAAAAA
+
+[PhyExport.sln]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources", DOAAAAAA
+
+[PhyExport.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Tools/3dsmaxExport/MaxscriptExport/plugins/PhysiqueInterface_sources", DOAAAAAA

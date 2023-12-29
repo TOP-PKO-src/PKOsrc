@@ -1,0 +1,6 @@
+[09-27 09:14:22]Log stream open success.
+[09-27 11:19:48](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-27 11:20:01](127.0.0.1):[test0001]select char[1234sdf]begin paly...£¬	 online/total:1/0
+[09-27 11:20:04](127.0.0.1):[test0001]select char[limeili]begin paly...£¬	 online/total:1/0
+[09-27 11:20:05](127.0.0.1):[test0001] char [limeili]entry map server begin play...£¬	 online/total:1/1
+[09-27 14:39:21](127.0.0.1):[test0001]logout,	 online/total:0/0

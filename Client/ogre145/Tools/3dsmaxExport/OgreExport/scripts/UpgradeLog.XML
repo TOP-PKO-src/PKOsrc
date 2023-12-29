@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OgreMaxExporter">
+</Property><Property Name="Solution File" Value="E:\E_CLIENT\ogre145\Tools\3dsmaxExport\OgreExport\scripts\OgreMaxExporter.sln">
+</Property><Property Name="Date" Value="2008年6月23日">
+</Property><Property Name="Time" Value="13:28:39">
+</Property></Properties><Event ErrorLevel="2" Project="OgreMaxExporter" Source="OgreMaxExporter.vcproj" Description="The project file 'E:\E_CLIENT\ogre145\Tools\3dsmaxExport\OgreExport\scripts\OgreMaxExporter.vcproj' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event></UpgradeLog>

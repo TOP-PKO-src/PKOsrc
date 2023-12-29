@@ -1,0 +1,2 @@
+﻿  CaLua_main.c
+CaLua_main.c(260): error C2440: '=': cannot convert from 'void' to 'va_list'

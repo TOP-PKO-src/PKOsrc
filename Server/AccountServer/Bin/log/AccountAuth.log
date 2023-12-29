@@ -1,0 +1,4 @@
+[08-12 07:36:27]Thread#0 Auth [test0004] (id=4) failed: invalid password!
+[08-29 10:10:53]Thread#1 Auth [test0001] (id=1) failed: invalid password!
+[10-13 21:50:44]Thread#0 Auth [yyy] (id=1) failed: invalid password!
+[10-13 21:50:52]Thread#9 Auth [yyy] (id=1) failed: invalid password!

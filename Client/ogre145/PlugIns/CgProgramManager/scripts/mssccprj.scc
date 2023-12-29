@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Plugin_CgProgramManager.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/PlugIns/CgProgramManager/scripts", AWJAAAAA
+
+[Plugin_CgProgramManager_vc8.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/PlugIns/CgProgramManager/scripts", AWJAAAAA

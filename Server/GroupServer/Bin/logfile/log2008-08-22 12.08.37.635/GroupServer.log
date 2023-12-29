@@ -1,0 +1,41 @@
+[08-22 09:34:03]Log stream open success.
+[08-22 09:49:49]recieved kill acctid:[14] command(not in play list)!
+[08-22 09:49:53](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 09:50:54](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 09:50:55](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 09:58:50](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 10:06:50](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 10:06:55](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 10:06:55](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 10:07:38](127.0.0.1)£º[X1]exit char[VCD]begin entry select char UI...£¬	 online/total:1/0
+[08-22 10:10:00](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 10:10:00](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 10:10:12](127.0.0.1)£º[X1]exit char[VCD]begin entry select char UI...£¬	 online/total:1/0
+[08-22 10:18:39](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 10:18:39](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 10:18:50](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 10:21:00](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 10:21:48](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 10:21:48](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 10:51:23](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 10:53:14](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 10:58:01](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 10:58:01](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 10:59:13](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 11:00:44](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 11:00:49](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 11:00:49](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 11:02:34](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 11:08:04](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 11:09:07](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 11:09:07](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 11:10:18](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 11:13:24](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 11:13:28](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 11:13:29](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 11:17:58](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 11:21:39](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 11:21:43](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 11:21:44](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 11:23:32](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 12:03:56](127.0.0.1)£º[X1]login success, 	 nline/total:1/0

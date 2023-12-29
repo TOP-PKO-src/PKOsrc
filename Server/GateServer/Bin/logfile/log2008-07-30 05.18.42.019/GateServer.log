@@ -1,0 +1,20 @@
+[07-29 15:05:47]日志流被成功打开.
+[07-29 15:05:48]GameServer= [127.0.0.1] come,Socket num= 1
+[07-29 15:05:48]recieve GameServer [GameServer01] map string [garner;] total [1]
+[07-29 15:05:48]not found [garner] map!!!
+[07-29 15:05:48]add GameServer [GameServer01] ok
+[07-29 15:05:48]add [GameServer01]  [garner] map ok
+[07-29 15:06:09]client: 127.0.0.1	come...Socket num: 1
+[07-29 15:06:09]client: 127.0.0.1	login ok.
+[07-29 15:06:22]client: 127.0.0.1:1225	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:137,Gate address:9FF6C0
+[07-29 15:06:24]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[07-29 15:06:24] delete [GameServer01]
+[07-29 15:06:24]delete map [garner]
+[07-29 15:06:24]becaulse GameServer trouble, notice 0 user offline
+[07-29 15:06:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-29 15:07:34]client: 127.0.0.1	come...Socket num: 1
+[07-29 15:07:34]client: 127.0.0.1	login ok.
+[07-29 15:08:00]not found [garner] map!!!
+[07-29 15:08:04]not found [garner] map!!!
+[07-29 15:08:17]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-29 15:08:49]日志流被成功关闭.

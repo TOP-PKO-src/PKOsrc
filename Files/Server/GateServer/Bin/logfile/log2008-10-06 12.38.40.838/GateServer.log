@@ -1,0 +1,30 @@
+[09-28 15:42:34]Log stream open success.
+[09-28 15:43:38]GameServer= [127.0.0.1] come,Socket num= 1
+[09-28 15:43:38]recieve GameServer [GameServer01] map string [garner;] total [1]
+[09-28 15:43:38]not found [garner] map!!!
+[09-28 15:43:38]add GameServer [GameServer01] ok
+[09-28 15:43:38]add [GameServer01]  [garner] map ok
+[09-28 15:48:24]client: 127.0.0.1	come...Socket num: 1
+[09-28 15:48:25]client: 127.0.0.1	login ok.
+[09-28 15:52:47]client: 127.0.0.1:2124	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:2597,Gate address:E49AB0
+[09-28 15:52:48]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:04:23]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:17:27]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:22:28]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:31:20]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:42:06]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:42:26]not found [magicsea] map!!!
+[09-28 17:42:26]clinet: 127.0.0.1:2124	Switch back map,to Gate[127.0.0.1]send EnterMap command,dbid:2597,Gate address:E49AB0
+[09-28 17:42:26]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:42:38]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:45:05]not found [magicsea] map!!!
+[09-28 17:45:05]clinet: 127.0.0.1:2124	Switch back map,to Gate[127.0.0.1]send EnterMap command,dbid:2597,Gate address:E49AB0
+[09-28 17:45:05]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:45:12]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:46:35]clinet: 127.0.0.1:2124	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3360044,Gate address:E49AB0
+[09-28 17:55:36]client: 127.0.0.1:2124	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:2597,Gate address:E49AB0,Game address:3360044
+[09-28 17:55:36]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-28 17:55:41]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-28 17:55:41] delete [GameServer01]
+[09-28 17:55:41]delete map [garner]
+[09-28 17:55:41]becaulse GameServer trouble, notice 0 user offline

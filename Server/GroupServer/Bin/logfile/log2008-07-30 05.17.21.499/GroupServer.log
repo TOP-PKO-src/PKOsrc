@@ -1,0 +1,10 @@
+[07-29 15:04:52]日志流被成功打开.
+[07-29 15:06:09](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 15:06:22](127.0.0.1)：[test0001]select char[tudi2]begin paly...，	 online/total：1/0
+[07-29 15:06:49](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-29 15:07:34](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 15:07:56](127.0.0.1)：[test0002]create char [234]，	 online/total:1/0
+[07-29 15:08:00](127.0.0.1)：[test0002]select char[234]begin paly...，	 online/total：1/0
+[07-29 15:08:04](127.0.0.1)：[test0002]select char[234]begin paly...，	 online/total：1/0
+[07-29 15:08:17](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 15:08:41]日志流被成功关闭.

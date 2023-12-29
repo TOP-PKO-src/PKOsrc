@@ -1,0 +1,5 @@
+[07-28 06:41:09]日志流被成功打开.
+[07-28 06:44:10](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-28 06:44:24](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-28 06:44:24](127.0.0.1):[test0003] char [45]entry map server begin play...，	 online/total:1/1
+[07-28 07:32:06](127.0.0.1)：[test0003]logout,	 online/total:0/0

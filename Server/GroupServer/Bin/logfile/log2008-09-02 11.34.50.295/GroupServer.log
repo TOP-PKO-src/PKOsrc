@@ -1,0 +1,22 @@
+[09-02 09:01:51]Log stream open success.
+[09-02 10:06:48](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[09-02 10:08:18](127.0.0.1)：[test0002]create char [Chaos]，	 online/total:1/0
+[09-02 10:08:22](127.0.0.1)：[test0002]select char[Chaos]begin paly...，	 online/total：1/0
+[09-02 10:08:23](127.0.0.1):[test0002] char [Chaos]entry map server begin play...，	 online/total:1/1
+[09-02 10:09:22](127.0.0.1)：[test0002]exit char[Chaos]begin entry select char UI...，	 online/total:1/0
+[09-02 10:09:27](127.0.0.1)：[test0002]select char[李美丽]begin paly...，	 online/total：1/0
+[09-02 10:09:27](127.0.0.1):[test0002] char [李美丽]entry map server begin play...，	 online/total:1/1
+[09-02 10:09:37](127.0.0.1)：[test0002]exit char[李美丽]begin entry select char UI...，	 online/total:1/0
+[09-02 10:09:46](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[09-02 10:12:46](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 10:13:05](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 10:23:44]recieved kill acctid:[1] command(not in play list)!
+[09-02 10:23:47](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 10:23:58](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[09-02 10:52:14](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[09-02 10:52:22](127.0.0.1)：[test0001]select char[8564543]begin paly...，	 online/total：1/0
+[09-02 10:52:24](127.0.0.1):[test0001] char [8564543]entry map server begin play...，	 online/total:1/1
+[09-02 10:52:44](127.0.0.1)：[test0001]exit char[8564543]begin entry select char UI...，	 online/total:1/0
+[09-02 10:52:48](127.0.0.1)：[test0001]select char[8564543]begin paly...，	 online/total：1/0
+[09-02 10:52:48](127.0.0.1):[test0001] char [8564543]entry map server begin play...，	 online/total:1/1
+[09-02 11:19:27](127.0.0.1)：[test0001]logout,	 online/total:0/0

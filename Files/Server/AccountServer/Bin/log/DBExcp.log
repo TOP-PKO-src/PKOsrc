@@ -1,0 +1,3 @@
+[09-26 09:20:57]Check data field failure! SQL Exception in CDataBaseCtrl::CreateObject(): [Microsoft][ODBC SQL Server Driver][SQL Server]拒绝了对对象 'account_login'（数据库 'AccountServer'，所有者 'dbo'）的 SELECT 权限。
+[09-26 09:21:59]Check data field failure! SQL Exception in CDataBaseCtrl::CreateObject(): [Microsoft][ODBC SQL Server Driver][SQL Server]拒绝了对对象 'account_login'（数据库 'AccountServer'，所有者 'dbo'）的 SELECT 权限。
+[09-26 09:24:33]Check data field failure! SQL Exception in CDataBaseCtrl::CreateObject(): [Microsoft][ODBC SQL Server Driver][SQL Server]拒绝了对对象 'account_login'（数据库 'AccountServer'，所有者 'dbo'）的 SELECT 权限。

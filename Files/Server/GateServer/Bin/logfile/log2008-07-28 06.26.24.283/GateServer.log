@@ -1,0 +1,40 @@
+[07-28 05:33:27]日志流被成功打开.
+[07-28 05:37:10]client: 127.0.0.1	come...Socket num: 1
+[07-28 05:37:11]client: 127.0.0.1	login error, error:1104
+[07-28 05:37:11]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-28 05:37:18]client: 127.0.0.1	come...Socket num: 1
+[07-28 05:37:18]client: 127.0.0.1	login error, error:1104
+[07-28 05:37:18]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-28 05:37:24]client: 127.0.0.1	come...Socket num: 1
+[07-28 05:37:24]client: 127.0.0.1	login error, error:1104
+[07-28 05:37:24]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-28 05:37:26]client: 127.0.0.1	come...Socket num: 1
+[07-28 05:37:26]client: 127.0.0.1	login ok.
+[07-28 05:42:18]not found [garner] map!!!
+[07-28 05:42:21]not found [garner] map!!!
+[07-28 05:42:23]not found [garner] map!!!
+[07-28 05:43:13]not found [garner] map!!!
+[07-28 05:43:20]not found [garner] map!!!
+[07-28 05:43:22]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-28 05:52:12]client: 127.0.0.1	come...Socket num: 1
+[07-28 05:52:12]client: 127.0.0.1	login ok.
+[07-28 05:52:30]not found [garner] map!!!
+[07-28 05:52:33]not found [garner] map!!!
+[07-28 05:52:35]not found [garner] map!!!
+[07-28 05:52:37]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-28 06:10:55]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:10:56]client: 127.0.0.1	login ok.
+[07-28 06:11:15]not found [garner] map!!!
+[07-28 06:11:20]not found [garner] map!!!
+[07-28 06:11:23]not found [garner] map!!!
+[07-28 06:11:27]not found [garner] map!!!
+[07-28 06:12:39]not found [garner] map!!!
+[07-28 06:12:41]not found [garner] map!!!
+[07-28 06:12:43]not found [garner] map!!!
+[07-28 06:12:45]not found [garner] map!!!
+[07-28 06:12:47]not found [garner] map!!!
+[07-28 06:12:48]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[07-28 06:20:24]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:20:24]client: 127.0.0.1	login ok.
+[07-28 06:21:04]not found [garner] map!!!
+[07-28 06:23:00]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。

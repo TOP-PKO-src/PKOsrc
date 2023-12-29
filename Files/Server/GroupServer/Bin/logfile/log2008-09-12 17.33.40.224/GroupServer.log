@@ -1,0 +1,22 @@
+[09-11 10:24:51]Log stream open success.
+[09-11 13:56:53](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-11 13:57:09](127.0.0.1):[X3]select char[T22]begin paly...£¬	 online/total:1/0
+[09-11 13:57:11](127.0.0.1):[X3]select char[T23]begin paly...£¬	 online/total:1/0
+[09-11 13:57:24](127.0.0.1):[X3T231/0
+[09-11 13:57:51](127.0.0.1):[X3]create char [sala]£¬	 online/total:1/0
+[09-11 13:57:54](127.0.0.1):[X3]select char[sala]begin paly...£¬	 online/total:1/0
+[09-11 13:57:56](127.0.0.1):[X3] char [sala]entry map server begin play...£¬	 online/total:1/1
+[09-11 13:58:17](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-11 14:00:45]recieved kill acctid:[16] command(not in play list)!
+[09-11 14:00:48](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-11 14:00:58](127.0.0.1):[X3]select char[sala]begin paly...£¬	 online/total:1/0
+[09-11 14:00:58](127.0.0.1):[X3] char [sala]entry map server begin play...£¬	 online/total:1/1
+[09-11 14:01:23](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-11 14:43:43]recieved kill acctid:[16] command(not in play list)!
+[09-11 14:43:45](127.0.0.1):[X3]login failed, error:1105
+[09-11 14:43:50](127.0.0.1):[X3]login failed, error:1105
+[09-11 14:44:05](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-11 14:44:17](127.0.0.1):[X3]select char[sala]begin paly...£¬	 online/total:1/0
+[09-11 14:44:18](127.0.0.1):[X3] char [sala]entry map server begin play...£¬	 online/total:1/1
+[09-11 14:49:02](127.0.0.1):[X3]logout,	 online/total:0/0
+[09-11 14:53:39]Log stream close success.

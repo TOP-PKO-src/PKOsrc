@@ -1,0 +1,163 @@
+1、GameApp.h
+
+namespace FontModule
+{
+	class Font;
+}
+
+	FontModule::Font*	GetFont();
+
+2、GameAppInterface.cpp
+	#include <FontAbstract.h>
+	#include <FontSystem.h>
+
+	FontModule::Font* CGameApp::GetFont()
+	{
+		return FontModule::FontSystem::getSingleton().getFont( string( "2" ) );
+	}
+
+	// Name == 1 or 2
+	FontModule::Font* font = GetFont();
+	font->GetTextSize( pText->szText, &sz );
+	font->DrawText(pText->szText, ( GetWindowWidth() - sz.cx ) / 2, nTextY, dwColor);
+
+3、GameAppRender.cpp
+	#include <FontAbstract.h>
+	
+	// Name == 1
+	FontModule::Font* font = g_pGameApp->GetFont();
+
+4、GameAppInit.cpp
+#include <FontAbstract.h>
+
+delete all CMPFont
+	
+5、DrawPointList.cpp
+#include <FontAbstract.h>
+
+6、STMove.cpp
+#include <FontAbstract.h>
+
+7、UIMinimapForm.cpp
+#include <FontAbstract.h>，并修改CMPFont。
+
+8、UIFont.cpp
+	int CGuiFont::CreateFont( char* font, int size800, int size1024, DWORD dwStyle )
+	{
+		static int index = 0;
+		
+		while( FontModule::FontSystem::getSingleton().getFont( getString( index ) ) )
+		{
+			++index;
+		}
+		
+		FontModule::FontSystem::getSingleton().createFont( getString( index ), string( font ), size800 );
+		
+		return index;
+	}
+
+
+9、UIFont.h
+#include <FontAbstract.h>
+#include <FontSystem.h>
+
+inline string getString( int value )
+{
+	ostringstream oss;
+	oss << value;
+	return oss.str();
+}
+
+bool	Init()		{ return true;		}
+
+FontModule::Font* GetFont( unsigned int index=0 );
+FontModule::Font* _pFont;
+
+inline void CGuiFont::Render( unsigned int nIndex, const char* str, int x, int y, DWORD color )
+{
+	if( FontModule::Font* font = FontModule::FontSystem::getSingleton().getFont( getString( nIndex ) ) )
+	{
+		font->DrawText((char*)str, x, y, color, 1.0f );
+	}
+}
+
+inline void CGuiFont::BRender( unsigned int nIndex, const char* str, int x, int y, DWORD color, DWORD shadow )
+{
+	if( FontModule::Font* font = FontModule::FontSystem::getSingleton().getFont( getString( nIndex ) ) )
+	{
+		font->DrawTextShadow( (char*)str, x+1, y+1, x, y, shadow, color );
+	}
+}
+
+inline bool CGuiFont::GetSize( unsigned int index, const char* str, int& w, int &h )
+{
+	if( FontModule::Font* font = FontModule::FontSystem::getSingleton().getFont( getString( index ) ) )
+	{
+		font->GetTextSize( const_cast<char*>(str), &_size );
+	}
+
+	h = (int)( _size.cy );
+	w = (int)( _size.cx );
+	return true;
+}
+
+inline void CGuiFont::SetIndex( unsigned int index )		
+{
+	if( FontModule::Font* font = FontModule::FontSystem::getSingleton().getFont( getString( index ) ) )
+	{
+		_pFont = font;
+	}
+}
+
+inline FontModule::Font* CGuiFont::GetFont( unsigned int index ) 
+{ 
+	if( FontModule::Font* font = FontModule::FontSystem::getSingleton().getFont( getString( index ) ) )
+	{
+		return font;
+	}
+	return _pFont;
+}
+
+10、UIRender.cpp
+
+void CGuiFont::SetScreen( int nScrWidth, int nScrHeight )
+{
+	Clear();
+
+	if( nScrWidth==800 )
+	{
+		FontModule::FontSystem::getSingleton().notifyScreenResolution( 800, 600 );
+	}
+	else
+	{
+		FontModule::FontSystem::getSingleton().notifyScreenResolution( 1024, 768 );
+	}
+
+	FontModule::Font* font = g_pGameApp->GetFont();
+    _pFont = font;
+}
+
+bool CGuiFont::Clear()
+{
+	return true;
+}
+
+10、worldscene.h
+
+delete all cmpfont
+
+11、smallmap.cpp
+
+#include <FontSystem.h>
+
+FontModule::Font* font = g_pGameApp->GetFont();
+
+12、stdafx.h
+#define CLIENT_BUILD
+
+13、createchascene.cpp
+在void CCreateChaScene::RenderCha(int x,int y)
+{
+加入
+	g_Render.GetDevice()->SetRenderState(D3DRS_ZENABLE, D3DZB_TRUE);
+	g_Render.GetDevice()->SetRenderState(D3DRS_ZWRITEENABLE, TRUE);

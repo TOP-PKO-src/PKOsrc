@@ -1,0 +1,170 @@
+[09-28 09:28:19]GateServer Connected! IP = [127.0.0.1] port = 1971
+[09-28 09:28:19]ProcessData Gate_Connect
+[09-28 09:28:19]Exec OnGateConnected()
+[09-28 09:28:19][garner;]
+[09-28 15:43:38]GateServer Connected! IP = [127.0.0.1] port = 1971
+[09-28 15:43:38]ProcessData Gate_Connect
+[09-28 15:43:38]Exec OnGateConnected()
+[09-28 15:43:38][garner;]
+[10-08 17:36:09]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-08 17:36:10]ProcessData Gate_Connect
+[10-08 17:36:10]Exec OnGateConnected()
+[10-08 17:36:10][garner;]
+[10-08 17:52:29]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-08 17:52:30]ProcessData Gate_Connect
+[10-08 17:52:30]Exec OnGateConnected()
+[10-08 17:52:30][garner;]
+[10-13 11:08:49]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-13 11:08:50]ProcessData Gate_Connect
+[10-13 11:08:50]Exec OnGateConnected()
+[10-13 11:08:50][garner;]
+[10-13 21:44:17]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-13 21:44:17]ProcessData Gate_Connect
+[10-13 21:44:17]Exec OnGateConnected()
+[10-13 21:44:17][garner;]
+[10-13 22:59:28]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-13 22:59:28]ProcessData Gate_Connect
+[10-13 22:59:28]Exec OnGateConnected()
+[10-13 22:59:28][magicsea;]
+[10-14 21:27:11]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-14 21:27:16]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-14 21:27:16]ProcessData Gate_Connect
+[10-14 21:27:16]Exec OnGateConnected()
+[10-14 21:27:16][magicsea;]
+[10-15 22:45:08]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-15 22:45:13]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-15 22:45:13]ProcessData Gate_Connect
+[10-15 22:45:13]Exec OnGateConnected()
+[10-15 22:45:13][magicsea;]
+[10-16 20:49:48]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-16 20:55:55]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-16 20:55:55]ProcessData Gate_Connect
+[10-16 20:55:55]Exec OnGateConnected()
+[10-16 20:55:55][garner;]
+[10-17 18:49:22]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-17 18:49:23]ProcessData Gate_Connect
+[10-17 18:49:23]Exec OnGateConnected()
+[10-17 18:49:23][garner;]
+[10-17 18:51:17]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-17 18:51:17]ProcessData Gate_Connect
+[10-17 18:51:17]Exec OnGateConnected()
+[10-17 18:51:17][magicsea;]
+[10-17 19:09:29]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-18 23:39:16]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-18 23:39:16]ProcessData Gate_Connect
+[10-18 23:39:16]Exec OnGateConnected()
+[10-18 23:39:16][magicsea;]
+[10-19 01:46:41]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 01:46:41]ProcessData Gate_Connect
+[10-19 01:46:41]Exec OnGateConnected()
+[10-19 01:46:41][magicsea;]
+[10-19 01:53:58]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 01:53:58]ProcessData Gate_Connect
+[10-19 01:53:58]Exec OnGateConnected()
+[10-19 01:53:58][magicsea;]
+[10-19 02:07:43]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 02:07:43]ProcessData Gate_Connect
+[10-19 02:07:43]Exec OnGateConnected()
+[10-19 02:07:43][magicsea;]
+[10-19 02:26:58]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 02:26:58]ProcessData Gate_Connect
+[10-19 02:26:58]Exec OnGateConnected()
+[10-19 02:26:58][magicsea;]
+[10-19 13:41:55]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-19 13:45:21]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 13:45:21]ProcessData Gate_Connect
+[10-19 13:45:21]Exec OnGateConnected()
+[10-19 13:45:21][magicsea;]
+[10-19 13:46:01]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 13:46:01]ProcessData Gate_Connect
+[10-19 13:46:01]Exec OnGateConnected()
+[10-19 13:46:01][magicsea;]
+[10-19 14:24:49]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 14:24:49]ProcessData Gate_Connect
+[10-19 14:24:49]Exec OnGateConnected()
+[10-19 14:24:49][magicsea;]
+[10-19 14:31:43]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 14:31:43]ProcessData Gate_Connect
+[10-19 14:31:43]Exec OnGateConnected()
+[10-19 14:31:43][magicsea;]
+[10-19 14:45:02]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 14:45:07]ProcessData Gate_Connect
+[10-19 14:45:07]Exec OnGateConnected()
+[10-19 14:45:07][magicsea;]
+[10-19 14:47:04]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 14:47:04]ProcessData Gate_Connect
+[10-19 14:47:04]Exec OnGateConnected()
+[10-19 14:47:04][magicsea;]
+[10-19 19:25:45]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[10-19 19:33:11]GateServer Connected! IP = [127.0.0.1] port = 1971
+[10-19 19:33:11]ProcessData Gate_Connect
+[10-19 19:33:11]Exec OnGateConnected()
+[10-19 19:33:11][magicsea;]
+[11-13 17:21:53]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-13 17:21:53]ProcessData Gate_Connect
+[11-13 17:21:53]Exec OnGateConnected()
+[11-13 17:21:53][magicsea;]
+[11-13 21:51:35]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[11-14 01:56:24]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-14 01:56:24]ProcessData Gate_Connect
+[11-14 01:56:24]Exec OnGateConnected()
+[11-14 01:56:24][magicsea;]
+[11-17 20:15:02]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-17 20:15:02]ProcessData Gate_Connect
+[11-17 20:15:02]Exec OnGateConnected()
+[11-17 20:15:02][magicsea;]
+[11-17 20:31:22]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [Õ¯¬Á±ª∂‘∑Ω’˝≥£πÿ±’°£]
+[11-28 02:03:14]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 02:03:14]ProcessData Gate_Connect
+[11-28 02:03:14]Exec OnGateConnected()
+[11-28 02:03:14][magicsea;]
+[11-28 03:33:09]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[11-28 03:33:14]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 03:33:14]ProcessData Gate_Connect
+[11-28 03:33:14]Exec OnGateConnected()
+[11-28 03:33:14][magicsea;]
+[11-28 07:40:29]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 07:40:29]ProcessData Gate_Connect
+[11-28 07:40:29]Exec OnGateConnected()
+[11-28 07:40:29][magicsea;]
+[11-28 10:42:54]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 10:42:54]ProcessData Gate_Connect
+[11-28 10:42:54]Exec OnGateConnected()
+[11-28 10:42:54][magicsea;]
+[11-28 10:46:35]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 10:46:35]ProcessData Gate_Connect
+[11-28 10:46:35]Exec OnGateConnected()
+[11-28 10:46:35][magicsea;eastgoaf;]
+[11-28 12:59:28]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 12:59:28]ProcessData Gate_Connect
+[11-28 12:59:28]Exec OnGateConnected()
+[11-28 12:59:28][magicsea;]
+[11-28 13:13:59]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 13:13:59]ProcessData Gate_Connect
+[11-28 13:13:59]Exec OnGateConnected()
+[11-28 13:13:59][magicsea;jialebi;]
+[11-28 14:04:26]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[11-28 15:12:32]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 15:12:32]ProcessData Gate_Connect
+[11-28 15:12:32]Exec OnGateConnected()
+[11-28 15:12:32][magicsea;jialebi;]
+[11-28 17:07:46]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[11-28 17:09:04]GateServer Connected! IP = [127.0.0.1] port = 1971
+[11-28 17:09:04]ProcessData Gate_Connect
+[11-28 17:09:04]Exec OnGateConnected()
+[11-28 17:09:04][magicsea;jialebi;]
+[11-28 18:58:25]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [KeepAlive ß∞‹°£]
+[12-02 03:46:53]GateServer Connected! IP = [127.0.0.1] port = 1971
+[12-02 03:46:53]ProcessData Gate_Connect
+[12-02 03:46:53]Exec OnGateConnected()
+[12-02 03:46:53][magicsea;jialebi;]
+[12-02 08:06:56]GateServer Connected! IP = [127.0.0.1] port = 1971
+[12-02 08:06:56]ProcessData Gate_Connect
+[12-02 08:06:56]Exec OnGateConnected()
+[12-02 08:06:56][magicsea;jialebi;]
+[12-02 09:46:16]GateServer Disconnect! IP = [127.0.0.1] port = 1971, reason = [Õ¯¬Á±ª∂‘∑Ω’˝≥£πÿ±’°£]
+[12-02 09:46:21]connect to  GateServer failed, ip = 127.0.0.1, port = 1971.
+[12-02 15:43:55]GateServer Connected! IP = [127.0.0.1] port = 1971
+[12-02 15:43:55]ProcessData Gate_Connect
+[12-02 15:43:55]Exec OnGateConnected()
+[12-02 15:43:55][magicsea;jialebi;]

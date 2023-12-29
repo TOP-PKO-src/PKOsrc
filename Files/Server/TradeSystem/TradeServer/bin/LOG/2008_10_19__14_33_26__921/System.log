@@ -1,0 +1,38 @@
+2008-10-19 14:33:26.937  <===== Begin Server =====>
+2008-10-19 14:33:26.937  Begin Init Service
+2008-10-19 14:33:26.937  Begin read config file
+2008-10-19 14:33:26.937  Config file path: C:\KopUnicode\Server\TradeSystem\TradeServer\bin\config.cfg
+2008-10-19 14:33:26.937  Service Name: InfoServer
+2008-10-19 14:33:26.937  Service Port: 1985
+2008-10-19 14:33:26.937  Exchange Rate: 100
+2008-10-19 14:33:26.953  Database Server: .
+2008-10-19 14:33:26.953  Database Username: ********
+2008-10-19 14:33:26.953  Database Password: ********
+2008-10-19 14:33:26.953  Database Name: TradeServer
+2008-10-19 14:33:26.953  Billing Server1: 222.73.250.74:7243
+2008-10-19 14:33:26.953  Billing Server2: 222.73.250.74:7243
+2008-10-19 14:33:26.953  End read config file
+2008-10-19 14:33:26.953  Begin init logic thread
+2008-10-19 14:33:26.953  End init logic thread
+2008-10-19 14:33:26.953  System info: 2 CPU
+2008-10-19 14:33:26.953  System info: 6 IOCP Work Thread
+2008-10-19 14:33:26.953  Begin init IOCP work thread
+2008-10-19 14:33:27.218  End init IOCP work thread
+2008-10-19 14:33:27.218  End Init Service
+2008-10-19 14:33:27.218  Begin run service thread
+2008-10-19 14:33:30.375  End run service thread
+2008-10-19 14:33:30.671  Begin create monitor GUI
+2008-10-19 14:33:31.187  Begin Logic Store Thread 1900
+2008-10-19 14:33:31.453  Begin IOCP Work Thread 2200
+2008-10-19 14:33:31.453  Begin IOCP Work Thread 4060
+2008-10-19 14:33:31.468  Begin IOCP Work Thread 2136
+2008-10-19 14:33:31.468  Begin Mail Thread 3696
+2008-10-19 14:33:31.468  Begin IOCP Work Thread 2828
+2008-10-19 14:33:31.468  Begin IOCP Work Thread 3192
+2008-10-19 14:33:31.468  Begin IOCP Accept Thread 2280
+2008-10-19 14:33:31.468  Begin Log Thread 1244
+2008-10-19 14:33:31.468  Begin IOCP Work Thread 4144
+2008-10-19 14:33:31.468  Begin Manage Thread 564
+2008-10-19 14:33:31.796  End create monitor GUI
+2008-10-19 14:33:31.796  InfoServer startup success
+2008-10-19 14:47:51.140  Exception File: \KopUnicode\Server\TradeSystem\TradeServer\src\netthread.cpp, Function: IOCPWorkThread::Run, Line: 221, ThreadID: 4144

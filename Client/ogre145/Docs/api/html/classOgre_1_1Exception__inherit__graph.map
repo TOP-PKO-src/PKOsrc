@@ -1,0 +1,10 @@
+base referer
+rect $classOgre_1_1FileNotFoundException.html 188,5 388,32
+rect $classOgre_1_1InternalErrorException.html 192,56 384,83
+rect $classOgre_1_1InvalidParametersException.html 175,107 401,133
+rect $classOgre_1_1InvalidStateException.html 193,157 383,184
+rect $classOgre_1_1IOException.html 221,208 355,235
+rect $classOgre_1_1ItemIdentityException.html 193,259 383,285
+rect $classOgre_1_1RenderingAPIException.html 187,309 389,336
+rect $classOgre_1_1RuntimeAssertionException.html 176,360 400,387
+rect $classOgre_1_1UnimplementedException.html 181,411 395,437

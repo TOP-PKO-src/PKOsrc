@@ -1,0 +1,1644 @@
+ CaLua_dbg
+
+ Timestamp is 401a21df (Fri Jan 30 04:20:31 2004)
+
+ Preferred load address is 10000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0001e998H .text                   CODE
+ 0002:00000000 000001e0H .idata$5                DATA
+ 0002:000001e0 00000d94H .rdata                  DATA
+ 0002:00000f74 00000041H .rdata$debug            DATA
+ 0002:00000fb8 00000004H .rtc$IAA                DATA
+ 0002:00000fbc 00000028H .rtc$IMZ                DATA
+ 0002:00000fe4 00000004H .rtc$IZZ                DATA
+ 0002:00000fe8 00000004H .rtc$TAA                DATA
+ 0002:00000fec 00000028H .rtc$TMZ                DATA
+ 0002:00001014 00000004H .rtc$TZZ                DATA
+ 0002:00001018 00000028H .idata$2                DATA
+ 0002:00001040 00000014H .idata$3                DATA
+ 0002:00001054 000001e0H .idata$4                DATA
+ 0002:00001234 00000558H .idata$6                DATA
+ 0002:00001790 00000161H .edata                  DATA
+ 0003:00000000 00000004H .CRT$XCA                DATA
+ 0003:00000004 00000004H .CRT$XCAA               DATA
+ 0003:00000008 00000004H .CRT$XCZ                DATA
+ 0003:0000000c 00000004H .CRT$XIA                DATA
+ 0003:00000010 00000004H .CRT$XIZ                DATA
+ 0003:00000020 00002b70H .data                   DATA
+ 0003:00002ba0 0000031cH .bss                    DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0000:00000000       __except_list              00000000     <absolute>
+ 0000:00009876       __fltused                  00009876     <absolute>
+ 0000:00009876       __ldused                   00009876     <absolute>
+ 0001:00000000       _CLU_AVL_Node_Create       10001000 f   CaLua_avltree.obj
+ 0001:00000066       _CLU_AVL_Node_Destroy      10001066 f   CaLua_avltree.obj
+ 0001:000000f2       _avlrotleft                100010f2 f   CaLua_avltree.obj
+ 0001:0000012d       _avlrotright               1000112d f   CaLua_avltree.obj
+ 0001:00000168       _avlleftgrown              10001168 f   CaLua_avltree.obj
+ 0001:0000028a       _avlrightgrown             1000128a f   CaLua_avltree.obj
+ 0001:000003b3       _avlleftshrunk             100013b3 f   CaLua_avltree.obj
+ 0001:0000051c       _avlrightshrunk            1000151c f   CaLua_avltree.obj
+ 0001:0000067b       _avlfindhighest            1000167b f   CaLua_avltree.obj
+ 0001:000007a5       _avlfindlowest             100017a5 f   CaLua_avltree.obj
+ 0001:000008cc       _CLU_AVL_Create            100018cc f   CaLua_avltree.obj
+ 0001:00000923       _CLU_AVL_Destroy_Rec       10001923 f   CaLua_avltree.obj
+ 0001:0000099e       _CLU_AVL_Destroy           1000199e f   CaLua_avltree.obj
+ 0001:00000a6d       _CLU_AVL_Insert_Rec        10001a6d f   CaLua_avltree.obj
+ 0001:00000b77       _CLU_AVL_Insert            10001b77 f   CaLua_avltree.obj
+ 0001:00000ba5       _CLU_AVL_Remove_Rec        10001ba5 f   CaLua_avltree.obj
+ 0001:00000d5e       _CLU_AVL_Remove            10001d5e f   CaLua_avltree.obj
+ 0001:00000d88       _CLU_AVL_Access_Rec        10001d88 f   CaLua_avltree.obj
+ 0001:00000e23       _CLU_AVL_Access            10001e23 f   CaLua_avltree.obj
+ 0001:00000e4d       _CLU_AVL_MinList_Rec       10001e4d f   CaLua_avltree.obj
+ 0001:00000ecb       _CLU_AVL_MinList           10001ecb f   CaLua_avltree.obj
+ 0001:00000f1e       _CLU_AVL_MaxList_Rec       10001f1e f   CaLua_avltree.obj
+ 0001:00000f9c       _CLU_AVL_MaxList           10001f9c f   CaLua_avltree.obj
+ 0001:00000ff0       _To4ByteBoundary           10001ff0 f   CaLua_function.obj
+ 0001:00001016       _FreeStackData             10002016 f   CaLua_function.obj
+ 0001:000010dc       _FreeCStack                100020dc f   CaLua_function.obj
+ 0001:0000112a       _PrepareStack              1000212a f   CaLua_function.obj
+ 0001:000013d5       _ParseReturnArgument       100023d5 f   CaLua_function.obj
+ 0001:00001570       _CLU_Hash_Key_Create       10002570 f   CaLua_hash.obj
+ 0001:00001588       _CLU_Hash_Key_Destroy      10002588 f   CaLua_hash.obj
+ 0001:000015b9       _CLU_Hash_Key_Cmp          100025b9 f   CaLua_hash.obj
+ 0001:000015e1       _CLU_LUNode_Create         100025e1 f   CaLua_hash.obj
+ 0001:00001613       _CLU_LUNode_Destroy        10002613 f   CaLua_hash.obj
+ 0001:00001650       _CLU_InitError             10002650 f   CaLua_helper.obj
+ 0001:00001714       _CLU_ShutdownError         10002714 f   CaLua_helper.obj
+ 0001:00001753       _CLU_Error                 10002753 f   CaLua_helper.obj
+ 0001:00001841       _CLU_Calloc                10002841 f   CaLua_helper.obj
+ 0001:00001867       _CLU_Malloc                10002867 f   CaLua_helper.obj
+ 0001:0000188b       _CLU_Free                  1000288b f   CaLua_helper.obj
+ 0001:000018af       _CLU_ExpandBuffer          100028af f   CaLua_helper.obj
+ 0001:000019cd       _CLU_InsertBuffer          100029cd f   CaLua_helper.obj
+ 0001:00001a8c       _CLU_SnipBuffer            10002a8c f   CaLua_helper.obj
+ 0001:00001b37       _CLU_String_Copy           10002b37 f   CaLua_helper.obj
+ 0001:00001bb6       _CLU_String_Concat         10002bb6 f   CaLua_helper.obj
+ 0001:00001c30       _Handler                   10002c30 f   CaLua_luafuncs.obj
+ 0001:00001d7d       _LuaFree                   10002d7d f   CaLua_luafuncs.obj
+ 0001:00001e7d       _Array_Destroy             10002e7d f   CaLua_luafuncs.obj
+ 0001:00001f56       _PopInitArrayTable         10002f56 f   CaLua_luafuncs.obj
+ 0001:000020e4       _Array_Create              100030e4 f   CaLua_luafuncs.obj
+ 0001:000023ba       _Array_Get                 100033ba f   CaLua_luafuncs.obj
+ 0001:000025ab       _Array_Insert              100035ab f   CaLua_luafuncs.obj
+ 0001:00002842       _Array_Append              10003842 f   CaLua_luafuncs.obj
+ 0001:00002911       _Array_CharToString        10003911 f   CaLua_luafuncs.obj
+ 0001:0000298d       _Array_Delete              1000398d f   CaLua_luafuncs.obj
+ 0001:00002aeb       _Array_InsertArray         10003aeb f   CaLua_luafuncs.obj
+ 0001:00002cad       _LUD_To_Number             10003cad f   CaLua_luafuncs.obj
+ 0001:00002ecc       _LUD_To_String             10003ecc f   CaLua_luafuncs.obj
+ 0001:00002f0d       _LUD_To_Table              10003f0d f   CaLua_luafuncs.obj
+ 0001:00002f7f       _Table_To_LUD              10003f7f f   CaLua_luafuncs.obj
+ 0001:00003045       _String_To_LUD             10004045 f   CaLua_luafuncs.obj
+ 0001:0000308f       _Number_To_LUD             1000408f f   CaLua_luafuncs.obj
+ 0001:00003397       _UpdateLUD                 10004397 f   CaLua_luafuncs.obj
+ 0001:00003490       _CLU_Init                  10004490 f   CaLua_main.obj
+ 0001:00003b38       _CLU_ShutdownState         10004b38 f   CaLua_main.obj
+ 0001:00003f7b       _CLU_Shutdown              10004f7b f   CaLua_main.obj
+ 0001:00003fd6       _CLU_LoadScript            10004fd6 f   CaLua_main.obj
+ 0001:0000407f       _CLU_DllFree               1000507f f   CaLua_main.obj
+ 0001:000040a4       _CLU_GetVirtualMachine     100050a4 f   CaLua_main.obj
+ 0001:000040ae       _CLU_GetCurrentState       100050ae f   CaLua_main.obj
+ 0001:000040b8       _CLU_CallScriptFunction    100050b8 f   CaLua_main.obj
+ 0001:00004408       _CLU_RegisterStructure     10005408 f   CaLua_main.obj
+ 0001:000047d1       _CLU_RegisterFunction      100057d1 f   CaLua_main.obj
+ 0001:00004ab0       _GetFunctionIndex          10005ab0 f   CaLua_parser.obj
+ 0001:00004af6       _GetTableIndex             10005af6 f   CaLua_parser.obj
+ 0001:00004b3c       _GetToken                  10005b3c f   CaLua_parser.obj
+ 0001:00004c5d       _GetNumberOfTokens         10005c5d f   CaLua_parser.obj
+ 0001:00004cd2       _IsPointer                 10005cd2 f   CaLua_parser.obj
+ 0001:00004d00       _GetDataType               10005d00 f   CaLua_parser.obj
+ 0001:00004e28       _ParseDataType             10005e28 f   CaLua_parser.obj
+ 0001:00004eb1       _ParseDataName             10005eb1 f   CaLua_parser.obj
+ 0001:00004f1c       _GetDataSize               10005f1c f   CaLua_parser.obj
+ 0001:00004fd0       _PopRegTable               10005fd0 f   CaLua_stack.obj
+ 0001:00005428       _PopValuesBySig            10006428 f   CaLua_stack.obj
+ 0001:0000591a       _PushStructure             1000691a f   CaLua_stack.obj
+ 0001:00005bb7       _ConvertLuaStackData       10006bb7 f   CaLua_stack.obj
+ 0001:0000645f       _CToLuaData                1000745f f   CaLua_stack.obj
+ 0001:000065f0       _NextAlignment             100075f0 f   CaLua_structure.obj
+ 0001:00006674       _Pack                      10007674 f   CaLua_structure.obj
+ 0001:0000678d       _ComputeStructureAlignment 1000778d f   CaLua_structure.obj
+ 0001:00006941       _ComputeStructureSize      10007941 f   CaLua_structure.obj
+ 0001:000069b0       _PushVM                    100079b0 f   CaLua_vmstack.obj
+ 0001:000069e6       _PopVM                     100079e6 f   CaLua_vmstack.obj
+ 0001:00006a3b       _SaveNewState              10007a3b f   CaLua_vmstack.obj
+ 0001:00006b6a       _UpdateState               10007b6a f   CaLua_vmstack.obj
+ 0001:00006bfc       _CLU_LoadState             10007bfc f   CaLua_vmstack.obj
+ 0001:00006ce2       _ClearState                10007ce2 f   CaLua_vmstack.obj
+ 0001:00007840       _luaopen_debug             10008840 f   lualib:ldblib.obj
+ 0001:00007f80       _luaopen_math              10008f80 f   lualib:lmathlib.obj
+ 0001:00009a40       _luaopen_string            1000aa40 f   lualib:lstrlib.obj
+ 0001:0000b460       _luaopen_io                1000c460 f   lualib:liolib.obj
+ 0001:0000c000       _luaopen_table             1000d000 f   lualib:ltablib.obj
+ 0001:0000d340       _luaopen_base              1000e340 f   lualib:lbaselib.obj
+ 0001:0000d390       _luaL_where                1000e390 f   lualib:lauxlib.obj
+ 0001:0000d420       _luaL_error                1000e420 f   lualib:lauxlib.obj
+ 0001:0000d450       _luaL_findstring           1000e450 f   lualib:lauxlib.obj
+ 0001:0000d4b0       _luaL_newmetatable         1000e4b0 f   lualib:lauxlib.obj
+ 0001:0000d530       _luaL_getmetatable         1000e530 f   lualib:lauxlib.obj
+ 0001:0000d550       _luaL_checkudata           1000e550 f   lualib:lauxlib.obj
+ 0001:0000d5e0       _luaL_checkstack           1000e5e0 f   lualib:lauxlib.obj
+ 0001:0000d610       _luaL_getmetafield         1000e610 f   lualib:lauxlib.obj
+ 0001:0000d670       _luaL_callmeta             1000e670 f   lualib:lauxlib.obj
+ 0001:0000d6d0       _luaL_openlib              1000e6d0 f   lualib:lauxlib.obj
+ 0001:0000d880       _luaL_setn                 1000e880 f   lualib:lauxlib.obj
+ 0001:0000d970       _luaL_getn                 1000e970 f   lualib:lauxlib.obj
+ 0001:0000db40       _luaL_prepbuffer           1000eb40 f   lualib:lauxlib.obj
+ 0001:0000db80       _luaL_addlstring           1000eb80 f   lualib:lauxlib.obj
+ 0001:0000dbe0       _luaL_addstring            1000ebe0 f   lualib:lauxlib.obj
+ 0001:0000dc10       _luaL_pushresult           1000ec10 f   lualib:lauxlib.obj
+ 0001:0000dc60       _luaL_addvalue             1000ec60 f   lualib:lauxlib.obj
+ 0001:0000dd00       _luaL_buffinit             1000ed00 f   lualib:lauxlib.obj
+ 0001:0000dd20       _luaL_ref                  1000ed20 f   lualib:lauxlib.obj
+ 0001:0000ddf0       _luaL_unref                1000edf0 f   lualib:lauxlib.obj
+ 0001:0000dee0       _luaL_loadfile             1000eee0 f   lualib:lauxlib.obj
+ 0001:0000e090       _luaL_loadbuffer           1000f090 f   lualib:lauxlib.obj
+ 0001:0000e160       _lua_dofile                1000f160 f   lualib:lauxlib.obj
+ 0001:0000e1a0       _lua_dobuffer              1000f1a0 f   lualib:lauxlib.obj
+ 0001:0000e200       _lua_dostring              1000f200 f   lualib:lauxlib.obj
+ 0001:0000e230       _luaL_argerror             1000f230 f   lualib:lauxlib.obj
+ 0001:0000e320       _luaL_typerror             1000f320 f   lualib:lauxlib.obj
+ 0001:0000e3a0       _luaL_checktype            1000f3a0 f   lualib:lauxlib.obj
+ 0001:0000e3f0       _luaL_checkany             1000f3f0 f   lualib:lauxlib.obj
+ 0001:0000e420       _luaL_checklstring         1000f420 f   lualib:lauxlib.obj
+ 0001:0000e490       _luaL_optlstring           1000f490 f   lualib:lauxlib.obj
+ 0001:0000e4f0       _luaL_checknumber          1000f4f0 f   lualib:lauxlib.obj
+ 0001:0000e570       _luaL_optnumber            1000f570 f   lualib:lauxlib.obj
+ 0001:0000e630       _luaA_pushobject           1000f630 f   lua50:lapi.obj
+ 0001:0000e670       _lua_checkstack            1000f670 f   lua50:lapi.obj
+ 0001:0000e6d0       _lua_xmove                 1000f6d0 f   lua50:lapi.obj
+ 0001:0000e730       _lua_atpanic               1000f730 f   lua50:lapi.obj
+ 0001:0000e750       _lua_newthread             1000f750 f   lua50:lapi.obj
+ 0001:0000e790       _lua_gettop                1000f790 f   lua50:lapi.obj
+ 0001:0000e7a0       _lua_settop                1000f7a0 f   lua50:lapi.obj
+ 0001:0000e800       _lua_remove                1000f800 f   lua50:lapi.obj
+ 0001:0000e860       _lua_insert                1000f860 f   lua50:lapi.obj
+ 0001:0000e8c0       _lua_replace               1000f8c0 f   lua50:lapi.obj
+ 0001:0000e910       _lua_pushvalue             1000f910 f   lua50:lapi.obj
+ 0001:0000e950       _lua_type                  1000f950 f   lua50:lapi.obj
+ 0001:0000e980       _lua_typename              1000f980 f   lua50:lapi.obj
+ 0001:0000e9a0       _lua_iscfunction           1000f9a0 f   lua50:lapi.obj
+ 0001:0000e9e0       _lua_isnumber              1000f9e0 f   lua50:lapi.obj
+ 0001:0000ea30       _lua_isstring              1000fa30 f   lua50:lapi.obj
+ 0001:0000ea70       _lua_isuserdata            1000fa70 f   lua50:lapi.obj
+ 0001:0000eab0       _lua_rawequal              1000fab0 f   lua50:lapi.obj
+ 0001:0000eb20       _lua_equal                 1000fb20 f   lua50:lapi.obj
+ 0001:0000eba0       _lua_lessthan              1000fba0 f   lua50:lapi.obj
+ 0001:0000ec10       _lua_tonumber              1000fc10 f   lua50:lapi.obj
+ 0001:0000ec60       _lua_toboolean             1000fc60 f   lua50:lapi.obj
+ 0001:0000eca0       _lua_tostring              1000fca0 f   lua50:lapi.obj
+ 0001:0000ed10       _lua_strlen                1000fd10 f   lua50:lapi.obj
+ 0001:0000ed70       _lua_tocfunction           1000fd70 f   lua50:lapi.obj
+ 0001:0000edb0       _lua_touserdata            1000fdb0 f   lua50:lapi.obj
+ 0001:0000edf0       _lua_tothread              1000fdf0 f   lua50:lapi.obj
+ 0001:0000ee20       _lua_topointer             1000fe20 f   lua50:lapi.obj
+ 0001:0000ee90       _lua_pushnil               1000fe90 f   lua50:lapi.obj
+ 0001:0000eeb0       _lua_pushnumber            1000feb0 f   lua50:lapi.obj
+ 0001:0000eed0       _lua_pushlstring           1000fed0 f   lua50:lapi.obj
+ 0001:0000ef20       _lua_pushstring            1000ff20 f   lua50:lapi.obj
+ 0001:0000ef90       _lua_pushvfstring          1000ff90 f   lua50:lapi.obj
+ 0001:0000efc0       _lua_pushfstring           1000ffc0 f   lua50:lapi.obj
+ 0001:0000eff0       _lua_pushcclosure          1000fff0 f   lua50:lapi.obj
+ 0001:0000f080       _lua_pushboolean           10010080 f   lua50:lapi.obj
+ 0001:0000f0b0       _lua_pushlightuserdata     100100b0 f   lua50:lapi.obj
+ 0001:0000f0d0       _lua_gettable              100100d0 f   lua50:lapi.obj
+ 0001:0000f120       _lua_rawget                10010120 f   lua50:lapi.obj
+ 0001:0000f170       _lua_rawgeti               10010170 f   lua50:lapi.obj
+ 0001:0000f1c0       _lua_newtable              100101c0 f   lua50:lapi.obj
+ 0001:0000f200       _lua_getmetatable          10010200 f   lua50:lapi.obj
+ 0001:0000f270       _lua_getfenv               10010270 f   lua50:lapi.obj
+ 0001:0000f2c0       _lua_settable              100102c0 f   lua50:lapi.obj
+ 0001:0000f300       _lua_rawset                10010300 f   lua50:lapi.obj
+ 0001:0000f360       _lua_rawseti               10010360 f   lua50:lapi.obj
+ 0001:0000f3c0       _lua_setmetatable          100103c0 f   lua50:lapi.obj
+ 0001:0000f430       _lua_setfenv               10010430 f   lua50:lapi.obj
+ 0001:0000f4a0       _lua_call                  100104a0 f   lua50:lapi.obj
+ 0001:0000f4e0       _lua_pcall                 100104e0 f   lua50:lapi.obj
+ 0001:0000f5e0       _lua_cpcall                100105e0 f   lua50:lapi.obj
+ 0001:0000f620       _lua_load                  10010620 f   lua50:lapi.obj
+ 0001:0000f680       _lua_dump                  10010680 f   lua50:lapi.obj
+ 0001:0000f6d0       _lua_getgcthreshold        100106d0 f   lua50:lapi.obj
+ 0001:0000f6e0       _lua_getgccount            100106e0 f   lua50:lapi.obj
+ 0001:0000f6f0       _lua_setgcthreshold        100106f0 f   lua50:lapi.obj
+ 0001:0000f730       _lua_version               10010730 f   lua50:lapi.obj
+ 0001:0000f740       _lua_error                 10010740 f   lua50:lapi.obj
+ 0001:0000f750       _lua_next                  10010750 f   lua50:lapi.obj
+ 0001:0000f7a0       _lua_concat                100107a0 f   lua50:lapi.obj
+ 0001:0000f820       _lua_newuserdata           10010820 f   lua50:lapi.obj
+ 0001:0000f870       _lua_pushupvalues          10010870 f   lua50:lapi.obj
+ 0001:0000f940       _lua_getupvalue            10010940 f   lua50:lapi.obj
+ 0001:0000f980       _lua_setupvalue            10010980 f   lua50:lapi.obj
+ 0001:0000fca0       _luaE_newthread            10010ca0 f   lua50:lstate.obj
+ 0001:0000fd20       _luaE_freethread           10010d20 f   lua50:lstate.obj
+ 0001:0000fd70       _lua_open                  10010d70 f   lua50:lstate.obj
+ 0001:0000fe00       _lua_close                 10010e00 f   lua50:lstate.obj
+ 0001:0000fed0       _luaG_inithooks            10010ed0 f   lua50:ldebug.obj
+ 0001:0000ff10       _lua_sethook               10010f10 f   lua50:ldebug.obj
+ 0001:0000ff50       _lua_gethook               10010f50 f   lua50:ldebug.obj
+ 0001:0000ff60       _lua_gethookmask           10010f60 f   lua50:ldebug.obj
+ 0001:0000ff70       _lua_gethookcount          10010f70 f   lua50:ldebug.obj
+ 0001:0000ff80       _lua_getstack              10010f80 f   lua50:ldebug.obj
+ 0001:00010020       _lua_getlocal              10011020 f   lua50:ldebug.obj
+ 0001:000100a0       _lua_setlocal              100110a0 f   lua50:ldebug.obj
+ 0001:000106c0       _luaG_checkcode            100116c0 f   lua50:ldebug.obj
+ 0001:00010980       _luaG_errormsg             10011980 f   lua50:ldebug.obj
+ 0001:00010a10       _luaG_runerror             10011a10 f   lua50:ldebug.obj
+ 0001:00010b70       _lua_getinfo               10011b70 f   lua50:ldebug.obj
+ 0001:00010c30       _luaG_typeerror            10011c30 f   lua50:ldebug.obj
+ 0001:00010cc0       _luaG_concaterror          10011cc0 f   lua50:ldebug.obj
+ 0001:00010ce0       _luaG_aritherror           10011ce0 f   lua50:ldebug.obj
+ 0001:00010d20       _luaG_ordererror           10011d20 f   lua50:ldebug.obj
+ 0001:00010e00       _luaD_throw                10011e00 f   lua50:ldo.obj
+ 0001:00010e40       _luaD_rawrunprotected      10011e40 f   lua50:ldo.obj
+ 0001:00010f20       _luaD_reallocstack         10011f20 f   lua50:ldo.obj
+ 0001:00010f70       _luaD_reallocCI            10011f70 f   lua50:ldo.obj
+ 0001:00010fe0       _luaD_growstack            10011fe0 f   lua50:ldo.obj
+ 0001:000110c0       _luaD_callhook             100120c0 f   lua50:ldo.obj
+ 0001:00011380       _luaD_precall              10012380 f   lua50:ldo.obj
+ 0001:00011540       _luaD_poscall              10012540 f   lua50:ldo.obj
+ 0001:000115c0       _luaD_call                 100125c0 f   lua50:ldo.obj
+ 0001:00011700       _lua_yield                 10012700 f   lua50:ldo.obj
+ 0001:00011840       _luaD_protectedparser      10012840 f   lua50:ldo.obj
+ 0001:00011910       _lua_resume                10012910 f   lua50:ldo.obj
+ 0001:00011970       _luaD_pcall                10012970 f   lua50:ldo.obj
+ 0001:00011ac0       _luaC_separateudata        10012ac0 f   lua50:lgc.obj
+ 0001:00012340       _luaC_callGCTM             10013340 f   lua50:lgc.obj
+ 0001:00012430       _luaC_sweep                10013430 f   lua50:lgc.obj
+ 0001:000125b0       _luaC_collectgarbage       100135b0 f   lua50:lgc.obj
+ 0001:00012600       _luaC_link                 10013600 f   lua50:lgc.obj
+ 0001:00012630       _luaT_init                 10013630 f   lua50:ltm.obj
+ 0001:00012690       _luaT_gettm                10013690 f   lua50:ltm.obj
+ 0001:000126c0       _luaT_gettmbyobj           100136c0 f   lua50:ltm.obj
+ 0001:00012710       _luaV_tonumber             10013710 f   lua50:lvm.obj
+ 0001:00012760       _luaV_tostring             10013760 f   lua50:lvm.obj
+ 0001:00012a30       _luaV_gettable             10013a30 f   lua50:lvm.obj
+ 0001:00012aa0       _luaV_settable             10013aa0 f   lua50:lvm.obj
+ 0001:00012d50       _luaV_lessthan             10013d50 f   lua50:lvm.obj
+ 0001:00012e80       _luaV_equalval             10013e80 f   lua50:lvm.obj
+ 0001:00012f60       _luaV_concat               10013f60 f   lua50:lvm.obj
+ 0001:00013370       _luaV_execute              10014370 f   lua50:lvm.obj
+ 0001:000145f0       _luaO_int2fb               100155f0 f   lua50:lobject.obj
+ 0001:00014610       _luaO_log2                 10015610 f   lua50:lobject.obj
+ 0001:00014670       _luaO_rawequalObj          10015670 f   lua50:lobject.obj
+ 0001:000146c0       _luaO_str2d                100156c0 f   lua50:lobject.obj
+ 0001:00014790       _luaO_pushvfstring         10015790 f   lua50:lobject.obj
+ 0001:00014a80       _luaO_pushfstring          10015a80 f   lua50:lobject.obj
+ 0001:00014aa0       _luaO_chunkid              10015aa0 f   lua50:lobject.obj
+ 0001:00014c30       _luaS_freeall              10015c30 f   lua50:lstring.obj
+ 0001:00014c50       _luaS_resize               10015c50 f   lua50:lstring.obj
+ 0001:00014d90       _luaS_newlstr              10015d90 f   lua50:lstring.obj
+ 0001:00014e20       _luaS_newudata             10015e20 f   lua50:lstring.obj
+ 0001:00014e60       _luaF_newCclosure          10015e60 f   lua50:lfunc.obj
+ 0001:00014ea0       _luaF_newLclosure          10015ea0 f   lua50:lfunc.obj
+ 0001:00014f00       _luaF_findupval            10015f00 f   lua50:lfunc.obj
+ 0001:00014f50       _luaF_close                10015f50 f   lua50:lfunc.obj
+ 0001:00014fa0       _luaF_newproto             10015fa0 f   lua50:lfunc.obj
+ 0001:00015000       _luaF_freeproto            10016000 f   lua50:lfunc.obj
+ 0001:000150a0       _luaF_freeclosure          100160a0 f   lua50:lfunc.obj
+ 0001:000150e0       _luaF_getlocalname         100160e0 f   lua50:lfunc.obj
+ 0001:00015170       _luaH_mainposition         10016170 f   lua50:ltable.obj
+ 0001:00015560       _luaH_new                  10016560 f   lua50:ltable.obj
+ 0001:000155c0       _luaH_free                 100165c0 f   lua50:ltable.obj
+ 0001:00015670       _luaH_getnum               10016670 f   lua50:ltable.obj
+ 0001:00015710       _luaH_getstr               10016710 f   lua50:ltable.obj
+ 0001:00015750       _luaH_get                  10016750 f   lua50:ltable.obj
+ 0001:000157c0       _luaH_set                  100167c0 f   lua50:ltable.obj
+ 0001:00015890       _luaH_next                 10016890 f   lua50:ltable.obj
+ 0001:00015d80       _luaH_setnum               10016d80 f   lua50:ltable.obj
+ 0001:00015dd0       _luaZ_fill                 10016dd0 f   lua50:lzio.obj
+ 0001:00015e10       _luaZ_lookahead            10016e10 f   lua50:lzio.obj
+ 0001:00015e60       _luaZ_init                 10016e60 f   lua50:lzio.obj
+ 0001:00015e90       _luaZ_read                 10016e90 f   lua50:lzio.obj
+ 0001:00015f30       _luaZ_openspace            10016f30 f   lua50:lzio.obj
+ 0001:00016600       _luaU_dump                 10017600 f   lua50:ldump.obj
+ 0001:00016640       _luaM_realloc              10017640 f   lua50:lmem.obj
+ 0001:000166d0       _luaM_growaux              100176d0 f   lua50:lmem.obj
+ 0001:00016740       _luaX_init                 10017740 f   lua50:llex.obj
+ 0001:00016790       _luaX_errorline            10017790 f   lua50:llex.obj
+ 0001:00016820       _luaX_token2str            10017820 f   lua50:llex.obj
+ 0001:00016880       _luaX_setinput             10017880 f   lua50:llex.obj
+ 0001:00016ca0       _luaX_syntaxerror          10017ca0 f   lua50:llex.obj
+ 0001:00016d10       _luaX_checklimit           10017d10 f   lua50:llex.obj
+ 0001:000174f0       _luaX_lex                  100184f0 f   lua50:llex.obj
+ 0001:0001ace0       _luaY_parser               1001bce0 f   lua50:lparser.obj
+ 0001:0001b780       _luaU_endianness           1001c780 f   lua50:lundump.obj
+ 0001:0001b960       _luaU_undump               1001c960 f   lua50:lundump.obj
+ 0001:0001ba10       _luaK_getlabel             1001ca10 f   lua50:lcode.obj
+ 0001:0001bca0       _luaK_concat               1001cca0 f   lua50:lcode.obj
+ 0001:0001bcf0       _luaK_checkstack           1001ccf0 f   lua50:lcode.obj
+ 0001:0001bd30       _luaK_reserveregs          1001cd30 f   lua50:lcode.obj
+ 0001:0001be70       _luaK_stringK              1001ce70 f   lua50:lcode.obj
+ 0001:0001bea0       _luaK_numberK              1001cea0 f   lua50:lcode.obj
+ 0001:0001bf20       _luaK_setcallreturns       1001cf20 f   lua50:lcode.obj
+ 0001:0001bfd0       _luaK_fixline              1001cfd0 f   lua50:lcode.obj
+ 0001:0001bff0       _luaK_code                 1001cff0 f   lua50:lcode.obj
+ 0001:0001c0a0       _luaK_codeABC              1001d0a0 f   lua50:lcode.obj
+ 0001:0001c0e0       _luaK_codeABx              1001d0e0 f   lua50:lcode.obj
+ 0001:0001c110       _luaK_nil                  1001d110 f   lua50:lcode.obj
+ 0001:0001c1a0       _luaK_jump                 1001d1a0 f   lua50:lcode.obj
+ 0001:0001c240       _luaK_patchtohere          1001d240 f   lua50:lcode.obj
+ 0001:0001c260       _luaK_dischargevars        1001d260 f   lua50:lcode.obj
+ 0001:0001c5e0       _luaK_exp2nextreg          1001d5e0 f   lua50:lcode.obj
+ 0001:0001c660       _luaK_exp2anyreg           1001d660 f   lua50:lcode.obj
+ 0001:0001c6b0       _luaK_exp2val              1001d6b0 f   lua50:lcode.obj
+ 0001:0001c6d0       _luaK_exp2RK               1001d6d0 f   lua50:lcode.obj
+ 0001:0001c750       _luaK_storevar             1001d750 f   lua50:lcode.obj
+ 0001:0001c830       _luaK_self                 1001d830 f   lua50:lcode.obj
+ 0001:0001c9a0       _luaK_goiftrue             1001d9a0 f   lua50:lcode.obj
+ 0001:0001ca50       _luaK_goiffalse            1001da50 f   lua50:lcode.obj
+ 0001:0001cbd0       _luaK_indexed              1001dbd0 f   lua50:lcode.obj
+ 0001:0001cbf0       _luaK_prefix               1001dbf0 f   lua50:lcode.obj
+ 0001:0001ccb0       _luaK_infix                1001dcb0 f   lua50:lcode.obj
+ 0001:0001cdc0       _luaK_posfix               1001ddc0 f   lua50:lcode.obj
+ 0001:0001cfc0       _luaK_patchlist            1001dfc0 f   lua50:lcode.obj
+ 0001:0001d010       __RTC_CheckEsp             1001e010 f   MSVCRTD:stack.obj
+ 0001:0001d040       @_RTC_CheckStackVars@8     1001e040 f   MSVCRTD:stack.obj
+ 0001:0001d0a0       __RTC_InitBase             1001e0a0 f   MSVCRTD:init.obj
+ 0001:0001d0d0       __RTC_Shutdown             1001e0d0 f   MSVCRTD:init.obj
+ 0001:0001d0f0       _memcpy                    1001e0f0 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d100       _fprintf                   1001e100 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d106       _fopen                     1001e106 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d10c       __CrtSetDbgFlag            1001e10c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d112       _fclose                    1001e112 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d118       _fflush                    1001e118 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d11e       _vfprintf                  1001e11e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d124       _vprintf                   1001e124 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d12a       _printf                    1001e12a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d130       _calloc                    1001e130 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d136       _malloc                    1001e136 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d13c       _free                      1001e13c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d142       __msize                    1001e142 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d148       _strcat                    1001e148 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d14e       _strlen                    1001e14e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d154       _memset                    1001e154 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d15c       __ftol2                    1001e15c f   MSVCRTD:ftol2.obj
+ 0001:0001d1e0       ?_RTC_Failure@@YAXPAXH@Z   1001e1e0 f   MSVCRTD:error.obj
+ 0001:0001d440       ?_RTC_MemFailure@@YAXPAXHPBX@Z 1001e440 f   MSVCRTD:error.obj
+ 0001:0001d690       ?_RTC_StackFailure@@YAXPAXPBD@Z 1001e690 f   MSVCRTD:error.obj
+ 0001:0001d750       __RTC_UninitUse            1001e750 f   MSVCRTD:error.obj
+ 0001:0001d910       _strtok                    1001e910 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d916       _strchr                    1001e916 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001d920       __CRT_INIT@12              1001e920 f   MSVCRTD:crtdll.obj
+ 0001:0001da40       __DllMainCRTStartup@12     1001ea40 f   MSVCRTD:crtdll.obj
+ 0001:0001db40       @__security_check_cookie@4 1001eb40 f   MSVCRTD:seccook.obj
+ 0001:0001dbbc       _fgets                     1001ebbc f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbc2       _fputs                     1001ebc2 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbc8       _fabs                      1001ebc8 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbce       _sin                       1001ebce f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbd4       _cos                       1001ebd4 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbda       _tan                       1001ebda f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbe0       _asin                      1001ebe0 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbe6       _acos                      1001ebe6 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbec       _atan                      1001ebec f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbf2       _atan2                     1001ebf2 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbf8       _ceil                      1001ebf8 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dbfe       _floor                     1001ebfe f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc04       _fmod                      1001ec04 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc0a       _sqrt                      1001ec0a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc10       _pow                       1001ec10 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc16       _log                       1001ec16 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc1c       _log10                     1001ec1c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc22       _exp                       1001ec22 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc28       _frexp                     1001ec28 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc2e       _ldexp                     1001ec2e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc34       _rand                      1001ec34 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc3a       _srand                     1001ec3a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc40       _tolower                   1001ec40 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc46       _toupper                   1001ec46 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc4c       _isxdigit                  1001ec4c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc52       _isalnum                   1001ec52 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc58       _isupper                   1001ec58 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc5e       _isspace                   1001ec5e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc64       _ispunct                   1001ec64 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc6a       _isdigit                   1001ec6a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc70       _iscntrl                   1001ec70 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc76       _isalpha                   1001ec76 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc7c       _islower                   1001ec7c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc82       _memchr                    1001ec82 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc88       _strpbrk                   1001ec88 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc8e       _strncpy                   1001ec8e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc94       _sprintf                   1001ec94 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dc9a       _strerror                  1001ec9a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dca0       __errno                    1001eca0 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dca6       _tmpfile                   1001eca6 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcac       _fscanf                    1001ecac f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcb2       _ungetc                    1001ecb2 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcb8       _getc                      1001ecb8 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcbe       _fread                     1001ecbe f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcc4       _fwrite                    1001ecc4 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcca       _ftell                     1001ecca f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcd0       _fseek                     1001ecd0 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcd6       _system                    1001ecd6 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcdc       _remove                    1001ecdc f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dce2       _rename                    1001ece2 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dce8       _tmpnam                    1001ece8 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcee       _getenv                    1001ecee f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcf4       _clock                     1001ecf4 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dcfa       _strftime                  1001ecfa f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd00       _localtime                 1001ed00 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd06       _gmtime                    1001ed06 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd0c       _time                      1001ed0c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd12       _mktime                    1001ed12 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd18       _difftime                  1001ed18 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd1e       _setlocale                 1001ed1e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd24       _exit                      1001ed24 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd2a       _strtoul                   1001ed2a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd30       _isprint                   1001ed30 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd36       _longjmp                   1001ed36 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd3c       __setjmp3                  1001ed3c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd42       _strcoll                   1001ed42 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd48       _strtod                    1001ed48 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd4e       _strncat                   1001ed4e f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd54       _strcspn                   1001ed54 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd5a       _realloc                   1001ed5a f   MSVCRTD:MSVCR70D.dll
+ 0001:0001dd60       __RTC_NumErrors            1001ed60 f   MSVCRTD:userapi.obj
+ 0001:0001dd70       __RTC_GetErrDesc           1001ed70 f   MSVCRTD:userapi.obj
+ 0001:0001dd90       __RTC_SetErrorType         1001ed90 f   MSVCRTD:userapi.obj
+ 0001:0001ddc0       __RTC_SetErrorFunc         1001edc0 f   MSVCRTD:userapi.obj
+ 0001:0001dde0       ?_RTC_GetErrorFunc@@YAP6AHHPBDH00ZZPBX@Z 1001ede0 f   MSVCRTD:userapi.obj
+ 0001:0001ddf0       __CRT_RTC_INIT             1001edf0 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001de00       ?_RTC_GetSrcLine@@YAHKPADHPAHPAPAD@Z 1001ee00 f   MSVCRTD:pdblkup.obj
+ 0001:0001e690       __chkstk                   1001f690 f   MSVCRTD:chkstk.obj
+ 0001:0001e690       __alloca_probe             1001f690     MSVCRTD:chkstk.obj
+ 0001:0001e6ce       __except_handler3          1001f6ce f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e6d4       __free_dbg                 1001f6d4 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e6da       __initterm                 1001f6da f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e6e0       __onexit                   1001f6e0 f   MSVCRTD:atonexit.obj
+ 0001:0001e720       _atexit                    1001f720 f   MSVCRTD:atonexit.obj
+ 0001:0001e740       __RTC_Initialize           1001f740 f   MSVCRTD:initsect.obj
+ 0001:0001e7c0       __RTC_Terminate            1001f7c0 f   MSVCRTD:initsect.obj
+ 0001:0001e840       __malloc_dbg               1001f840 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e850       _DllMain@12                1001f850 f   MSVCRTD:dllmain.obj
+ 0001:0001e880       ___security_init_cookie    1001f880 f   MSVCRTD:seccinit.obj
+ 0001:0001e906       ___security_error_handler  1001f906 f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e90c       ___dllonexit               1001f90c f   MSVCRTD:MSVCR70D.dll
+ 0001:0001e920       _DebugBreak@0              1001f920 f   kernel32:KERNEL32.dll
+ 0001:0001e926       _RaiseException@16         1001f926 f   kernel32:KERNEL32.dll
+ 0001:0001e92c       _GetVersionExA@4           1001f92c f   kernel32:KERNEL32.dll
+ 0001:0001e932       _GetProcAddress@8          1001f932 f   kernel32:KERNEL32.dll
+ 0001:0001e938       _LoadLibraryA@4            1001f938 f   kernel32:KERNEL32.dll
+ 0001:0001e93e       _ExitProcess@4             1001f93e f   kernel32:KERNEL32.dll
+ 0001:0001e944       _HeapFree@12               1001f944 f   kernel32:KERNEL32.dll
+ 0001:0001e94a       _HeapAlloc@12              1001f94a f   kernel32:KERNEL32.dll
+ 0001:0001e950       _GetProcessHeap@0          1001f950 f   kernel32:KERNEL32.dll
+ 0001:0001e956       _GetModuleFileNameA@12     1001f956 f   kernel32:KERNEL32.dll
+ 0001:0001e95c       _CloseHandle@4             1001f95c f   kernel32:KERNEL32.dll
+ 0001:0001e962       _GetCurrentProcess@0       1001f962 f   kernel32:KERNEL32.dll
+ 0001:0001e968       _FreeLibrary@4             1001f968 f   kernel32:KERNEL32.dll
+ 0001:0001e96e       _DisableThreadLibraryCalls@4 1001f96e f   kernel32:KERNEL32.dll
+ 0001:0001e974       _QueryPerformanceCounter@4 1001f974 f   kernel32:KERNEL32.dll
+ 0001:0001e97a       _GetTickCount@0            1001f97a f   kernel32:KERNEL32.dll
+ 0001:0001e980       _GetCurrentThreadId@0      1001f980 f   kernel32:KERNEL32.dll
+ 0001:0001e986       _GetCurrentProcessId@0     1001f986 f   kernel32:KERNEL32.dll
+ 0001:0001e98c       _GetSystemTimeAsFileTime@4 1001f98c f   kernel32:KERNEL32.dll
+ 0001:0001e992       __stricmp                  1001f992 f   MSVCRTD:MSVCR70D.dll
+ 0002:00000000       __imp__GetCurrentProcessId@0 10020000     kernel32:KERNEL32.dll
+ 0002:00000004       __imp__GetCurrentThreadId@0 10020004     kernel32:KERNEL32.dll
+ 0002:00000008       __imp__GetTickCount@0      10020008     kernel32:KERNEL32.dll
+ 0002:0000000c       __imp__QueryPerformanceCounter@4 1002000c     kernel32:KERNEL32.dll
+ 0002:00000010       __imp__DisableThreadLibraryCalls@4 10020010     kernel32:KERNEL32.dll
+ 0002:00000014       __imp__FreeLibrary@4       10020014     kernel32:KERNEL32.dll
+ 0002:00000018       __imp__GetCurrentProcess@0 10020018     kernel32:KERNEL32.dll
+ 0002:0000001c       __imp__CloseHandle@4       1002001c     kernel32:KERNEL32.dll
+ 0002:00000020       __imp__GetModuleFileNameA@12 10020020     kernel32:KERNEL32.dll
+ 0002:00000024       __imp__GetProcessHeap@0    10020024     kernel32:KERNEL32.dll
+ 0002:00000028       __imp__HeapAlloc@12        10020028     kernel32:KERNEL32.dll
+ 0002:0000002c       __imp__HeapFree@12         1002002c     kernel32:KERNEL32.dll
+ 0002:00000030       __imp__ExitProcess@4       10020030     kernel32:KERNEL32.dll
+ 0002:00000034       __imp__LoadLibraryA@4      10020034     kernel32:KERNEL32.dll
+ 0002:00000038       __imp__GetProcAddress@8    10020038     kernel32:KERNEL32.dll
+ 0002:0000003c       __imp__GetVersionExA@4     1002003c     kernel32:KERNEL32.dll
+ 0002:00000040       __imp__RaiseException@16   10020040     kernel32:KERNEL32.dll
+ 0002:00000044       __imp__DebugBreak@0        10020044     kernel32:KERNEL32.dll
+ 0002:00000048       __imp__GetSystemTimeAsFileTime@4 10020048     kernel32:KERNEL32.dll
+ 0002:0000004c       \177KERNEL32_NULL_THUNK_DATA 1002004c     kernel32:KERNEL32.dll
+ 0002:00000050       __imp__fputs               10020050     MSVCRTD:MSVCR70D.dll
+ 0002:00000054       __imp__fabs                10020054     MSVCRTD:MSVCR70D.dll
+ 0002:00000058       __imp__sin                 10020058     MSVCRTD:MSVCR70D.dll
+ 0002:0000005c       __imp__cos                 1002005c     MSVCRTD:MSVCR70D.dll
+ 0002:00000060       __imp__tan                 10020060     MSVCRTD:MSVCR70D.dll
+ 0002:00000064       __imp__asin                10020064     MSVCRTD:MSVCR70D.dll
+ 0002:00000068       __imp__acos                10020068     MSVCRTD:MSVCR70D.dll
+ 0002:0000006c       __imp__atan                1002006c     MSVCRTD:MSVCR70D.dll
+ 0002:00000070       __imp__atan2               10020070     MSVCRTD:MSVCR70D.dll
+ 0002:00000074       __imp__ceil                10020074     MSVCRTD:MSVCR70D.dll
+ 0002:00000078       __imp__floor               10020078     MSVCRTD:MSVCR70D.dll
+ 0002:0000007c       __imp__fmod                1002007c     MSVCRTD:MSVCR70D.dll
+ 0002:00000080       __imp__sqrt                10020080     MSVCRTD:MSVCR70D.dll
+ 0002:00000084       __imp__pow                 10020084     MSVCRTD:MSVCR70D.dll
+ 0002:00000088       __imp__log                 10020088     MSVCRTD:MSVCR70D.dll
+ 0002:0000008c       __imp__log10               1002008c     MSVCRTD:MSVCR70D.dll
+ 0002:00000090       __imp__exp                 10020090     MSVCRTD:MSVCR70D.dll
+ 0002:00000094       __imp__frexp               10020094     MSVCRTD:MSVCR70D.dll
+ 0002:00000098       __imp__ldexp               10020098     MSVCRTD:MSVCR70D.dll
+ 0002:0000009c       __imp__rand                1002009c     MSVCRTD:MSVCR70D.dll
+ 0002:000000a0       __imp__srand               100200a0     MSVCRTD:MSVCR70D.dll
+ 0002:000000a4       __imp__tolower             100200a4     MSVCRTD:MSVCR70D.dll
+ 0002:000000a8       __imp__toupper             100200a8     MSVCRTD:MSVCR70D.dll
+ 0002:000000ac       __imp__isxdigit            100200ac     MSVCRTD:MSVCR70D.dll
+ 0002:000000b0       __imp__isalnum             100200b0     MSVCRTD:MSVCR70D.dll
+ 0002:000000b4       __imp__isupper             100200b4     MSVCRTD:MSVCR70D.dll
+ 0002:000000b8       __imp__isspace             100200b8     MSVCRTD:MSVCR70D.dll
+ 0002:000000bc       __imp__ispunct             100200bc     MSVCRTD:MSVCR70D.dll
+ 0002:000000c0       __imp__isdigit             100200c0     MSVCRTD:MSVCR70D.dll
+ 0002:000000c4       __imp__iscntrl             100200c4     MSVCRTD:MSVCR70D.dll
+ 0002:000000c8       __imp__isalpha             100200c8     MSVCRTD:MSVCR70D.dll
+ 0002:000000cc       __imp__islower             100200cc     MSVCRTD:MSVCR70D.dll
+ 0002:000000d0       __imp__memchr              100200d0     MSVCRTD:MSVCR70D.dll
+ 0002:000000d4       __imp__strpbrk             100200d4     MSVCRTD:MSVCR70D.dll
+ 0002:000000d8       __imp__strncpy             100200d8     MSVCRTD:MSVCR70D.dll
+ 0002:000000dc       __imp__sprintf             100200dc     MSVCRTD:MSVCR70D.dll
+ 0002:000000e0       __imp__strerror            100200e0     MSVCRTD:MSVCR70D.dll
+ 0002:000000e4       __imp___errno              100200e4     MSVCRTD:MSVCR70D.dll
+ 0002:000000e8       __imp__tmpfile             100200e8     MSVCRTD:MSVCR70D.dll
+ 0002:000000ec       __imp__fgets               100200ec     MSVCRTD:MSVCR70D.dll
+ 0002:000000f0       __imp__ungetc              100200f0     MSVCRTD:MSVCR70D.dll
+ 0002:000000f4       __imp__getc                100200f4     MSVCRTD:MSVCR70D.dll
+ 0002:000000f8       __imp__fread               100200f8     MSVCRTD:MSVCR70D.dll
+ 0002:000000fc       __imp__fwrite              100200fc     MSVCRTD:MSVCR70D.dll
+ 0002:00000100       __imp__ftell               10020100     MSVCRTD:MSVCR70D.dll
+ 0002:00000104       __imp__fseek               10020104     MSVCRTD:MSVCR70D.dll
+ 0002:00000108       __imp__system              10020108     MSVCRTD:MSVCR70D.dll
+ 0002:0000010c       __imp__remove              1002010c     MSVCRTD:MSVCR70D.dll
+ 0002:00000110       __imp__rename              10020110     MSVCRTD:MSVCR70D.dll
+ 0002:00000114       __imp__tmpnam              10020114     MSVCRTD:MSVCR70D.dll
+ 0002:00000118       __imp__getenv              10020118     MSVCRTD:MSVCR70D.dll
+ 0002:0000011c       __imp__clock               1002011c     MSVCRTD:MSVCR70D.dll
+ 0002:00000120       __imp__strftime            10020120     MSVCRTD:MSVCR70D.dll
+ 0002:00000124       __imp__localtime           10020124     MSVCRTD:MSVCR70D.dll
+ 0002:00000128       __imp__gmtime              10020128     MSVCRTD:MSVCR70D.dll
+ 0002:0000012c       __imp__time                1002012c     MSVCRTD:MSVCR70D.dll
+ 0002:00000130       __imp__mktime              10020130     MSVCRTD:MSVCR70D.dll
+ 0002:00000134       __imp__difftime            10020134     MSVCRTD:MSVCR70D.dll
+ 0002:00000138       __imp__setlocale           10020138     MSVCRTD:MSVCR70D.dll
+ 0002:0000013c       __imp__exit                1002013c     MSVCRTD:MSVCR70D.dll
+ 0002:00000140       __imp__strtoul             10020140     MSVCRTD:MSVCR70D.dll
+ 0002:00000144       __imp__isprint             10020144     MSVCRTD:MSVCR70D.dll
+ 0002:00000148       __imp__longjmp             10020148     MSVCRTD:MSVCR70D.dll
+ 0002:0000014c       __imp___setjmp3            1002014c     MSVCRTD:MSVCR70D.dll
+ 0002:00000150       __imp__strcoll             10020150     MSVCRTD:MSVCR70D.dll
+ 0002:00000154       __imp__strtod              10020154     MSVCRTD:MSVCR70D.dll
+ 0002:00000158       __imp__strncat             10020158     MSVCRTD:MSVCR70D.dll
+ 0002:0000015c       __imp__strcspn             1002015c     MSVCRTD:MSVCR70D.dll
+ 0002:00000160       __imp__realloc             10020160     MSVCRTD:MSVCR70D.dll
+ 0002:00000164       __imp___CRT_RTC_INIT       10020164     MSVCRTD:MSVCR70D.dll
+ 0002:00000168       __imp___except_handler3    10020168     MSVCRTD:MSVCR70D.dll
+ 0002:0000016c       __imp___free_dbg           1002016c     MSVCRTD:MSVCR70D.dll
+ 0002:00000170       __imp___initterm           10020170     MSVCRTD:MSVCR70D.dll
+ 0002:00000174       __imp___malloc_dbg         10020174     MSVCRTD:MSVCR70D.dll
+ 0002:00000178       __imp___adjust_fdiv        10020178     MSVCRTD:MSVCR70D.dll
+ 0002:0000017c       __imp____security_error_handler 1002017c     MSVCRTD:MSVCR70D.dll
+ 0002:00000180       __imp____dllonexit         10020180     MSVCRTD:MSVCR70D.dll
+ 0002:00000184       __imp___onexit             10020184     MSVCRTD:MSVCR70D.dll
+ 0002:00000188       __imp__strchr              10020188     MSVCRTD:MSVCR70D.dll
+ 0002:0000018c       __imp__strtok              1002018c     MSVCRTD:MSVCR70D.dll
+ 0002:00000190       __imp__memset              10020190     MSVCRTD:MSVCR70D.dll
+ 0002:00000194       __imp__strlen              10020194     MSVCRTD:MSVCR70D.dll
+ 0002:00000198       __imp__strcat              10020198     MSVCRTD:MSVCR70D.dll
+ 0002:0000019c       __imp___msize              1002019c     MSVCRTD:MSVCR70D.dll
+ 0002:000001a0       __imp__free                100201a0     MSVCRTD:MSVCR70D.dll
+ 0002:000001a4       __imp__malloc              100201a4     MSVCRTD:MSVCR70D.dll
+ 0002:000001a8       __imp__calloc              100201a8     MSVCRTD:MSVCR70D.dll
+ 0002:000001ac       __imp__printf              100201ac     MSVCRTD:MSVCR70D.dll
+ 0002:000001b0       __imp__vprintf             100201b0     MSVCRTD:MSVCR70D.dll
+ 0002:000001b4       __imp__vfprintf            100201b4     MSVCRTD:MSVCR70D.dll
+ 0002:000001b8       __imp__fflush              100201b8     MSVCRTD:MSVCR70D.dll
+ 0002:000001bc       __imp__fclose              100201bc     MSVCRTD:MSVCR70D.dll
+ 0002:000001c0       __imp___CrtSetDbgFlag      100201c0     MSVCRTD:MSVCR70D.dll
+ 0002:000001c4       __imp__fopen               100201c4     MSVCRTD:MSVCR70D.dll
+ 0002:000001c8       __imp___iob                100201c8     MSVCRTD:MSVCR70D.dll
+ 0002:000001cc       __imp__fprintf             100201cc     MSVCRTD:MSVCR70D.dll
+ 0002:000001d0       __imp__fscanf              100201d0     MSVCRTD:MSVCR70D.dll
+ 0002:000001d4       __imp__memcpy              100201d4     MSVCRTD:MSVCR70D.dll
+ 0002:000001d8       __imp___stricmp            100201d8     MSVCRTD:MSVCR70D.dll
+ 0002:000001d8       __imp__stricmp             100201d8     MSVCRTD:MSVCR70D.dll
+ 0002:000001dc       \177MSVCR70D_NULL_THUNK_DATA 100201dc     MSVCRTD:MSVCR70D.dll
+ 0002:00000330       __real@3f91df46a2529d39    10020330     lualib:lmathlib.obj
+ 0002:00000338       __real@40dfffc000000000    10020338     lualib:lmathlib.obj
+ 0002:000003a8       __real@41f0000000000000    100203a8     lualib:lstrlib.obj
+ 0002:00000510       __real@408f400000000000    10020510     lualib:liolib.obj
+ 0002:00000660       __real@0000000000000000    10020660     lualib:lbaselib.obj
+ 0002:00000668       __real@3ff0000000000000    10020668     lualib:lbaselib.obj
+ 0002:00000670       _lua_ident                 10020670     lua50:lapi.obj
+ 0002:000006fc       _luaT_typenames            100206fc     lua50:ltm.obj
+ 0002:00000760       _luaO_nilobject            10020760     lua50:lobject.obj
+ 0002:000008ec       _luaP_opmodes              100208ec     lua50:lopcodes.obj
+ 0002:00000958       ??_C@_0BO@GNIAFIKK@Unknown?5Runtime?5Check?5Error?6?$AN?$AA@ 10020958     MSVCRTD:error.obj
+ 0002:00000978       ??_C@_0DG@HKJMLLLP@A?5local?5variable?5was?5used?5before@ 10020978     MSVCRTD:error.obj
+ 0002:000009b0       ??_C@_0BN@FFOINMNJ@Stack?5memory?5was?5corrupted?6?$AN?$AA@ 100209b0     MSVCRTD:error.obj
+ 0002:000009d0       ??_C@_0BBN@GPMLNJCF@A?5cast?5to?5a?5smaller?5data?5type?5ha@ 100209d0     MSVCRTD:error.obj
+ 0002:00000af0       ??_C@_0NN@NGPKDKPD@The?5value?5of?5ESP?5was?5not?5properl@ 10020af0     MSVCRTD:error.obj
+ 0002:00000bd0       ??_C@_0CA@IODNCDPG@Run?9Time?5Check?5Failure?5?$CD?$CFd?5?9?5?$CFs?$AA@ 10020bd0     MSVCRTD:error.obj
+ 0002:00000c0c       ??_C@_0L@CJCNHJJG@?6?$ANModule?3?7?$AA@ 10020c0c     MSVCRTD:error.obj
+ 0002:00000c18       ??_C@_08GJEJCAJD@?6?$ANLine?3?7?$AA@ 10020c18     MSVCRTD:error.obj
+ 0002:00000c24       ??_C@_0CI@INCLAPNB@Invalid?5pointer?5was?5assigned?5at?6@ 10020c24     MSVCRTD:error.obj
+ 0002:00000c4c       ??_C@_0BB@JEGFEAAM@?8?5was?5corrupted?4?$AA@ 10020c4c     MSVCRTD:error.obj
+ 0002:00000c60       ??_C@_0BM@FGFAMDLF@Stack?5around?5the?5variable?5?8?$AA@ 10020c60     MSVCRTD:error.obj
+ 0002:00000c7c       ??_C@_0DA@BEGFPCGG@A?5variable?5is?5being?5used?5without@ 10020c7c     MSVCRTD:error.obj
+ 0002:00000cac       ??_C@_0CH@LOIIHGKM@?8?5is?5being?5used?5without?5being?5de@ 10020cac     MSVCRTD:error.obj
+ 0002:00000cd4       ??_C@_0P@HLKMHJCG@The?5variable?5?8?$AA@ 10020cd4     MSVCRTD:error.obj
+ 0002:00000ce4       ??_C@_0BC@KNBMEBEO@IsDebuggerPresent?$AA@ 10020ce4     MSVCRTD:error.obj
+ 0002:00000cf8       ??_C@_0N@HAOHNMDE@Kernel32?4dll?$AA@ 10020cf8     MSVCRTD:error.obj
+ 0002:00000d08       ??_C@_08EIBOPINA@crtdll?4c?$AA@ 10020d08     MSVCRTD:crtdll.obj
+ 0002:00000d24       ??_C@_0CK@CNLNOEPB@Local?5variable?5used?5before?5initi@ 10020d24     MSVCRTD:userapi.obj
+ 0002:00000d50       ??_C@_0BI@CIGMDCBH@Stack?5memory?5corruption?$AA@ 10020d50     MSVCRTD:userapi.obj
+ 0002:00000d68       ??_C@_0CK@FEGOIOPB@Cast?5to?5smaller?5type?5causing?5los@ 10020d68     MSVCRTD:userapi.obj
+ 0002:00000d94       ??_C@_0BJ@HEGAHDFO@Stack?5pointer?5corruption?$AA@ 10020d94     MSVCRTD:userapi.obj
+ 0002:00000db0       ??_C@_0M@LMBNJDKL@MSPDB70?4DLL?$AA@ 10020db0     MSVCRTD:pdblkup.obj
+ 0002:00000dbc       ??_C@_01KDCPPGHE@r?$AA@    10020dbc     MSVCRTD:pdblkup.obj
+ 0002:00000dbe       ??_C@_00CNPNBAHC@?$AA@     10020dbe     MSVCRTD:pdblkup.obj
+ 0002:00000dc0       ??_C@_08ONJBEOFA@PDBClose?$AA@ 10020dc0     MSVCRTD:pdblkup.obj
+ 0002:00000dcc       ??_C@_08NINFAAFA@DBIClose?$AA@ 10020dcc     MSVCRTD:pdblkup.obj
+ 0002:00000dd8       ??_C@_08LIGPJJNA@ModClose?$AA@ 10020dd8     MSVCRTD:pdblkup.obj
+ 0002:00000de4       ??_C@_0O@IPLOKOKN@ModQueryLines?$AA@ 10020de4     MSVCRTD:pdblkup.obj
+ 0002:00000df4       ??_C@_0BE@GDNPNLGH@DBIQueryModFromAddr?$AA@ 10020df4     MSVCRTD:pdblkup.obj
+ 0002:00000e08       ??_C@_0L@KPMOCKEL@PDBOpenDBI?$AA@ 10020e08     MSVCRTD:pdblkup.obj
+ 0002:00000e14       ??_C@_0BB@PENKIMFE@PDBOpenValidate3?$AA@ 10020e14     MSVCRTD:pdblkup.obj
+ 0002:00000e28       ??_C@_0N@KIGOLBLC@Module32Next?$AA@ 10020e28     MSVCRTD:pdblkup.obj
+ 0002:00000e38       ??_C@_0O@CNMFJJGO@Module32First?$AA@ 10020e38     MSVCRTD:pdblkup.obj
+ 0002:00000e48       ??_C@_0BF@OCLFCNKN@GetModuleInformation?$AA@ 10020e48     MSVCRTD:pdblkup.obj
+ 0002:00000e60       ??_C@_0BD@FIEJBLME@EnumProcessModules?$AA@ 10020e60     MSVCRTD:pdblkup.obj
+ 0002:00000e74       ??_C@_09EPMADGLA@PSAPI?4DLL?$AA@ 10020e74     MSVCRTD:pdblkup.obj
+ 0002:00000e80       ??_C@_0BJ@JEFKDHMD@CreateToolhelp32Snapshot?$AA@ 10020e80     MSVCRTD:pdblkup.obj
+ 0002:00000e9c       ??_C@_0O@CHDGJGFP@ImageNtHeader?$AA@ 10020e9c     MSVCRTD:pdblkup.obj
+ 0002:00000eac       ??_C@_0N@KBGMOMJO@IMAGEHLP?4DLL?$AA@ 10020eac     MSVCRTD:pdblkup.obj
+ 0002:00000ebc       ??_C@_0N@NHGLKGEC@KERNEL32?4DLL?$AA@ 10020ebc     MSVCRTD:pdblkup.obj
+ 0002:00000ecc       ??_C@_0BF@BMIHBHCA@EnvironmentDirectory?$AA@ 10020ecc     MSVCRTD:pdblkup.obj
+ 0002:00000ee4       ??_C@_0CN@GHDOHPNH@SOFTWARE?2Microsoft?2VisualStudio?2@ 10020ee4     MSVCRTD:pdblkup.obj
+ 0002:00000f14       ??_C@_0M@HLOHPNFA@RegCloseKey?$AA@ 10020f14     MSVCRTD:pdblkup.obj
+ 0002:00000f20       ??_C@_0BB@HHEIPGME@RegQueryValueExA?$AA@ 10020f20     MSVCRTD:pdblkup.obj
+ 0002:00000f34       ??_C@_0O@DCOGKJGG@RegOpenKeyExA?$AA@ 10020f34     MSVCRTD:pdblkup.obj
+ 0002:00000f44       ??_C@_0N@JJPEKNFO@ADVAPI32?4DLL?$AA@ 10020f44     MSVCRTD:pdblkup.obj
+ 0002:00000fb8       ___rtc_iaa                 10020fb8     MSVCRTD:initsect.obj
+ 0002:00000fe4       ___rtc_izz                 10020fe4     MSVCRTD:initsect.obj
+ 0002:00000fe8       ___rtc_taa                 10020fe8     MSVCRTD:initsect.obj
+ 0002:00001014       ___rtc_tzz                 10021014     MSVCRTD:initsect.obj
+ 0002:00001018       __IMPORT_DESCRIPTOR_MSVCR70D 10021018     MSVCRTD:MSVCR70D.dll
+ 0002:0000102c       __IMPORT_DESCRIPTOR_KERNEL32 1002102c     kernel32:KERNEL32.dll
+ 0002:00001040       __NULL_IMPORT_DESCRIPTOR   10021040     MSVCRTD:MSVCR70D.dll
+ 0003:00000000       ___xc_a                    10022000     MSVCRTD:cinitexe.obj
+ 0003:00000008       ___xc_z                    10022008     MSVCRTD:cinitexe.obj
+ 0003:0000000c       ___xi_a                    1002200c     MSVCRTD:cinitexe.obj
+ 0003:00000010       ___xi_z                    10022010     MSVCRTD:cinitexe.obj
+ 0003:00000120       _CLUArraySignature         10022120     CaLua_luafuncs.obj
+ 0003:000008a8       _typeList                  100228a8     CaLua_main.obj
+ 0003:0000090c       _typeNameList              1002290c     CaLua_main.obj
+ 0003:00002b50       ?_RTC_ErrorLevels@@3PAHA   10024b50     MSVCRTD:error.obj
+ 0003:00002b74       ___security_cookie         10024b74     MSVCRTD:seccook.obj
+ 0003:00002ba4       _baseTypeLU                10024ba4     CaLua_main.obj
+ 0003:00002ba8       _structs                   10024ba8     CaLua_main.obj
+ 0003:00002bac       _numStructs                10024bac     CaLua_main.obj
+ 0003:00002bb0       _structsLU                 10024bb0     CaLua_main.obj
+ 0003:00002bb4       _funcs                     10024bb4     CaLua_main.obj
+ 0003:00002bb8       _numFuncs                  10024bb8     CaLua_main.obj
+ 0003:00002bbc       _funcsLU                   10024bbc     CaLua_main.obj
+ 0003:00002bc0       _virtualMachine            10024bc0     CaLua_main.obj
+ 0003:00002bc4       _vmStackPos                10024bc4     CaLua_main.obj
+ 0003:00002bc8       _clearStateStackFlag       10024bc8     CaLua_main.obj
+ 0003:00002bcc       _currentState              10024bcc     CaLua_main.obj
+ 0003:00002c60       _stateStack                10024c60     <common>
+ 0003:00002ea0       _vmStack                   10024ea0     <common>
+ 0003:00002eac       __adjust_fdiv              10024eac     <common>
+ 0003:00002eb0       ___onexitend               10024eb0     <common>
+ 0003:00002eb4       ___onexitbegin             10024eb4     <common>
+ 0003:00002eb8       __pRawDllMain              10024eb8     <common>
+
+ entry point at        0001:0001da40
+
+ Static symbols
+
+ 0001:00006b28       _FindNextAvailPos          10007b28 f   CaLua_vmstack.obj
+ 0001:00006874       _GetNextAlignmentPosition  10007874 f   CaLua_structure.obj
+ 0001:000068af       _GetMemberAlignmentSize    100078af f   CaLua_structure.obj
+ 0001:00001dde       _TypeCheck                 10002dde f   CaLua_luafuncs.obj
+ 0001:00001e54       _ThrowLuaError             10002e54 f   CaLua_luafuncs.obj
+ 0001:00002345       _ValidateArray             10003345 f   CaLua_luafuncs.obj
+ 0001:000024e7       _VerfiyArrayIntegrity      100034e7 f   CaLua_luafuncs.obj
+ 0001:0000d7c0       _checkint                  1000e7c0 f   lualib:lauxlib.obj
+ 0001:0000d800       _getsizes                  1000e800 f   lualib:lauxlib.obj
+ 0001:0000da90       _emptybuffer               1000ea90 f   lualib:lauxlib.obj
+ 0001:0000dac0       _adjuststack               1000eac0 f   lualib:lauxlib.obj
+ 0001:0000de60       _getF                      1000ee60 f   lualib:lauxlib.obj
+ 0001:0000dea0       _errfile                   1000eea0 f   lualib:lauxlib.obj
+ 0001:0000e070       _getS                      1000f070 f   lualib:lauxlib.obj
+ 0001:0000e0c0       _callalert                 1000f0c0 f   lualib:lauxlib.obj
+ 0001:0000e130       _aux_do                    1000f130 f   lualib:lauxlib.obj
+ 0001:0000e360       _tag_error                 1000f360 f   lualib:lauxlib.obj
+ 0001:0000c020       _luaB_print                1000d020 f   lualib:lbaselib.obj
+ 0001:0000c100       _luaB_tonumber             1000d100 f   lualib:lbaselib.obj
+ 0001:0000c230       _luaB_error                1000d230 f   lualib:lbaselib.obj
+ 0001:0000c2b0       _luaB_getmetatable         1000d2b0 f   lualib:lbaselib.obj
+ 0001:0000c300       _luaB_setmetatable         1000d300 f   lualib:lbaselib.obj
+ 0001:0000c380       _getfunc                   1000d380 f   lualib:lbaselib.obj
+ 0001:0000c450       _aux_getfenv               1000d450 f   lualib:lbaselib.obj
+ 0001:0000c480       _luaB_getfenv              1000d480 f   lualib:lbaselib.obj
+ 0001:0000c4d0       _luaB_setfenv              1000d4d0 f   lualib:lbaselib.obj
+ 0001:0000c590       _luaB_rawequal             1000d590 f   lualib:lbaselib.obj
+ 0001:0000c5c0       _luaB_rawget               1000d5c0 f   lualib:lbaselib.obj
+ 0001:0000c5f0       _luaB_rawset               1000d5f0 f   lualib:lbaselib.obj
+ 0001:0000c630       _luaB_gcinfo               1000d630 f   lualib:lbaselib.obj
+ 0001:0000c690       _luaB_collectgarbage       1000d690 f   lualib:lbaselib.obj
+ 0001:0000c6c0       _luaB_type                 1000d6c0 f   lualib:lbaselib.obj
+ 0001:0000c6f0       _luaB_next                 1000d6f0 f   lualib:lbaselib.obj
+ 0001:0000c730       _luaB_pairs                1000d730 f   lualib:lbaselib.obj
+ 0001:0000c770       _luaB_ipairs               1000d770 f   lualib:lbaselib.obj
+ 0001:0000c830       _load_aux                  1000d830 f   lualib:lbaselib.obj
+ 0001:0000c860       _luaB_loadstring           1000d860 f   lualib:lbaselib.obj
+ 0001:0000c8c0       _luaB_loadfile             1000d8c0 f   lualib:lbaselib.obj
+ 0001:0000c900       _luaB_dofile               1000d900 f   lualib:lbaselib.obj
+ 0001:0000c940       _luaB_assert               1000d940 f   lualib:lbaselib.obj
+ 0001:0000c990       _luaB_unpack               1000d990 f   lualib:lbaselib.obj
+ 0001:0000c9e0       _luaB_pcall                1000d9e0 f   lualib:lbaselib.obj
+ 0001:0000ca30       _luaB_xpcall               1000da30 f   lualib:lbaselib.obj
+ 0001:0000ca80       _luaB_tostring             1000da80 f   lualib:lbaselib.obj
+ 0001:0000cbc0       _luaB_newproxy             1000dbc0 f   lualib:lbaselib.obj
+ 0001:0000cc90       _getpath                   1000dc90 f   lualib:lbaselib.obj
+ 0001:0000cce0       _pushnextpath              1000dce0 f   lualib:lbaselib.obj
+ 0001:0000cd40       _pushcomposename           1000dd40 f   lualib:lbaselib.obj
+ 0001:0000cdc0       _luaB_require              1000ddc0 f   lualib:lbaselib.obj
+ 0001:0000cfd0       _auxresume                 1000dfd0 f   lualib:lbaselib.obj
+ 0001:0000d050       _luaB_coresume             1000e050 f   lualib:lbaselib.obj
+ 0001:0000d0d0       _luaB_auxwrap              1000e0d0 f   lualib:lbaselib.obj
+ 0001:0000d130       _luaB_cocreate             1000e130 f   lualib:lbaselib.obj
+ 0001:0000d190       _luaB_cowrap               1000e190 f   lualib:lbaselib.obj
+ 0001:0000d1c0       _luaB_yield                1000e1c0 f   lualib:lbaselib.obj
+ 0001:0000d1e0       _luaB_costatus             1000e1e0 f   lualib:lbaselib.obj
+ 0001:0000d280       _base_open                 1000e280 f   lualib:lbaselib.obj
+ 0001:00006d10       _settabss                  10007d10 f   lualib:ldblib.obj
+ 0001:00006d30       _settabsi                  10007d30 f   lualib:ldblib.obj
+ 0001:00006d60       _getinfo                   10007d60 f   lualib:ldblib.obj
+ 0001:00006fe0       _getlocal                  10007fe0 f   lualib:ldblib.obj
+ 0001:000070a0       _setlocal                  100080a0 f   lualib:ldblib.obj
+ 0001:00007140       _auxupvalue                10008140 f   lualib:ldblib.obj
+ 0001:000071b0       _getupvalue                100081b0 f   lualib:ldblib.obj
+ 0001:00007210       _setupvalue                10008210 f   lualib:ldblib.obj
+ 0001:00007280       _hookf                     10008280 f   lualib:ldblib.obj
+ 0001:00007330       _makemask                  10008330 f   lualib:ldblib.obj
+ 0001:00007380       _unmakemask                10008380 f   lualib:ldblib.obj
+ 0001:000073c0       _sethook                   100083c0 f   lualib:ldblib.obj
+ 0001:00007460       _gethook                   10008460 f   lualib:ldblib.obj
+ 0001:00007530       _debug                     10008530 f   lualib:ldblib.obj
+ 0001:00007630       _errorfb                   10008630 f   lualib:ldblib.obj
+ 0001:00009a60       _pushresult                1000aa60 f   lualib:liolib.obj
+ 0001:00009af0       _topfile                   1000aaf0 f   lualib:liolib.obj
+ 0001:00009b20       _io_type                   1000ab20 f   lualib:liolib.obj
+ 0001:00009b80       _tofile                    1000ab80 f   lualib:liolib.obj
+ 0001:00009bc0       _newfile                   1000abc0 f   lualib:liolib.obj
+ 0001:00009bf0       _registerfile              1000abf0 f   lualib:liolib.obj
+ 0001:00009c50       _aux_close                 1000ac50 f   lualib:liolib.obj
+ 0001:00009ce0       _io_close                  1000ace0 f   lualib:liolib.obj
+ 0001:00009d80       _io_gc                     1000ad80 f   lualib:liolib.obj
+ 0001:00009dc0       _io_tostring               1000adc0 f   lualib:liolib.obj
+ 0001:00009e70       _io_open                   1000ae70 f   lualib:liolib.obj
+ 0001:00009ee0       _io_popen                  1000aee0 f   lualib:liolib.obj
+ 0001:00009f00       _io_tmpfile                1000af00 f   lualib:liolib.obj
+ 0001:00009f90       _getiofile                 1000af90 f   lualib:liolib.obj
+ 0001:00009fe0       _g_iofile                  1000afe0 f   lualib:liolib.obj
+ 0001:0000a0c0       _io_input                  1000b0c0 f   lualib:liolib.obj
+ 0001:0000a0e0       _io_output                 1000b0e0 f   lualib:liolib.obj
+ 0001:0000a100       _read_number               1000b100 f   lualib:liolib.obj
+ 0001:0000a150       _test_eof                  1000b150 f   lualib:liolib.obj
+ 0001:0000a180       _read_line                 1000b180 f   lualib:liolib.obj
+ 0001:0000a270       _read_chars                1000b270 f   lualib:liolib.obj
+ 0001:0000a350       _g_read                    1000b350 f   lualib:liolib.obj
+ 0001:0000a4e0       _io_read                   1000b4e0 f   lualib:liolib.obj
+ 0001:0000a550       _f_read                    1000b550 f   lualib:liolib.obj
+ 0001:0000a5a0       _io_readline               1000b5a0 f   lualib:liolib.obj
+ 0001:0000a620       _g_write                   1000b620 f   lualib:liolib.obj
+ 0001:0000a720       _io_write                  1000b720 f   lualib:liolib.obj
+ 0001:0000a790       _f_write                   1000b790 f   lualib:liolib.obj
+ 0001:0000a7f0       _f_seek                    1000b7f0 f   lualib:liolib.obj
+ 0001:0000a920       _io_flush                  1000b920 f   lualib:liolib.obj
+ 0001:0000a9f0       _f_flush                   1000b9f0 f   lualib:liolib.obj
+ 0001:0000aab0       _createmeta                1000bab0 f   lualib:liolib.obj
+ 0001:0000aaf0       _io_execute                1000baf0 f   lualib:liolib.obj
+ 0001:0000ab40       _io_remove                 1000bb40 f   lualib:liolib.obj
+ 0001:0000ab70       _io_rename                 1000bb70 f   lualib:liolib.obj
+ 0001:0000abb0       _io_tmpname                1000bbb0 f   lualib:liolib.obj
+ 0001:0000ac20       _io_getenv                 1000bc20 f   lualib:liolib.obj
+ 0001:0000ac50       _io_clock                  1000bc50 f   lualib:liolib.obj
+ 0001:0000ac90       _setfield                  1000bc90 f   lualib:liolib.obj
+ 0001:0000acc0       _setboolfield              1000bcc0 f   lualib:liolib.obj
+ 0001:0000ace0       _getboolfield              1000bce0 f   lualib:liolib.obj
+ 0001:0000ad10       _getfield                  1000bd10 f   lualib:liolib.obj
+ 0001:0000ad70       _io_date                   1000bd70 f   lualib:liolib.obj
+ 0001:0000b0b0       _io_time                   1000c0b0 f   lualib:liolib.obj
+ 0001:0000b360       _io_difftime               1000c360 f   lualib:liolib.obj
+ 0001:0000b3b0       _io_setloc                 1000c3b0 f   lualib:liolib.obj
+ 0001:0000b440       _io_exit                   1000c440 f   lualib:liolib.obj
+ 0001:0000b550       _aux_lines                 1000c550 f   lualib:liolib.obj
+ 0001:0000b590       _f_lines                   1000c590 f   lualib:liolib.obj
+ 0001:0000b610       _io_lines                  1000c610 f   lualib:liolib.obj
+ 0001:00007890       _math_abs                  10008890 f   lualib:lmathlib.obj
+ 0001:000078c0       _math_sin                  100088c0 f   lualib:lmathlib.obj
+ 0001:000078f0       _math_cos                  100088f0 f   lualib:lmathlib.obj
+ 0001:00007920       _math_tan                  10008920 f   lualib:lmathlib.obj
+ 0001:00007950       _math_asin                 10008950 f   lualib:lmathlib.obj
+ 0001:00007980       _math_acos                 10008980 f   lualib:lmathlib.obj
+ 0001:000079b0       _math_atan                 100089b0 f   lualib:lmathlib.obj
+ 0001:000079e0       _math_atan2                100089e0 f   lualib:lmathlib.obj
+ 0001:00007a20       _math_ceil                 10008a20 f   lualib:lmathlib.obj
+ 0001:00007a50       _math_floor                10008a50 f   lualib:lmathlib.obj
+ 0001:00007a80       _math_mod                  10008a80 f   lualib:lmathlib.obj
+ 0001:00007ac0       _math_sqrt                 10008ac0 f   lualib:lmathlib.obj
+ 0001:00007af0       _math_pow                  10008af0 f   lualib:lmathlib.obj
+ 0001:00007b30       _math_log                  10008b30 f   lualib:lmathlib.obj
+ 0001:00007b60       _math_log10                10008b60 f   lualib:lmathlib.obj
+ 0001:00007b90       _math_exp                  10008b90 f   lualib:lmathlib.obj
+ 0001:00007bc0       _math_deg                  10008bc0 f   lualib:lmathlib.obj
+ 0001:00007bf0       _math_rad                  10008bf0 f   lualib:lmathlib.obj
+ 0001:00007c20       _math_frexp                10008c20 f   lualib:lmathlib.obj
+ 0001:00007c70       _math_ldexp                10008c70 f   lualib:lmathlib.obj
+ 0001:00007cb0       _math_min                  10008cb0 f   lualib:lmathlib.obj
+ 0001:00007d40       _math_max                  10008d40 f   lualib:lmathlib.obj
+ 0001:00007dd0       _math_random               10008dd0 f   lualib:lmathlib.obj
+ 0001:00007f60       _math_randomseed           10008f60 f   lualib:lmathlib.obj
+ 0001:00007ff0       _str_len                   10008ff0 f   lualib:lstrlib.obj
+ 0001:00008040       _posrelat                  10009040 f   lualib:lstrlib.obj
+ 0001:00008050       _str_sub                   10009050 f   lualib:lstrlib.obj
+ 0001:00008100       _str_lower                 10009100 f   lualib:lstrlib.obj
+ 0001:000081c0       _str_upper                 100091c0 f   lualib:lstrlib.obj
+ 0001:00008280       _str_rep                   10009280 f   lualib:lstrlib.obj
+ 0001:00008320       _str_byte                  10009320 f   lualib:lstrlib.obj
+ 0001:000083a0       _str_char                  100093a0 f   lualib:lstrlib.obj
+ 0001:00008470       _writer                    10009470 f   lualib:lstrlib.obj
+ 0001:00008490       _str_dump                  10009490 f   lualib:lstrlib.obj
+ 0001:00008520       _check_capture             10009520 f   lualib:lstrlib.obj
+ 0001:00008550       _capture_to_close          10009550 f   lualib:lstrlib.obj
+ 0001:00008580       _luaI_classend             10009580 f   lualib:lstrlib.obj
+ 0001:000085f0       _match_class               100095f0 f   lualib:lstrlib.obj
+ 0001:00008710       _matchbracketclass         10009710 f   lualib:lstrlib.obj
+ 0001:000087b0       _luaI_singlematch          100097b0 f   lualib:lstrlib.obj
+ 0001:000087f0       _matchbalance              100097f0 f   lualib:lstrlib.obj
+ 0001:00008860       _max_expand                10009860 f   lualib:lstrlib.obj
+ 0001:000088f0       _min_expand                100098f0 f   lualib:lstrlib.obj
+ 0001:00008980       _start_capture             10009980 f   lualib:lstrlib.obj
+ 0001:000089d0       _end_capture               100099d0 f   lualib:lstrlib.obj
+ 0001:00008a30       _match_capture             10009a30 f   lualib:lstrlib.obj
+ 0001:00008a80       _match                     10009a80 f   lualib:lstrlib.obj
+ 0001:00008d50       _lmemfind                  10009d50 f   lualib:lstrlib.obj
+ 0001:00008dc0       _push_onecapture           10009dc0 f   lualib:lstrlib.obj
+ 0001:00008e30       _push_captures             10009e30 f   lualib:lstrlib.obj
+ 0001:00008e90       _str_find                  10009e90 f   lualib:lstrlib.obj
+ 0001:00009090       _gfind_aux                 1000a090 f   lualib:lstrlib.obj
+ 0001:00009180       _gfind                     1000a180 f   lualib:lstrlib.obj
+ 0001:000091d0       _add_s                     1000a1d0 f   lualib:lstrlib.obj
+ 0001:00009320       _str_gsub                  1000a320 f   lualib:lstrlib.obj
+ 0001:00009520       _luaI_addquoted            1000a520 f   lualib:lstrlib.obj
+ 0001:00009670       _scanformat                1000a670 f   lualib:lstrlib.obj
+ 0001:00009760       _str_format                1000a760 f   lualib:lstrlib.obj
+ 0001:0000b6f0       _luaB_foreachi             1000c6f0 f   lualib:ltablib.obj
+ 0001:0000b7a0       _luaB_foreach              1000c7a0 f   lualib:ltablib.obj
+ 0001:0000b830       _luaB_getn                 1000c830 f   lualib:ltablib.obj
+ 0001:0000b880       _luaB_setn                 1000c880 f   lualib:ltablib.obj
+ 0001:0000b8b0       _luaB_tinsert              1000c8b0 f   lualib:ltablib.obj
+ 0001:0000b950       _luaB_tremove              1000c950 f   lualib:ltablib.obj
+ 0001:0000ba00       _str_concat                1000ca00 f   lualib:ltablib.obj
+ 0001:0000bb20       _set2                      1000cb20 f   lualib:ltablib.obj
+ 0001:0000bb40       _sort_comp                 1000cb40 f   lualib:ltablib.obj
+ 0001:0000bbb0       _auxsort                   1000cbb0 f   lualib:ltablib.obj
+ 0001:0000bfa0       _luaB_sort                 1000cfa0 f   lualib:ltablib.obj
+ 0001:0000e5a0       _negindex                  1000f5a0 f   lua50:lapi.obj
+ 0001:0000e5f0       _luaA_index                1000f5f0 f   lua50:lapi.obj
+ 0001:0000e610       _luaA_indexAcceptable      1000f610 f   lua50:lapi.obj
+ 0001:0000f4c0       _f_call                    100104c0 f   lua50:lapi.obj
+ 0001:0000f550       _f_Ccall                   10010550 f   lua50:lapi.obj
+ 0001:0000f8e0       _aux_upvalue               100108e0 f   lua50:lapi.obj
+ 0001:0001b9c0       _luaK_fixjump              1001c9c0 f   lua50:lcode.obj
+ 0001:0001ba20       _luaK_getjump              1001ca20 f   lua50:lcode.obj
+ 0001:0001ba50       _getjumpcontrol            1001ca50 f   lua50:lcode.obj
+ 0001:0001ba80       _need_value                1001ca80 f   lua50:lcode.obj
+ 0001:0001bb00       _patchtestreg              1001cb00 f   lua50:lcode.obj
+ 0001:0001bb30       _luaK_patchlistaux         1001cb30 f   lua50:lcode.obj
+ 0001:0001bc70       _luaK_dischargejpc         1001cc70 f   lua50:lcode.obj
+ 0001:0001bd80       _freereg                   1001cd80 f   lua50:lcode.obj
+ 0001:0001bda0       _freeexp                   1001cda0 f   lua50:lcode.obj
+ 0001:0001bdc0       _addk                      1001cdc0 f   lua50:lcode.obj
+ 0001:0001bee0       _nil_constant              1001cee0 f   lua50:lcode.obj
+ 0001:0001bf80       _invertjump                1001cf80 f   lua50:lcode.obj
+ 0001:0001c1e0       _luaK_condjump             1001d1e0 f   lua50:lcode.obj
+ 0001:0001c330       _code_label                1001d330 f   lua50:lcode.obj
+ 0001:0001c360       _discharge2reg             1001d360 f   lua50:lcode.obj
+ 0001:0001c450       _discharge2anyreg          1001d450 f   lua50:lcode.obj
+ 0001:0001c4b0       _luaK_exp2reg              1001d4b0 f   lua50:lcode.obj
+ 0001:0001c920       _jumponcond                1001d920 f   lua50:lcode.obj
+ 0001:0001cb00       _codenot                   1001db00 f   lua50:lcode.obj
+ 0001:0001cd50       _codebinop                 1001dd50 f   lua50:lcode.obj
+ 0001:0000fe60       _currentpc                 10010e60 f   lua50:ldebug.obj
+ 0001:0000fe90       _currentline               10010e90 f   lua50:ldebug.obj
+ 0001:00010000       _getluaproto               10011000 f   lua50:ldebug.obj
+ 0001:00010150       _funcinfo                  10011150 f   lua50:ldebug.obj
+ 0001:000101c0       _travglobals               100111c0 f   lua50:ldebug.obj
+ 0001:00010220       _info_tailcall             10011220 f   lua50:ldebug.obj
+ 0001:00010270       _precheck                  10011270 f   lua50:ldebug.obj
+ 0001:000102a0       _checkopenop               100112a0 f   lua50:ldebug.obj
+ 0001:000102d0       _checkRK                   100112d0 f   lua50:ldebug.obj
+ 0001:00010300       _luaG_symbexec             10011300 f   lua50:ldebug.obj
+ 0001:000106e0       _kname                     100116e0 f   lua50:ldebug.obj
+ 0001:00010710       _getobjname                10011710 f   lua50:ldebug.obj
+ 0001:00010840       _getfuncname               10011840 f   lua50:ldebug.obj
+ 0001:000108c0       _isinstack                 100118c0 f   lua50:ldebug.obj
+ 0001:000108f0       _addinfo                   100118f0 f   lua50:ldebug.obj
+ 0001:00010a40       _auxgetinfo                10011a40 f   lua50:ldebug.obj
+ 0001:00010d70       _seterrorobj               10011d70 f   lua50:ldo.obj
+ 0001:00010ea0       _correctstack              10011ea0 f   lua50:ldo.obj
+ 0001:00011060       _luaD_growCI               10012060 f   lua50:ldo.obj
+ 0001:000111b0       _adjust_varargs            100121b0 f   lua50:ldo.obj
+ 0001:000112f0       _tryfuncTM                 100122f0 f   lua50:ldo.obj
+ 0001:000114e0       _callrethooks              100124e0 f   lua50:ldo.obj
+ 0001:00011640       _resume                    10012640 f   lua50:ldo.obj
+ 0001:000117b0       _f_parser                  100127b0 f   lua50:ldo.obj
+ 0001:000118c0       _restore_stack_limit       100128c0 f   lua50:ldo.obj
+ 0001:00015f70       _DumpBlock                 10016f70 f   lua50:ldump.obj
+ 0001:00015f90       _DumpByte                  10016f90 f   lua50:ldump.obj
+ 0001:00015fb0       _DumpInt                   10016fb0 f   lua50:ldump.obj
+ 0001:00015fd0       _DumpSize                  10016fd0 f   lua50:ldump.obj
+ 0001:00015ff0       _DumpNumber                10016ff0 f   lua50:ldump.obj
+ 0001:00016010       _DumpString                10017010 f   lua50:ldump.obj
+ 0001:00016070       _DumpCode                  10017070 f   lua50:ldump.obj
+ 0001:000160b0       _DumpLocals                100170b0 f   lua50:ldump.obj
+ 0001:000161a0       _DumpLines                 100171a0 f   lua50:ldump.obj
+ 0001:000161e0       _DumpUpvalues              100171e0 f   lua50:ldump.obj
+ 0001:00016280       _DumpConstants             10017280 f   lua50:ldump.obj
+ 0001:000163c0       _DumpFunction              100173c0 f   lua50:ldump.obj
+ 0001:000164d0       _DumpHeader                100174d0 f   lua50:ldump.obj
+ 0001:00011a20       _reallymarkobject          10012a20 f   lua50:lgc.obj
+ 0001:00011a90       _marktmu                   10012a90 f   lua50:lgc.obj
+ 0001:00011b50       _removekey                 10012b50 f   lua50:lgc.obj
+ 0001:00011b70       _traversetable             10012b70 f   lua50:lgc.obj
+ 0001:00011ce0       _traverseproto             10012ce0 f   lua50:lgc.obj
+ 0001:00011d90       _traverseclosure           10012d90 f   lua50:lgc.obj
+ 0001:00011e30       _checkstacksizes           10012e30 f   lua50:lgc.obj
+ 0001:00011ea0       _traversestack             10012ea0 f   lua50:lgc.obj
+ 0001:00011f90       _propagatemarks            10012f90 f   lua50:lgc.obj
+ 0001:00012010       _valismarked               10013010 f   lua50:lgc.obj
+ 0001:00012040       _cleartablekeys            10013040 f   lua50:lgc.obj
+ 0001:000120a0       _cleartablevalues          100130a0 f   lua50:lgc.obj
+ 0001:00012150       _freeobj                   10013150 f   lua50:lgc.obj
+ 0001:000121f0       _sweeplist                 100131f0 f   lua50:lgc.obj
+ 0001:00012230       _sweepstrings              10013230 f   lua50:lgc.obj
+ 0001:00012270       _checkSizes                10013270 f   lua50:lgc.obj
+ 0001:000122e0       _do1gcTM                   100132e0 f   lua50:lgc.obj
+ 0001:00012470       _markroot                  10013470 f   lua50:lgc.obj
+ 0001:000124e0       _mark                      100134e0 f   lua50:lgc.obj
+ 0001:00016800       _luaX_error                10017800 f   lua50:llex.obj
+ 0001:00016850       _luaX_lexerror             10017850 f   lua50:llex.obj
+ 0001:00016920       _readname                  10017920 f   lua50:llex.obj
+ 0001:000169c0       _read_numeral              100179c0 f   lua50:llex.obj
+ 0001:00016d40       _inclinenumber             10017d40 f   lua50:llex.obj
+ 0001:00016da0       _read_long_string          10017da0 f   lua50:llex.obj
+ 0001:00017040       _read_string               10018040 f   lua50:llex.obj
+ 0001:00014740       _pushstr                   10015740 f   lua50:lobject.obj
+ 0001:00017af0       _next                      10018af0 f   lua50:lparser.obj
+ 0001:00017b40       _lookahead                 10018b40 f   lua50:lparser.obj
+ 0001:00017b60       _error_expected            10018b60 f   lua50:lparser.obj
+ 0001:00017b90       _testnext                  10018b90 f   lua50:lparser.obj
+ 0001:00017bb0       _check                     10018bb0 f   lua50:lparser.obj
+ 0001:00017be0       _check_match               10018be0 f   lua50:lparser.obj
+ 0001:00017c50       _str_checkname             10018c50 f   lua50:lparser.obj
+ 0001:00017cc0       _init_exp                  10018cc0 f   lua50:lparser.obj
+ 0001:00017ce0       _codestring                10018ce0 f   lua50:lparser.obj
+ 0001:00017d00       _checkname                 10018d00 f   lua50:lparser.obj
+ 0001:00017d30       _luaI_registerlocalvar     10018d30 f   lua50:lparser.obj
+ 0001:00017d90       _new_localvar              10018d90 f   lua50:lparser.obj
+ 0001:00017dd0       _adjustlocalvars           10018dd0 f   lua50:lparser.obj
+ 0001:00017e10       _removevars                10018e10 f   lua50:lparser.obj
+ 0001:00017e50       _new_localvarstr           10018e50 f   lua50:lparser.obj
+ 0001:00017eb0       _create_local              10018eb0 f   lua50:lparser.obj
+ 0001:00017ee0       _indexupvalue              10018ee0 f   lua50:lparser.obj
+ 0001:00017fa0       _searchvar                 10018fa0 f   lua50:lparser.obj
+ 0001:00017fd0       _markupval                 10018fd0 f   lua50:lparser.obj
+ 0001:00017ff0       _singlevaraux              10018ff0 f   lua50:lparser.obj
+ 0001:000180e0       _singlevar                 100190e0 f   lua50:lparser.obj
+ 0001:00018110       _adjust_assign             10019110 f   lua50:lparser.obj
+ 0001:00018190       _code_params               10019190 f   lua50:lparser.obj
+ 0001:00018200       _enterblock                10019200 f   lua50:lparser.obj
+ 0001:00018220       _leaveblock                10019220 f   lua50:lparser.obj
+ 0001:00018270       _pushclosure               10019270 f   lua50:lparser.obj
+ 0001:00018330       _open_func                 10019330 f   lua50:lparser.obj
+ 0001:00018390       _close_func                10019390 f   lua50:lparser.obj
+ 0001:000184a0       _luaY_field                100194a0 f   lua50:lparser.obj
+ 0001:00018540       _luaY_index                10019540 f   lua50:lparser.obj
+ 0001:000185e0       _recfield                  100195e0 f   lua50:lparser.obj
+ 0001:000186e0       _closelistfield            100196e0 f   lua50:lparser.obj
+ 0001:00018730       _lastlistfield             10019730 f   lua50:lparser.obj
+ 0001:000187a0       _listfield                 100197a0 f   lua50:lparser.obj
+ 0001:000187d0       _constructor               100197d0 f   lua50:lparser.obj
+ 0001:00018a50       _parlist                   10019a50 f   lua50:lparser.obj
+ 0001:00018be0       _body                      10019be0 f   lua50:lparser.obj
+ 0001:00018cf0       _explist1                  10019cf0 f   lua50:lparser.obj
+ 0001:00018d90       _funcargs                  10019d90 f   lua50:lparser.obj
+ 0001:00018ed0       _prefixexp                 10019ed0 f   lua50:lparser.obj
+ 0001:00018f40       _primaryexp                10019f40 f   lua50:lparser.obj
+ 0001:00019170       _simpleexp                 1001a170 f   lua50:lparser.obj
+ 0001:00019300       _getunopr                  1001a300 f   lua50:lparser.obj
+ 0001:00019320       _getbinopr                 1001a320 f   lua50:lparser.obj
+ 0001:000194c0       _subexpr                   1001a4c0 f   lua50:lparser.obj
+ 0001:00019600       _expr                      1001a600 f   lua50:lparser.obj
+ 0001:00019610       _block_follow              1001a610 f   lua50:lparser.obj
+ 0001:00019660       _block                     1001a660 f   lua50:lparser.obj
+ 0001:000196f0       _check_conflict            1001a6f0 f   lua50:lparser.obj
+ 0001:00019750       _assignment                1001a750 f   lua50:lparser.obj
+ 0001:00019890       _cond                      1001a890 f   lua50:lparser.obj
+ 0001:000198d0       _whilestat                 1001a8d0 f   lua50:lparser.obj
+ 0001:00019c30       _repeatstat                1001ac30 f   lua50:lparser.obj
+ 0001:00019d70       _exp1                      1001ad70 f   lua50:lparser.obj
+ 0001:00019da0       _forbody                   1001ada0 f   lua50:lparser.obj
+ 0001:00019ef0       _fornum                    1001aef0 f   lua50:lparser.obj
+ 0001:0001a070       _forlist                   1001b070 f   lua50:lparser.obj
+ 0001:0001a2b0       _forstat                   1001b2b0 f   lua50:lparser.obj
+ 0001:0001a3d0       _test_then_block           1001b3d0 f   lua50:lparser.obj
+ 0001:0001a4a0       _ifstat                    1001b4a0 f   lua50:lparser.obj
+ 0001:0001a570       _localfunc                 1001b570 f   lua50:lparser.obj
+ 0001:0001a620       _localstat                 1001b620 f   lua50:lparser.obj
+ 0001:0001a7b0       _funcname                  1001b7b0 f   lua50:lparser.obj
+ 0001:0001a810       _funcstat                  1001b810 f   lua50:lparser.obj
+ 0001:0001a8a0       _exprstat                  1001b8a0 f   lua50:lparser.obj
+ 0001:0001a8f0       _retstat                   1001b8f0 f   lua50:lparser.obj
+ 0001:0001aa20       _breakstat                 1001ba20 f   lua50:lparser.obj
+ 0001:0001aad0       _statement                 1001bad0 f   lua50:lparser.obj
+ 0001:0001ac00       _chunk                     1001bc00 f   lua50:lparser.obj
+ 0001:0000f9c0       _default_panic             100109c0 f   lua50:lstate.obj
+ 0001:0000f9d0       _mallocstate               100109d0 f   lua50:lstate.obj
+ 0001:0000f9e0       _freestate                 100109e0 f   lua50:lstate.obj
+ 0001:0000f9f0       _stack_init                100109f0 f   lua50:lstate.obj
+ 0001:0000fa80       _freestack                 10010a80 f   lua50:lstate.obj
+ 0001:0000fab0       _f_luaopen                 10010ab0 f   lua50:lstate.obj
+ 0001:0000fbc0       _preinit_state             10010bc0 f   lua50:lstate.obj
+ 0001:0000fc00       _close_state               10010c00 f   lua50:lstate.obj
+ 0001:0000fdf0       _callallgcTM               10010df0 f   lua50:lstate.obj
+ 0001:00014cf0       _newlstr                   10015cf0 f   lua50:lstring.obj
+ 0001:00015130       _hashnum                   10016130 f   lua50:ltable.obj
+ 0001:00015240       _arrayindex                10016240 f   lua50:ltable.obj
+ 0001:00015290       _computesizes              10016290 f   lua50:ltable.obj
+ 0001:00015320       _numuse                    10016320 f   lua50:ltable.obj
+ 0001:00015480       _setarrayvector            10016480 f   lua50:ltable.obj
+ 0001:000154d0       _setnodevector             100164d0 f   lua50:ltable.obj
+ 0001:00015620       _luaH_getany               10016620 f   lua50:ltable.obj
+ 0001:00015830       _luaH_index                10016830 f   lua50:ltable.obj
+ 0001:00015980       _resize                    10016980 f   lua50:ltable.obj
+ 0001:00015c50       _rehash                    10016c50 f   lua50:ltable.obj
+ 0001:00015c90       _newkey                    10016c90 f   lua50:ltable.obj
+ 0001:0001add0       _unexpectedEOZ             1001bdd0 f   lua50:lundump.obj
+ 0001:0001adf0       _ezgetc                    1001bdf0 f   lua50:lundump.obj
+ 0001:0001ae40       _ezread                    1001be40 f   lua50:lundump.obj
+ 0001:0001ae70       _LoadBlock                 1001be70 f   lua50:lundump.obj
+ 0001:0001af00       _LoadVector                1001bf00 f   lua50:lundump.obj
+ 0001:0001afe0       _LoadInt                   1001bfe0 f   lua50:lundump.obj
+ 0001:0001b020       _LoadSize                  1001c020 f   lua50:lundump.obj
+ 0001:0001b040       _LoadNumber                1001c040 f   lua50:lundump.obj
+ 0001:0001b060       _LoadString                1001c060 f   lua50:lundump.obj
+ 0001:0001b0d0       _LoadCode                  1001c0d0 f   lua50:lundump.obj
+ 0001:0001b130       _LoadLocals                1001c130 f   lua50:lundump.obj
+ 0001:0001b220       _LoadLines                 1001c220 f   lua50:lundump.obj
+ 0001:0001b280       _LoadUpvalues              1001c280 f   lua50:lundump.obj
+ 0001:0001b320       _LoadConstants             1001c320 f   lua50:lundump.obj
+ 0001:0001b4d0       _LoadFunction              1001c4d0 f   lua50:lundump.obj
+ 0001:0001b690       _LoadSignature             1001c690 f   lua50:lundump.obj
+ 0001:0001b710       _TestSize                  1001c710 f   lua50:lundump.obj
+ 0001:0001b790       _LoadHeader                1001c790 f   lua50:lundump.obj
+ 0001:0001b940       _LoadChunk                 1001c940 f   lua50:lundump.obj
+ 0001:000127f0       _traceexec                 100137f0 f   lua50:lvm.obj
+ 0001:000128b0       _callTMres                 100138b0 f   lua50:lvm.obj
+ 0001:00012930       _callTM                    10013930 f   lua50:lvm.obj
+ 0001:000129d0       _luaV_getnotable           100139d0 f   lua50:lvm.obj
+ 0001:00012b80       _call_binTM                10013b80 f   lua50:lvm.obj
+ 0001:00012bf0       _get_compTM                10013bf0 f   lua50:lvm.obj
+ 0001:00012c70       _call_orderTM              10013c70 f   lua50:lvm.obj
+ 0001:00012ce0       _luaV_strcmp               10013ce0 f   lua50:lvm.obj
+ 0001:00012de0       _luaV_lessequal            10013de0 f   lua50:lvm.obj
+ 0001:00013150       _Arith                     10014150 f   lua50:lvm.obj
+ 0001:00013300       _luaV_index                10014300 f   lua50:lvm.obj
+ 0001:0001db50       _report_failure            1001eb50 f   MSVCRTD:seccook.obj
+ 0001:0001e190       ?GetImageInfo@@YAPAUImageInfo@@K@Z 1001f190 f   MSVCRTD:pdblkup.obj
+ 0001:0001e550       ?GetPdbDll@@YAPAUHINSTANCE__@@XZ 1001f550 f   MSVCRTD:pdblkup.obj
+ 0001:0001d240       ?failwithmessage@@YAXPAXHHPBD@Z 1001e240 f   MSVCRTD:error.obj
+ 0001:0001d330       ?DebuggerProbe@@YAHK@Z     1001e330 f   MSVCRTD:error.obj
+ 0001:0001d3b0       ?DebuggerRuntime@@YAHKHPAXPB_W@Z 1001e3b0 f   MSVCRTD:error.obj
+ 0001:0001d640       ?IntToString@@YAPADH@Z     1001e640 f   MSVCRTD:error.obj
+ 0001:0001d830       ?_IsDebuggerPresent@@YAHXZ 1001e830 f   MSVCRTD:error.obj
+ 0001:0001d860       ?Initialize@@YAHXZ         1001e860 f   MSVCRTD:error.obj
+ 0001:0001d8e0       ?Win95IsDebuggerPresent@@YGHXZ 1001e8e0 f   MSVCRTD:error.obj
+ 0001:0001d8f0       ?WinGetDebugContext@@YAPAXXZ 1001e8f0 f   MSVCRTD:error.obj
+ 0001:0001d900       ?GetCurrentTib@@YAPAU_TIB@@XZ 1001e900 f   MSVCRTD:error.obj
+
+Line numbers for debug\CaLua_vmstack.obj(c:\codin\calua\calua_final\calua\calua_vmstack.c) segment .text
+
+    18 0001:000069b0    19 0001:000069b3    20 0001:000069bc    22 0001:000069ce
+    23 0001:000069d7    24 0001:000069e4    30 0001:000069e6    33 0001:000069f1
+    35 0001:000069f9    37 0001:00006a02    38 0001:00006a11    39 0001:00006a23
+    41 0001:00006a34    42 0001:00006a37    58 0001:00006a3b    59 0001:00006a3e
+    61 0001:00006a51    62 0001:00006a60    66 0001:00006a68    67 0001:00006a7c
+    68 0001:00006a90    69 0001:00006aa5    70 0001:00006ab9    71 0001:00006acd
+    72 0001:00006ae2    73 0001:00006af6    74 0001:00006b0a    76 0001:00006b1a
+    77 0001:00006b1f    46 0001:00006b28    49 0001:00006b33    50 0001:00006b4b
+    51 0001:00006b5c    53 0001:00006b61    54 0001:00006b66    81 0001:00006b6a
+    83 0001:00006b6d    84 0001:00006b7f    85 0001:00006b90    86 0001:00006ba2
+    87 0001:00006bb4    88 0001:00006bc5    89 0001:00006bd7    90 0001:00006be9
+    91 0001:00006bfa    95 0001:00006bfc    96 0001:00006bff    98 0001:00006c1c
+    99 0001:00006c29   103 0001:00006c31   105 0001:00006c40   106 0001:00006c52
+   107 0001:00006c63   108 0001:00006c75   109 0001:00006c87   110 0001:00006c98
+   111 0001:00006caa   112 0001:00006cbc   114 0001:00006ccd   116 0001:00006cd6
+   117 0001:00006cd9   121 0001:00006ce2   122 0001:00006ce5   123 0001:00006cfd
+   124 0001:00006cff
+
+Line numbers for debug\CaLua_structure.obj(c:\codin\calua\calua_final\calua\calua_structure.c) segment .text
+
+    15 0001:000065f0    18 0001:000065fb    19 0001:00006615    20 0001:0000663c
+    21 0001:0000663e    23 0001:0000664d    24 0001:00006658    26 0001:00006663
+    27 0001:00006666    33 0001:00006674    34 0001:00006694    40 0001:0000669b
+    42 0001:000066c7    44 0001:000066e5    45 0001:000066f0    47 0001:0000670a
+    48 0001:00006723    50 0001:00006740    51 0001:0000674e    53 0001:00006753
+    54 0001:00006756    97 0001:0000678d   103 0001:000067a4   104 0001:000067ab
+   105 0001:000067b2   106 0001:000067b9   109 0001:000067c0   111 0001:000067ce
+   113 0001:000067e5   115 0001:000067f7   117 0001:0000681a   119 0001:0000682c
+   121 0001:00006832   122 0001:0000683b   124 0001:0000683d   126 0001:00006854
+   128 0001:00006864   129 0001:00006866    58 0001:00006874    62 0001:0000687f
+    64 0001:0000688c    66 0001:00006892    67 0001:0000689d    69 0001:000068a8
+    70 0001:000068ab    76 0001:000068af    79 0001:000068ba    80 0001:000068c5
+    82 0001:000068c9    85 0001:000068f5    87 0001:0000691f    88 0001:00006921
+    90 0001:00006930    91 0001:00006933   134 0001:00006941   138 0001:00006955
+   139 0001:0000695c   140 0001:00006963   141 0001:0000696e   143 0001:0000698b
+   145 0001:0000699e   146 0001:000069a1
+
+Line numbers for debug\CaLua_stack.obj(c:\codin\calua\calua_final\calua\calua_stack.c) segment .text
+
+    18 0001:00004fd0    19 0001:00004fe7    23 0001:00004fee    24 0001:00004ff5
+    25 0001:00004ffc    29 0001:00005003    31 0001:00005015    33 0001:0000503e
+    34 0001:00005062    36 0001:00005073    37 0001:00005087    39 0001:0000509b
+    44 0001:000050b9    47 0001:000050ea    48 0001:000050fd    49 0001:0000511e
+    52 0001:00005123    53 0001:00005136    54 0001:00005158    57 0001:0000515d
+    58 0001:00005170    59 0001:00005191    62 0001:00005196    63 0001:000051a9
+    64 0001:000051c8    67 0001:000051cd    68 0001:000051e0    69 0001:000051fb
+    72 0001:00005200    73 0001:00005213    74 0001:0000522e    77 0001:00005233
+    78 0001:00005246    79 0001:00005262    82 0001:00005267    86 0001:00005278
+    88 0001:00005297    89 0001:000052aa    91 0001:000052dc    93 0001:000052de
+    98 0001:0000530d    99 0001:0000531e   101 0001:00005323   104 0001:0000533a
+   105 0001:00005354   107 0001:00005381   108 0001:0000539a   111 0001:000053b3
+   112 0001:000053b6   118 0001:00005428   119 0001:0000543f   122 0001:00005446
+   126 0001:0000544d   127 0001:00005454   138 0001:0000545b   139 0001:0000546a
+   140 0001:00005470   141 0001:00005477   143 0001:00005481   144 0001:00005494
+   146 0001:000054a3   148 0001:000054a9   150 0001:000054ba   151 0001:000054d3
+   152 0001:000054ec   153 0001:00005505   156 0001:0000550c   157 0001:00005520
+   158 0001:00005534   160 0001:0000553d   163 0001:0000554a   166 0001:00005573
+   167 0001:00005587   168 0001:000055a9   171 0001:000055ae   172 0001:000055c2
+   173 0001:000055e5   176 0001:000055ea   177 0001:000055fe   178 0001:00005620
+   181 0001:00005625   182 0001:00005639   183 0001:00005659   186 0001:0000565e
+   187 0001:00005672   188 0001:0000568e   191 0001:00005693   192 0001:000056a7
+   193 0001:000056c3   196 0001:000056c8   197 0001:000056dc   198 0001:000056f9
+   201 0001:000056fb   203 0001:00005708   204 0001:0000571c   206 0001:0000573c
+   208 0001:0000573e   213 0001:0000575d   215 0001:0000576d   216 0001:00005786
+   217 0001:0000578f   220 0001:00005794   226 0001:000057b3   227 0001:000057bf
+   228 0001:000057d5   231 0001:000057e5   232 0001:000057f1   233 0001:00005807
+   234 0001:00005817   236 0001:00005819   240 0001:00005830   241 0001:0000584a
+   243 0001:00005877   244 0001:00005890   246 0001:000058a9   247 0001:000058ac
+   253 0001:0000591a   260 0001:0000593b   261 0001:0000594a   265 0001:00005950
+   266 0001:00005972   267 0001:00005980   271 0001:00005992   273 0001:000059b3
+   276 0001:000059ce   279 0001:000059f7   280 0001:00005a18   283 0001:00005a1d
+   284 0001:00005a3e   287 0001:00005a43   288 0001:00005a5d   291 0001:00005a62
+   292 0001:00005a7b   295 0001:00005a80   296 0001:00005a99   299 0001:00005a9e
+   300 0001:00005ab3   303 0001:00005ab8   304 0001:00005acd   307 0001:00005ad2
+   308 0001:00005af6   312 0001:00005b00   313 0001:00005b15   314 0001:00005b38
+   315 0001:00005b3a   319 0001:00005b5c   320 0001:00005b6f   321 0001:00005b81
+   323 0001:00005b86   324 0001:00005b88   333 0001:00005bb7   334 0001:00005bcd
+   337 0001:00005bd4   340 0001:00005bf3   341 0001:00005c00   343 0001:00005c09
+   346 0001:00005c2f   348 0001:00005c4c   351 0001:00005c51   353 0001:00005c69
+   356 0001:00005c6b   357 0001:00005c85   360 0001:00005c87   362 0001:00005c8d
+   365 0001:00005c8f   366 0001:00005cbf   367 0001:00005cd8   371 0001:00005cdf
+   374 0001:00005ce4   375 0001:00005cf1   377 0001:00005cfa   380 0001:00005d24
+   382 0001:00005d42   385 0001:00005d44   387 0001:00005d5d   390 0001:00005d5f
+   392 0001:00005d67   395 0001:00005d69   396 0001:00005d99   397 0001:00005db2
+   401 0001:00005db9   404 0001:00005dbe   405 0001:00005dcb   407 0001:00005dd4
+   410 0001:00005dfe   412 0001:00005e1a   415 0001:00005e1c   417 0001:00005e33
+   420 0001:00005e35   422 0001:00005e3e   425 0001:00005e40   426 0001:00005e71
+   427 0001:00005e8a   431 0001:00005e91   434 0001:00005e96   435 0001:00005ea3
+   437 0001:00005eac   440 0001:00005ed5   442 0001:00005eed   445 0001:00005eef
+   447 0001:00005f0d   450 0001:00005f0f   452 0001:00005f18   455 0001:00005f1a
+   456 0001:00005f4a   457 0001:00005f63   461 0001:00005f6a   464 0001:00005f6f
+   465 0001:00005f7c   467 0001:00005f85   470 0001:00005faf   472 0001:00005fc7
+   475 0001:00005fcc   477 0001:00005fea   480 0001:00005fec   482 0001:00005ffc
+   485 0001:00005ffe   486 0001:0000602e   487 0001:00006047   491 0001:0000604e
+   495 0001:00006053   496 0001:00006060   498 0001:00006069   501 0001:00006093
+   502 0001:000060aa   506 0001:000060ac   507 0001:000060c3   510 0001:000060c5
+   511 0001:000060f5   512 0001:0000610e   515 0001:00006115   518 0001:0000611a
+   519 0001:00006127   521 0001:00006130   525 0001:00006154   526 0001:0000616c
+   529 0001:0000616e   530 0001:0000619f   531 0001:000061b8   534 0001:000061bf
+   537 0001:000061c4   540 0001:000061d5   544 0001:000061f8   545 0001:00006205
+   547 0001:0000620e   549 0001:00006225   552 0001:00006227   553 0001:00006257
+   558 0001:0000625e   560 0001:00006260   562 0001:00006290   565 0001:00006295
+   567 0001:000062a6   568 0001:000062b3   570 0001:000062bc   574 0001:000062e0
+   576 0001:000062f8   579 0001:000062fa   580 0001:0000633f   581 0001:00006358
+   586 0001:0000635f   588 0001:00006364   590 0001:00006375   593 0001:00006392
+   594 0001:000063a5   595 0001:000063bc   597 0001:000063cd   600 0001:000063cf
+   601 0001:00006415   609 0001:00006419   610 0001:0000641c   614 0001:0000645f
+   616 0001:0000647a   617 0001:00006494   618 0001:000064ba   619 0001:000064e0
+   620 0001:000064fe   621 0001:0000651d   622 0001:0000653a   623 0001:00006550
+   624 0001:00006565   627 0001:0000657d   629 0001:0000658a   631 0001:000065a5
+   633 0001:000065a7   638 0001:000065bf   639 0001:000065c1
+
+Line numbers for debug\CaLua_parser.obj(c:\codin\calua\calua_final\calua\calua_parser.c) segment .text
+
+    17 0001:00004ab0    18 0001:00004abb    19 0001:00004ac2    20 0001:00004ad8
+    21 0001:00004ade    36 0001:00004ae5    37 0001:00004ae8    43 0001:00004af6
+    44 0001:00004b01    45 0001:00004b08    46 0001:00004b1e    47 0001:00004b24
+    61 0001:00004b2b    62 0001:00004b2e    69 0001:00004b3c    73 0001:00004b63
+    76 0001:00004b74    77 0001:00004b7a    79 0001:00004b81    81 0001:00004b90
+    82 0001:00004bad    83 0001:00004bb4    84 0001:00004bdd    86 0001:00004bfa
+    87 0001:00004c09    89 0001:00004c22    90 0001:00004c25    96 0001:00004c5d
+    97 0001:00004c71    99 0001:00004c78   100 0001:00004c88   102 0001:00004c8c
+   103 0001:00004c96   104 0001:00004cc0   106 0001:00004cc9   107 0001:00004cce
+   111 0001:00004cd2   112 0001:00004cd5   113 0001:00004cee   115 0001:00004cf5
+   116 0001:00004cf7   121 0001:00004d00   127 0001:00004d1a   129 0001:00004d21
+   130 0001:00004d27   132 0001:00004d2e   134 0001:00004d3d   136 0001:00004d4d
+   137 0001:00004d56   138 0001:00004d5f   141 0001:00004d6b   143 0001:00004d80
+   144 0001:00004d86   146 0001:00004d9b   148 0001:00004daf   149 0001:00004db1
+   150 0001:00004db5   152 0001:00004db7   155 0001:00004dcd   156 0001:00004dda
+   157 0001:00004de3   158 0001:00004de5   159 0001:00004df0   162 0001:00004df2
+   163 0001:00004e01   164 0001:00004e0a   165 0001:00004e0c   169 0001:00004e17
+   170 0001:00004e1a   175 0001:00004e28   179 0001:00004e3d   181 0001:00004e5e
+   182 0001:00004e6b   184 0001:00004e6f   185 0001:00004e7e   187 0001:00004e95
+   189 0001:00004e9f   190 0001:00004ea2   195 0001:00004eb1   198 0001:00004ebd
+   199 0001:00004edf   201 0001:00004ee3   203 0001:00004f0a   204 0001:00004f0d
+   208 0001:00004f1c   209 0001:00004f27   210 0001:00004f33   214 0001:00004f3a
+   215 0001:00004f56   216 0001:00004f5d   217 0001:00004f64   218 0001:00004f6b
+   219 0001:00004f72   220 0001:00004f79   221 0001:00004f80   222 0001:00004f87
+   223 0001:00004f8b   227 0001:00004fa0
+
+Line numbers for debug\CaLua_main.obj(c:\codin\calua\calua_final\calua\calua_main.c) segment .text
+
+    51 0001:00003490    55 0001:000034a4    57 0001:000034a9    60 0001:000034b7
+    61 0001:000034c1    62 0001:000034cb    63 0001:000034d5    64 0001:000034df
+    65 0001:000034e9    66 0001:000034f3    68 0001:000034fd    70 0001:00003506
+    71 0001:0000351a    74 0001:00003529    75 0001:00003533    77 0001:0000353c
+    78 0001:00003549    83 0001:00003551    84 0001:00003579    85 0001:000035a0
+    86 0001:000035c8    87 0001:000035f0    88 0001:00003617    91 0001:0000363f
+    92 0001:0000367c    93 0001:000036b9    94 0001:000036f6    95 0001:00003733
+    96 0001:00003770    97 0001:000037ad    98 0001:000037ea    99 0001:00003827
+   100 0001:00003864   101 0001:000038a1   102 0001:000038de   103 0001:0000391b
+   104 0001:00003958   105 0001:00003995   106 0001:000039d2   107 0001:00003a0f
+   110 0001:00003a4c   111 0001:00003a68   112 0001:00003a84   114 0001:00003aa0
+   116 0001:00003ab8   117 0001:00003ac0   118 0001:00003acf   119 0001:00003af5
+   122 0001:00003af7   123 0001:00003b0f   125 0001:00003b1c   126 0001:00003b2a
+   131 0001:00003b38   135 0001:00003b4c   136 0001:00003b5d   138 0001:00003b65
+   142 0001:00003b74   144 0001:00003b95   146 0001:00003bba   147 0001:00003c07
+   149 0001:00003c09   150 0001:00003c45   151 0001:00003c80   152 0001:00003cbd
+   154 0001:00003cf9   155 0001:00003d31   156 0001:00003d6e   157 0001:00003da2
+   159 0001:00003da7   161 0001:00003dc8   162 0001:00003e04   163 0001:00003e3f
+   164 0001:00003e7c   165 0001:00003eb8   166 0001:00003eeb   168 0001:00003ef0
+   169 0001:00003f11   170 0001:00003f33   171 0001:00003f42   172 0001:00003f50
+   174 0001:00003f5f   176 0001:00003f6b   177 0001:00003f6d   182 0001:00003f7b
+   185 0001:00003f86   188 0001:00003f8b   189 0001:00003fa3   190 0001:00003fb4
+   191 0001:00003fc0   192 0001:00003fc2   194 0001:00003fc6   195 0001:00003fc8
+   201 0001:00003fd6   205 0001:00003fe1   206 0001:00003ff7   208 0001:00003ffd
+   209 0001:00004020   213 0001:00004027   214 0001:0000403f   216 0001:00004045
+   217 0001:00004068   220 0001:0000406f   221 0001:00004071   229 0001:0000407f
+   230 0001:00004082   231 0001:0000409b   235 0001:000040a4   236 0001:000040a7
+   237 0001:000040ac   241 0001:000040ae   242 0001:000040b1   243 0001:000040b6
+   248 0001:000040b8   260 0001:000040de   263 0001:000040ea   264 0001:000040fc
+   265 0001:00004110   267 0001:00004126   268 0001:00004137   269 0001:0000413e
+   272 0001:00004145   274 0001:0000414c   276 0001:00004156   277 0001:0000415d
+   279 0001:0000417a   280 0001:00004189   283 0001:00004192   286 0001:000041b2
+   287 0001:000041d5   290 0001:000041da   291 0001:000041fd   294 0001:00004202
+   295 0001:00004225   298 0001:0000422a   299 0001:0000424d   302 0001:00004252
+   303 0001:00004275   306 0001:0000427a   307 0001:00004299   310 0001:0000429e
+   311 0001:000042bd   315 0001:000042c2   316 0001:000042d3   317 0001:000042da
+   321 0001:000042e1   323 0001:000042ee   325 0001:0000430d   327 0001:0000430f
+   328 0001:00004328   332 0001:00004343   334 0001:0000434c   335 0001:00004365
+   338 0001:0000436a   340 0001:00004371   341 0001:00004380   342 0001:0000439c
+   344 0001:000043a2   345 0001:000043c4   348 0001:000043c8   350 0001:000043d7
+   351 0001:000043da   357 0001:00004408   364 0001:00004426   366 0001:0000443d
+   368 0001:00004456   369 0001:00004473   370 0001:0000448d   373 0001:000044ab
+   375 0001:000044b5   376 0001:000044c6   377 0001:000044cd   379 0001:000044d7
+   381 0001:000044e6   383 0001:000044ec   384 0001:00004501   387 0001:0000450b
+   389 0001:0000451a   391 0001:00004520   392 0001:00004535   395 0001:0000453f
+   397 0001:0000454e   399 0001:00004554   400 0001:00004569   403 0001:00004573
+   404 0001:000045a4   405 0001:000045d4   407 0001:00004605   408 0001:00004638
+   409 0001:0000466b   411 0001:00004693   413 0001:000046b9   414 0001:000046d2
+   415 0001:000046eb   417 0001:00004704   419 0001:0000470d   420 0001:00004720
+   422 0001:00004725   424 0001:00004727   425 0001:00004734   428 0001:0000473e
+   429 0001:00004755   431 0001:0000477e   432 0001:00004786   433 0001:00004791
+   435 0001:000047b1   437 0001:000047c0   438 0001:000047c2   444 0001:000047d1
+   449 0001:000047ec   451 0001:00004803   453 0001:0000481c   454 0001:0000483a
+   455 0001:0000484e   456 0001:00004861   457 0001:0000487f   459 0001:0000489d
+   461 0001:000048cf   462 0001:000048e0   465 0001:000048ea   467 0001:00004908
+   469 0001:0000490e   471 0001:00004940   472 0001:00004951   476 0001:0000495b
+   478 0001:0000498c   480 0001:000049b8   482 0001:00004a0b   483 0001:00004a20
+   484 0001:00004a39   486 0001:00004a40   487 0001:00004a59   489 0001:00004a5e
+   490 0001:00004a66   491 0001:00004a70   493 0001:00004a8f   495 0001:00004a9e
+   496 0001:00004aa0
+
+Line numbers for debug\CaLua_luafuncs.obj(c:\codin\calua\calua_final\calua\calua_luafuncs.c) segment .text
+
+    26 0001:00001c30    42 0001:00001c46    44 0001:00001c57    46 0001:00001c6c
+    47 0001:00001c79    50 0001:00001c80    52 0001:00001c8c    53 0001:00001c9b
+    55 0001:00001ca1    56 0001:00001cae    62 0001:00001cb5    63 0001:00001cbd
+    64 0001:00001cc6    68 0001:00001cd7    69 0001:00001cdb    70 0001:00001cdd
+    71 0001:00001ce0    72 0001:00001ce5    74 0001:00001ce8    75 0001:00001ceb
+    76 0001:00001cee    77 0001:00001cef    78 0001:00001cf2    80 0001:00001cf4
+    81 0001:00001cf7    82 0001:00001cfa    83 0001:00001cfd    86 0001:00001d00
+    87 0001:00001d11    89 0001:00001d14    90 0001:00001d26    92 0001:00001d4e
+    94 0001:00001d5a    96 0001:00001d5f    97 0001:00001d6e   187 0001:00001d7d
+   188 0001:00001d88   190 0001:00001d8f   193 0001:00001da4   194 0001:00001db5
+   196 0001:00001dce   197 0001:00001dd0   114 0001:00001dde   115 0001:00001de1
+   117 0001:00001df6   118 0001:00001e36   119 0001:00001e42   121 0001:00001e46
+   122 0001:00001e4b   107 0001:00001e54   108 0001:00001e57   109 0001:00001e68
+   110 0001:00001e74   208 0001:00001e7d   211 0001:00001e88   213 0001:00001e9d
+   215 0001:00001eab   217 0001:00001eb8   218 0001:00001ed7   219 0001:00001ee1
+   220 0001:00001eea   221 0001:00001ef4   222 0001:00001efd   224 0001:00001f1f
+   226 0001:00001f2d   228 0001:00001f46   229 0001:00001f48   235 0001:00001f56
+   236 0001:00001f7c   237 0001:00001f83   242 0001:00001f8a   244 0001:00001f99
+   245 0001:00001fa0   247 0001:00001fad   248 0001:00001fc4   249 0001:00001fd9
+   251 0001:00001fde   253 0001:00001fe7   255 0001:00002000   257 0001:00002015
+   259 0001:00002026   261 0001:0000202e   262 0001:0000203b   265 0001:0000204a
+   267 0001:0000206a   268 0001:00002083   270 0001:00002088   272 0001:00002090
+   273 0001:00002093   286 0001:000020e4   293 0001:000020fa   294 0001:0000210f
+   296 0001:00002124   297 0001:0000214d   299 0001:00002163   301 0001:00002169
+   302 0001:0000217a   303 0001:00002186   306 0001:0000218d   308 0001:0000219d
+   309 0001:000021a4   313 0001:000021b9   315 0001:000021cc   316 0001:000021dd
+   317 0001:000021fe   319 0001:00002212   321 0001:00002217   322 0001:0000222c
+   323 0001:00002238   324 0001:0000224b   326 0001:00002250   328 0001:00002258
+   329 0001:0000225e   331 0001:00002264   333 0001:00002266   334 0001:0000227e
+   335 0001:00002296   339 0001:000022af   341 0001:000022b1   345 0001:000022c4
+   346 0001:000022ca   347 0001:000022d2   348 0001:000022d8   350 0001:000022e4
+   352 0001:000022f2   353 0001:000022f7   126 0001:00002345   127 0001:00002350
+   129 0001:00002357   130 0001:00002360   132 0001:00002369   133 0001:00002379
+   135 0001:00002382   137 0001:00002388   138 0001:0000238e   141 0001:000023a7
+   142 0001:000023ac   365 0001:000023ba   369 0001:000023ce   370 0001:000023e3
+   372 0001:000023f8   373 0001:00002406   374 0001:00002412   375 0001:0000241f
+   377 0001:00002424   379 0001:00002434   380 0001:00002441   383 0001:0000244d
+   385 0001:00002463   387 0001:00002472   388 0001:0000247f   391 0001:0000248b
+   392 0001:00002497   393 0001:000024b6   395 0001:000024bb   397 0001:000024d4
+   398 0001:000024d9   146 0001:000024e7   149 0001:000024f3   151 0001:00002501
+   152 0001:0000250e   155 0001:00002515   157 0001:0000251d   158 0001:0000252a
+   161 0001:0000252e   163 0001:00002549   165 0001:0000255e   166 0001:0000256b
+   169 0001:0000256f   171 0001:00002586   172 0001:00002593   175 0001:00002597
+   176 0001:0000259c   410 0001:000025ab   416 0001:000025cb   417 0001:000025e0
+   419 0001:000025f5   420 0001:00002601   421 0001:0000260f   422 0001:0000261c
+   423 0001:0000262a   425 0001:0000262f   427 0001:0000263f   428 0001:0000264c
+   431 0001:00002658   433 0001:0000266e   434 0001:0000267a   435 0001:00002692
+   437 0001:00002697   439 0001:000026a2   440 0001:000026af   443 0001:000026bb
+   445 0001:000026c1   446 0001:000026ce   449 0001:000026da   451 0001:000026e6
+   452 0001:000026f3   455 0001:000026ff   458 0001:00002712   459 0001:0000272b
+   460 0001:0000273c   461 0001:0000274b   462 0001:00002772   464 0001:00002783
+   466 0001:00002785   467 0001:000027aa   468 0001:000027bb   471 0001:000027d4
+   472 0001:000027e0   474 0001:000027ee   476 0001:00002807   477 0001:0000280c
+   488 0001:00002842   491 0001:00002856   492 0001:0000286b   494 0001:00002880
+   495 0001:0000288c   496 0001:0000289a   497 0001:000028a7   498 0001:000028b5
+   500 0001:000028ba   502 0001:000028d9   504 0001:000028f2   506 0001:000028fe
+   507 0001:00002903   517 0001:00002911   520 0001:0000291c   522 0001:00002931
+   523 0001:0000293d   524 0001:0000294a   526 0001:0000294f   528 0001:00002961
+   530 0001:0000297a   531 0001:0000297f   543 0001:0000298d   548 0001:000029a8
+   549 0001:000029bd   550 0001:000029d2   552 0001:000029e7   553 0001:000029f3
+   554 0001:00002a01   555 0001:00002a0e   557 0001:00002a13   558 0001:00002a29
+   560 0001:00002a3f   561 0001:00002a50   563 0001:00002a60   565 0001:00002a71
+   566 0001:00002a94   569 0001:00002aa5   570 0001:00002ab1   572 0001:00002abf
+   574 0001:00002ad8   575 0001:00002add   588 0001:00002aeb   593 0001:00002b06
+   594 0001:00002b1b   595 0001:00002b30   597 0001:00002b45   598 0001:00002b51
+   599 0001:00002b5f   600 0001:00002b6c   602 0001:00002b7a   603 0001:00002b88
+   604 0001:00002b95   605 0001:00002ba3   607 0001:00002ba8   609 0001:00002bbe
+   611 0001:00002bcc   612 0001:00002bd9   615 0001:00002be5   617 0001:00002bf1
+   618 0001:00002bfe   621 0001:00002c0a   623 0001:00002c37   625 0001:00002c4e
+   626 0001:00002c5a   628 0001:00002c68   629 0001:00002c81   631 0001:00002c9a
+   632 0001:00002c9f   644 0001:00002cad   648 0001:00002cd3   649 0001:00002ce8
+   651 0001:00002cfd   652 0001:00002d17   654 0001:00002d28   656 0001:00002d2e
+   657 0001:00002d3b   661 0001:00002d47   664 0001:00002d70   665 0001:00002d7d
+   666 0001:00002d9b   667 0001:00002d9d   668 0001:00002dbb   671 0001:00002dc0
+   672 0001:00002dcc   673 0001:00002dea   674 0001:00002dec   675 0001:00002e0a
+   678 0001:00002e0f   679 0001:00002e1c   680 0001:00002e40   681 0001:00002e42
+   682 0001:00002e59   685 0001:00002e5b   686 0001:00002e72   689 0001:00002e74
+   690 0001:00002e8a   693 0001:00002e8c   694 0001:00002e99   698 0001:00002ea5
+   699 0001:00002eaa   710 0001:00002ecc   711 0001:00002ecf   713 0001:00002ee4
+   715 0001:00002eff   716 0001:00002f04   728 0001:00002f0d   729 0001:00002f10
+   730 0001:00002f25   732 0001:00002f3a   734 0001:00002f71   735 0001:00002f76
+   748 0001:00002f7f   752 0001:00002f96   753 0001:00002fab   755 0001:00002fc0
+   756 0001:00002fcc   757 0001:00002ff5   759 0001:00002ffa   761 0001:0000300a
+   762 0001:0000300f   773 0001:00003045   774 0001:00003048   776 0001:0000305d
+   778 0001:00003081   779 0001:00003086   792 0001:0000308f   796 0001:000030aa
+   797 0001:000030bf   799 0001:000030d4   802 0001:000030ee   805 0001:00003116
+   806 0001:00003132   807 0001:0000313f   808 0001:0000316a   809 0001:0000316c
+   810 0001:00003197   813 0001:0000319c   814 0001:000031b8   815 0001:000031c4
+   816 0001:000031f0   817 0001:000031f2   818 0001:0000321e   821 0001:00003223
+   822 0001:0000323f   823 0001:0000324b   824 0001:00003276   825 0001:00003278
+   826 0001:000032a3   829 0001:000032a8   830 0001:000032c4   831 0001:000032ea
+   834 0001:000032ec   835 0001:00003308   836 0001:0000332e   839 0001:00003330
+   840 0001:0000333d   844 0001:00003349   846 0001:0000336c   847 0001:00003371
+   860 0001:00003397   861 0001:000033b1   865 0001:000033b8   866 0001:000033cd
+   868 0001:000033e2   869 0001:000033f3   871 0001:0000341c   873 0001:00003430
+   875 0001:00003449   876 0001:0000344b
+
+Line numbers for debug\CaLua_helper.obj(c:\codin\calua\calua_final\calua\calua_helper.c) segment .text
+
+    21 0001:00001650    25 0001:0000165c    27 0001:00001673    28 0001:0000167c
+    29 0001:00001685    30 0001:0000168e    31 0001:00001697    33 0001:000016a0
+    37 0001:000016b6    38 0001:000016d7    41 0001:000016e0    43 0001:00001705
+    47 0001:00001714    48 0001:00001718    49 0001:00001730    50 0001:00001749
+    54 0001:00001753    57 0001:0000175f    59 0001:00001765    60 0001:00001781
+    61 0001:0000179b    63 0001:000017b2    64 0001:000017d4    65 0001:000017f4
+    66 0001:00001812    67 0001:00001819    68 0001:00001832    72 0001:00001841
+    73 0001:00001845    74 0001:0000185d    78 0001:00001867    79 0001:0000186b
+    80 0001:00001881    83 0001:0000188b    84 0001:0000188f    85 0001:000018a5
+    89 0001:000018af    92 0001:000018bc    93 0001:000018c7    94 0001:000018cf
+    95 0001:000018ee    96 0001:0000191f    97 0001:00001956    98 0001:00001972
+   100 0001:0000199d   101 0001:000019b5   103 0001:000019bd   107 0001:000019cd
+   110 0001:000019d8   111 0001:000019e2   112 0001:000019ec   114 0001:000019f6
+   117 0001:00001a08   120 0001:00001a1e   123 0001:00001a35   125 0001:00001a57
+   126 0001:00001a76   127 0001:00001a7e   131 0001:00001a8c   134 0001:00001a97
+   135 0001:00001aa1   136 0001:00001aab   138 0001:00001ab5   141 0001:00001ac7
+   144 0001:00001add   146 0001:00001b02   147 0001:00001b21   148 0001:00001b29
+   151 0001:00001b37   153 0001:00001b4b   154 0001:00001b52   156 0001:00001b5c
+   157 0001:00001b65   158 0001:00001b73   159 0001:00001b82   160 0001:00001b88
+   161 0001:00001b9a   162 0001:00001ba3   163 0001:00001ba5   164 0001:00001ba8
+   168 0001:00001bb6   169 0001:00001bb9   170 0001:00001bbf   171 0001:00001bc6
+   172 0001:00001bce   173 0001:00001bdf   174 0001:00001be1   175 0001:00001c0e
+   177 0001:00001c20   178 0001:00001c22
+
+Line numbers for debug\CaLua_hash.obj(c:\codin\calua\calua_final\calua\calua_hash.c) segment .text
+
+     8 0001:00001570     9 0001:00001573    10 0001:0000157f    12 0001:00001588
+    13 0001:0000158b    14 0001:00001595    15 0001:000015ae    16 0001:000015b0
+    18 0001:000015b9    19 0001:000015bd    20 0001:000015d7    22 0001:000015e1
+    24 0001:000015ec    25 0001:000015f9    26 0001:00001602    27 0001:00001605
+    29 0001:00001613    30 0001:00001616    31 0001:00001620    32 0001:00001639
+    33 0001:0000163b
+
+Line numbers for debug\CaLua_function.obj(c:\codin\calua\calua_final\calua\calua_function.c) segment .text
+
+    16 0001:00000ff0    17 0001:00000ff3    18 0001:00001006    19 0001:00001011
+    20 0001:00001014    25 0001:00001016    26 0001:00001021    28 0001:00001028
+    30 0001:00001033    31 0001:00001067    32 0001:00001070    34 0001:00001072
+    35 0001:00001091    36 0001:000010b3    38 0001:000010cc    39 0001:000010ce
+    44 0001:000010dc    45 0001:000010df    46 0001:000010e7    48 0001:00001106
+    49 0001:0000111f    50 0001:00001121    56 0001:0000112a    66 0001:00001147
+    68 0001:00001154    69 0001:00001169    70 0001:00001170    72 0001:0000117c
+    73 0001:00001196    75 0001:000011ad    77 0001:000011ee    79 0001:00001200
+    80 0001:0000120f    81 0001:0000121b    84 0001:00001222    85 0001:00001231
+    86 0001:0000123a    90 0001:0000123f    94 0001:0000124c    96 0001:0000127e
+    97 0001:00001295    98 0001:000012bc   100 0001:000012cb   102 0001:000012ec
+   104 0001:00001303   106 0001:0000131c   108 0001:00001349   111 0001:00001360
+   112 0001:00001385   114 0001:00001399   115 0001:000013b3   117 0001:000013b8
+   119 0001:000013c4   120 0001:000013c7   128 0001:000013d5   130 0001:000013f0
+   133 0001:0000140f   134 0001:00001432   137 0001:00001437   138 0001:0000145b
+   141 0001:00001460   142 0001:00001477   145 0001:0000147c   146 0001:00001492
+   149 0001:00001497   150 0001:000014ad   153 0001:000014b2   154 0001:000014c5
+   157 0001:000014c7   159 0001:000014d3   161 0001:000014e6   163 0001:000014e8
+   165 0001:000014f5   168 0001:000014f7   170 0001:00001503   172 0001:00001516
+   174 0001:00001518   175 0001:00001531   180 0001:0000153d   181 0001:0000153f
+
+Line numbers for debug\CaLua_avltree.obj(c:\codin\calua\calua_final\calua\calua_avltree.c) segment .text
+
+     8 0001:00000000    10 0001:0000000b    11 0001:00000018    12 0001:0000003f
+    13 0001:00000046    14 0001:00000055    15 0001:00000058    17 0001:00000066
+    18 0001:0000006a    19 0001:0000007a    20 0001:00000083    21 0001:0000009c
+    22 0001:000000a5    23 0001:000000be    24 0001:000000d7    25 0001:000000e6
+    26 0001:000000e8    35 0001:000000f2    36 0001:000000fd    38 0001:00000105
+    39 0001:00000112    40 0001:0000011f    41 0001:00000129    50 0001:0000012d
+    51 0001:00000138    53 0001:00000140    54 0001:0000014c    55 0001:00000159
+    56 0001:00000164    79 0001:00000168    80 0001:0000017c    82 0001:0000019c
+    83 0001:000001ac    84 0001:000001c0    86 0001:000001cc    87 0001:000001d1
+    89 0001:000001ef    90 0001:000001f8    91 0001:00000203    94 0001:00000205
+    95 0001:0000020e    96 0001:00000219    99 0001:0000021b   100 0001:00000224
+   102 0001:0000022f   103 0001:0000023d   104 0001:0000024b   106 0001:00000257
+   109 0001:0000025e   110 0001:00000267   113 0001:0000026e   114 0001:00000277
+   116 0001:0000027c   123 0001:0000028a   124 0001:0000029e   126 0001:000002ba
+   127 0001:000002c3   130 0001:000002cd   131 0001:000002de   132 0001:000002f3
+   134 0001:000002ff   135 0001:00000304   137 0001:00000322   138 0001:0000032b
+   139 0001:00000337   142 0001:00000339   143 0001:00000342   144 0001:0000034e
+   147 0001:00000350   148 0001:00000359   150 0001:00000365   151 0001:00000373
+   152 0001:00000384   154 0001:00000390   157 0001:00000397   158 0001:000003a0
+   160 0001:000003a5   181 0001:000003b3   182 0001:000003c7   184 0001:000003e3
+   185 0001:000003ec   188 0001:000003f6   189 0001:00000407   190 0001:0000041c
+   191 0001:00000428   193 0001:00000432   194 0001:00000442   195 0001:0000044b
+   196 0001:00000457   197 0001:00000463   200 0001:0000046d   202 0001:0000048b
+   203 0001:00000494   204 0001:000004a0   207 0001:000004a2   208 0001:000004ab
+   209 0001:000004b7   212 0001:000004b9   213 0001:000004c2   215 0001:000004ce
+   216 0001:000004dc   217 0001:000004ed   218 0001:000004f9   222 0001:00000500
+   223 0001:00000509   225 0001:0000050e   232 0001:0000051c   233 0001:00000530
+   235 0001:0000054c   236 0001:00000555   239 0001:0000055f   240 0001:0000056f
+   241 0001:00000583   242 0001:0000058f   244 0001:00000599   245 0001:000005a8
+   246 0001:000005b1   247 0001:000005bc   248 0001:000005c8   251 0001:000005d2
+   253 0001:000005f0   254 0001:000005f9   255 0001:00000604   258 0001:00000606
+   259 0001:0000060f   260 0001:0000061a   263 0001:0000061c   264 0001:00000625
+   266 0001:00000630   267 0001:0000063e   268 0001:0000064c   269 0001:00000658
+   273 0001:0000065f   274 0001:00000668   276 0001:0000066d   299 0001:0000067b
+   302 0001:00000687   303 0001:0000068d   304 0001:00000695   306 0001:0000069c
+   307 0001:000006a7   308 0001:000006c8   310 0001:000006cf   311 0001:000006da
+   313 0001:000006eb   316 0001:000006f5   317 0001:000006fe   318 0001:00000717
+   319 0001:00000720   320 0001:00000739   321 0001:00000747   323 0001:00000755
+   324 0001:0000075d   325 0001:00000769   326 0001:00000782   327 0001:00000791
+   328 0001:00000796   335 0001:000007a5   338 0001:000007b1   339 0001:000007b7
+   340 0001:000007bf   342 0001:000007c6   343 0001:000007d0   344 0001:000007ee
+   346 0001:000007f5   347 0001:00000800   349 0001:00000811   351 0001:0000081b
+   352 0001:00000824   353 0001:0000083d   354 0001:00000846   355 0001:0000085f
+   356 0001:0000086d   358 0001:0000087b   359 0001:00000883   360 0001:00000890
+   361 0001:000008a9   362 0001:000008b8   363 0001:000008bd   365 0001:000008cc
+   367 0001:000008d7   368 0001:000008e4   369 0001:000008ed   370 0001:000008f6
+   371 0001:000008ff   372 0001:00000908   373 0001:00000912   374 0001:00000915
+   376 0001:00000923   377 0001:00000926   378 0001:00000931   379 0001:00000939
+   380 0001:00000956   381 0001:0000096b   382 0001:00000974   383 0001:00000992
+   384 0001:00000995   386 0001:0000099e   389 0001:000009b9   391 0001:000009c6
+   392 0001:000009cf   393 0001:000009e1   394 0001:000009f9   395 0001:00000a13
+   396 0001:00000a29   397 0001:00000a2b   399 0001:00000a44   400 0001:00000a5d
+   401 0001:00000a5f   403 0001:00000a6d   406 0001:00000a82   408 0001:00000a8a
+   409 0001:00000a90   410 0001:00000a9f   411 0001:00000aa8   412 0001:00000ab1
+   413 0001:00000ab9   416 0001:00000ac3   418 0001:00000ae3   419 0001:00000aeb
+   420 0001:00000b0f   422 0001:00000b1d   424 0001:00000b23   425 0001:00000b2b
+   426 0001:00000b52   428 0001:00000b60   430 0001:00000b66   431 0001:00000b68
+   433 0001:00000b77   434 0001:00000b7a   435 0001:00000b84   436 0001:00000b9c
+   439 0001:00000ba5   440 0001:00000bc0   442 0001:00000bc4   444 0001:00000bcc
+   445 0001:00000bd2   447 0001:00000bd9   448 0001:00000bf9   449 0001:00000c01
+   450 0001:00000c21   452 0001:00000c32   454 0001:00000c3b   455 0001:00000c43
+   456 0001:00000c66   458 0001:00000c77   460 0001:00000c80   461 0001:00000c88
+   462 0001:00000ca4   463 0001:00000cad   465 0001:00000cbc   468 0001:00000cc2
+   469 0001:00000ccb   470 0001:00000cea   471 0001:00000cf3   473 0001:00000d02
+   476 0001:00000d08   477 0001:00000d18   478 0001:00000d21   479 0001:00000d26
+   481 0001:00000d5e   482 0001:00000d61   483 0001:00000d6b   484 0001:00000d7f
+   487 0001:00000d88   490 0001:00000d9d   491 0001:00000da5   492 0001:00000dab
+   494 0001:00000daf   495 0001:00000dcf   496 0001:00000dd7   498 0001:00000ded
+   499 0001:00000df5   501 0001:00000e0e   502 0001:00000e14   504 0001:00000e23
+   505 0001:00000e26   506 0001:00000e30   507 0001:00000e44   509 0001:00000e4d
+   510 0001:00000e50   511 0001:00000e5b   512 0001:00000e63   513 0001:00000e80
+   514 0001:00000e98   515 0001:00000ea1   516 0001:00000ebf   517 0001:00000ec2
+   519 0001:00000ecb   521 0001:00000ed6   522 0001:00000ee0   523 0001:00000ef5
+   524 0001:00000f0d   525 0001:00000f10   527 0001:00000f1e   528 0001:00000f21
+   529 0001:00000f2c   530 0001:00000f35   531 0001:00000f53   532 0001:00000f6b
+   533 0001:00000f73   534 0001:00000f90   535 0001:00000f93   537 0001:00000f9c
+   539 0001:00000fa7   540 0001:00000fb1   541 0001:00000fc6   542 0001:00000fde
+   543 0001:00000fe1
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(F:\VS70Builds\9466\vc\crtbld\crt\src\intel\chkstk.asm) segment .text
+
+    69 0001:0001e690    65 0001:0001e690    70 0001:0001e695    72 0001:0001e697
+    73 0001:0001e699    74 0001:0001e69b    75 0001:0001e69e    76 0001:0001e6a0
+    77 0001:0001e6a1    78 0001:0001e6a3    79 0001:0001e6a4    82 0001:0001e6a5
+    83 0001:0001e6a6    88 0001:0001e6aa    89 0001:0001e6b0    91 0001:0001e6b5
+    93 0001:0001e6b7    94 0001:0001e6bc    97 0001:0001e6be    98 0001:0001e6c0
+   100 0001:0001e6c2   102 0001:0001e6c4   104 0001:0001e6c6   105 0001:0001e6c8
+   107 0001:0001e6cb   109 0001:0001e6cc
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(f:\vs70builds\9466\vc\crtbld\crt\src\atonexit.c) segment .text
+
+    76 0001:0001e6e0    81 0001:0001e6e4    90 0001:0001e71b    95 0001:0001e720
+    96 0001:0001e723    97 0001:0001e736
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(f:\vs70builds\9466\vc\crtbld\crt\src\crtdll.c) segment .text
+
+   129 0001:0001d920   134 0001:0001d923   135 0001:0001d929   136 0001:0001d932
+   137 0001:0001d93f   141 0001:0001d941   150 0001:0001d948   158 0001:0001d956
+   164 0001:0001d95c   169 0001:0001d984   171 0001:0001d98b   173 0001:0001d996
+   179 0001:0001d9a2   180 0001:0001d9a7   185 0001:0001d9b4   190 0001:0001d9c6
+   193 0001:0001d9d5   220 0001:0001d9dd   221 0001:0001d9e6   226 0001:0001da01
+   227 0001:0001da0c   235 0001:0001da13   237 0001:0001da27   241 0001:0001da31
+   242 0001:0001da36   250 0001:0001da40   251 0001:0001da44   257 0001:0001da4b
+   258 0001:0001da5a   260 0001:0001da61   262 0001:0001da6d   263 0001:0001da76
+   265 0001:0001da8b   266 0001:0001da91   268 0001:0001daa5   269 0001:0001daab
+   272 0001:0001daaf   275 0001:0001dac3   283 0001:0001dacf   286 0001:0001dade
+   288 0001:0001daea   289 0001:0001daff   291 0001:0001db06   292 0001:0001db15
+   295 0001:0001db2a   296 0001:0001db2d
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(f:\vs70builds\9466\vc\crtbld\crt\src\dllmain.c) segment .text
+
+    43 0001:0001e850    45 0001:0001e853    46 0001:0001e862    48 0001:0001e86c
+    49 0001:0001e871
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(f:\vs70builds\9466\vc\crtbld\crt\src\seccinit.c) segment .text
+
+    49 0001:0001e880    60 0001:0001e886    62 0001:0001e890    63 0001:0001e896
+    68 0001:0001e89f    69 0001:0001e8ad    70 0001:0001e8bb    72 0001:0001e8c9
+    74 0001:0001e8d3    75 0001:0001e8dc    86 0001:0001e8e5    87 0001:0001e902
+
+Line numbers for C:\Program Files\Microsoft Visual Studio .NET\Vc7\lib\MSVCRTD.lib(f:\vs70builds\9466\vc\crtbld\crt\src\seccook.c) segment .text
+
+   108 0001:0001db40   105 0001:0001db40   109 0001:0001db46   110 0001:0001db48
+   112 0001:0001db49   119 0001:0001db50   121 0001:0001db76   122 0001:0001db7d
+   124 0001:0001db92   128 0001:0001dba2   129 0001:0001dbaa
+
+ Exports
+
+  ordinal    name
+
+        1    _CLU_CallScriptFunction
+               exported name: CLU_CallScriptFunction
+        2    _CLU_DllFree
+               exported name: CLU_DllFree
+        3    _CLU_GetCurrentState
+               exported name: CLU_GetCurrentState
+        4    _CLU_GetVirtualMachine
+               exported name: CLU_GetVirtualMachine
+        5    _CLU_Init
+               exported name: CLU_Init
+        6    _CLU_LoadScript
+               exported name: CLU_LoadScript
+        7    _CLU_LoadState
+               exported name: CLU_LoadState
+        8    _CLU_RegisterFunction
+               exported name: CLU_RegisterFunction
+        9    _CLU_RegisterStructure
+               exported name: CLU_RegisterStructure
+       10    _CLU_Shutdown
+               exported name: CLU_Shutdown
+       11    _CLU_ShutdownState
+               exported name: CLU_ShutdownState

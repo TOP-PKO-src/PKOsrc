@@ -1,0 +1,37 @@
+2008-10-19 19:29:59.343  <===== Begin Server =====>
+2008-10-19 19:29:59.343  Begin Init Service
+2008-10-19 19:29:59.343  Begin read config file
+2008-10-19 19:29:59.343  Config file path: C:\KopUnicode\Server\TradeSystem\TradeServer\bin\config.cfg
+2008-10-19 19:29:59.359  Service Name: InfoServer
+2008-10-19 19:29:59.359  Service Port: 1985
+2008-10-19 19:29:59.359  Exchange Rate: 100
+2008-10-19 19:29:59.359  Database Server: .
+2008-10-19 19:29:59.359  Database Username: ********
+2008-10-19 19:29:59.359  Database Password: ********
+2008-10-19 19:29:59.359  Database Name: TradeServer
+2008-10-19 19:29:59.359  Billing Server1: 222.73.250.74:7243
+2008-10-19 19:29:59.359  Billing Server2: 222.73.250.74:7243
+2008-10-19 19:29:59.359  End read config file
+2008-10-19 19:29:59.359  Begin init logic thread
+2008-10-19 19:29:59.359  End init logic thread
+2008-10-19 19:29:59.359  System info: 2 CPU
+2008-10-19 19:29:59.359  System info: 6 IOCP Work Thread
+2008-10-19 19:29:59.359  Begin init IOCP work thread
+2008-10-19 19:29:59.750  End init IOCP work thread
+2008-10-19 19:29:59.750  End Init Service
+2008-10-19 19:29:59.750  Begin run service thread
+2008-10-19 19:30:04.500  Begin Logic Store Thread 4400
+2008-10-19 19:30:04.500  End run service thread
+2008-10-19 19:30:04.562  Begin create monitor GUI
+2008-10-19 19:30:04.562  Begin IOCP Work Thread 2340
+2008-10-19 19:30:04.625  Begin IOCP Work Thread 4368
+2008-10-19 19:30:04.750  Begin IOCP Work Thread 4408
+2008-10-19 19:30:04.750  Begin Log Thread 4276
+2008-10-19 19:30:04.812  Begin IOCP Work Thread 4620
+2008-10-19 19:30:04.984  Begin Mail Thread 4452
+2008-10-19 19:30:05.171  Begin IOCP Work Thread 4464
+2008-10-19 19:30:05.296  Begin IOCP Work Thread 4388
+2008-10-19 19:30:05.296  Begin Manage Thread 4432
+2008-10-19 19:30:05.296  Begin IOCP Accept Thread 4476
+2008-10-19 19:30:05.796  End create monitor GUI
+2008-10-19 19:30:05.796  InfoServer startup success

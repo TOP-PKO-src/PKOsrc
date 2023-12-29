@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Samples.sln]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/SDK/Win32/samples", KXNAAAAA
+
+[Samples_vc8.sln]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/SDK/Win32/samples", KXNAAAAA

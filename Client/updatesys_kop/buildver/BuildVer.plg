@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BuildVer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\claude\LOCALS~1\Temp\RSP197.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "../src_common" /I "../src_common/md5" /I "../src_common/zlib" /I "." /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\claude\src\holdfast\update_sys\src_process\main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\claude\LOCALS~1\Temp\RSP197.tmp" 
+Creating temporary file "C:\DOCUME~1\claude\LOCALS~1\Temp\RSP198.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:no /pdb:"Release/BuildVer.pdb" /machine:I386 /out:"..\bin_server\BuildVer.exe" 
+.\Release\md5c.obj
+.\Release\mddriver.obj
+.\Release\adler32.obj
+.\Release\compress.obj
+.\Release\crc32.obj
+.\Release\deflate.obj
+.\Release\gzio.obj
+.\Release\infblock.obj
+.\Release\infcodes.obj
+.\Release\inffast.obj
+.\Release\inflate.obj
+.\Release\inftrees.obj
+.\Release\infutil.obj
+.\Release\trees.obj
+.\Release\uncompr.obj
+.\Release\zutil.obj
+.\Release\FileVersion.obj
+.\Release\main.obj
+.\Release\Util.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\claude\LOCALS~1\Temp\RSP198.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BuildVer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

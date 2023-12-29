@@ -1,0 +1,13 @@
+[06-06 15:43:27]Log stream open success.
+[06-06 16:02:56]GameServer= [127.0.0.1] come,Socket num= 1
+[06-06 16:02:56]recieve GameServer [GameServer01] map string [magicsea;jialebi;] total [2]
+[06-06 16:02:56]not found [magicsea] map!!!
+[06-06 16:02:56]not found [jialebi] map!!!
+[06-06 16:02:56]add GameServer [GameServer01] ok
+[06-06 16:02:56]add [GameServer01]  [magicsea] map ok
+[06-06 16:02:56]add [GameServer01]  [jialebi] map ok
+[06-06 16:28:23]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[06-06 16:28:23] delete [GameServer01]
+[06-06 16:28:23]delete map [magicsea]
+[06-06 16:28:23]delete map [jialebi]
+[06-06 16:28:23]becaulse GameServer trouble, notice 0 user offline

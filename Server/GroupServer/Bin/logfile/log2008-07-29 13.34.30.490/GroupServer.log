@@ -1,0 +1,29 @@
+[07-29 10:42:37]日志流被成功打开.
+[07-29 11:05:19]recieved kill acctid:[2] command(not in play list)!
+[07-29 11:05:31](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 11:05:58](127.0.0.1)：[test0002123213121/0
+[07-29 11:06:08](127.0.0.1)：[test0002shifu1/0
+[07-29 11:14:34](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 11:15:27](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 11:16:54](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 11:17:14](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 11:18:36](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 11:22:45](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 11:23:35](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 11:25:56](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 11:26:57](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 11:27:09](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 11:27:21](127.0.0.1)：[test0001]select char[tudi2]begin paly...，	 online/total：1/0
+[07-29 11:33:10](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-29 11:37:32](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 11:37:50](127.0.0.1)：[test0001]select char[tudi2]begin paly...，	 online/total：1/0
+[07-29 12:52:29](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-29 12:53:02](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 12:53:16](127.0.0.1)：[test0001]select char[tudi2]begin paly...，	 online/total：1/0
+[07-29 12:53:30](127.0.0.1)：[test0001]select char[fewq]begin paly...，	 online/total：1/0
+[07-29 12:53:44](127.0.0.1)：[test0001fewq1/0
+[07-29 12:53:47](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-29 12:54:29](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 12:54:35](127.0.0.1)：[test0001]logout,	 online/total:0/0
+[07-29 12:56:02](127.0.0.1)：[test0001]login success, 	 nline/total:1/0
+[07-29 12:56:20](127.0.0.1)：[test0001]logout,	 online/total:0/0

@@ -1,0 +1,13 @@
+[08-21 09:45:01]日志流被成功打开.
+[08-21 13:37:29](127.0.0.1)：[X1]login success, 	 nline/total:1/0
+[08-21 13:38:08](127.0.0.1)：[X1]select char[VCD]begin paly...，	 online/total：1/0
+[08-21 13:38:16](127.0.0.1)：[X1]logout,	 online/total:0/0
+[08-21 13:38:32](127.0.0.1)：[X1]login success, 	 nline/total:1/0
+[08-21 13:38:38](127.0.0.1)：[X1]select char[VCD]begin paly...，	 online/total：1/0
+[08-21 13:38:38](127.0.0.1)：[X1]logout,	 online/total:0/0
+[08-21 13:41:34](127.0.0.1)：[X1]login success, 	 nline/total:1/0
+[08-21 13:41:41](127.0.0.1)：[X1]select char[VCD]begin paly...，	 online/total：1/0
+[08-21 13:41:56](127.0.0.1)：[X1]logout,	 online/total:0/0
+[08-21 13:42:12](127.0.0.1)：[X1]login success, 	 nline/total:1/0
+[08-21 13:42:16](127.0.0.1)：[X1]select char[VCD]begin paly...，	 online/total：1/0
+[08-21 13:44:35](127.0.0.1)：[X1]logout,	 online/total:0/0

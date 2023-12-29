@@ -1,0 +1,11 @@
+[07-29 10:42:37]日志流被成功打开.
+[07-29 10:42:37]begin connect database
+[07-29 10:42:38]begin init AccountServer connect
+[07-29 10:42:38]AccountServer:127.0.0.1,1978come ! Socket num:1
+[07-29 10:42:38]begin read GroupServer.cfg
+[07-29 10:42:38]begin load ChaNameFilter.txt
+[07-29 10:42:38]begin listen port:1975
+[07-29 10:42:38]open listen port:1975success, init is ok
+[07-29 11:02:31]GateServer:127.0.0.1,2807come ! Socket num:2
+[07-29 11:05:19]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-29 11:05:24]AccountServer:127.0.0.1,1978come ! Socket num:2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="AccountServer">
+</Property><Property Name="Solution File" Value="D:\KopUnicode\Server\AccountServer\Proj\AccountServer.sln">
+</Property><Property Name="User Options File" Value="D:\KopUnicode\Server\AccountServer\Proj\AccountServer.suo">
+</Property><Property Name="Date" Value="2008年10月6日">
+</Property><Property Name="Time" Value="9:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AccountServer.sln" Description="File successfully backed up as D:\KopUnicode\Server\AccountServer\Proj\AccountServer.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="AccountServer.suo" Description="File successfully backed up as D:\KopUnicode\Server\AccountServer\Proj\AccountServer.suo.old">
+</Event><Event ErrorLevel="2" Project="AccountServer" Source="AccountServer.vcproj" Description="The project file 'D:\KopUnicode\Server\AccountServer\Proj\AccountServer.vcproj' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event><Event ErrorLevel="2" Project="" Source="AccountServer.sln" Description="Solution file 'D:\KopUnicode\Server\AccountServer\Proj\AccountServer.sln' cannot be converted because it is read-only on disk. To convert the solution, change the permissions on the solution file to allow modification and re-open it.">
+</Event><Event ErrorLevel="3" Project="" Source="AccountServer.sln" Description="Not Converted">
+</Event></UpgradeLog>

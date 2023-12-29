@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CaLua">
+</Property><Property Name="Solution File" Value="E:\E_CLIENT\CaLua25\CaLua.sln">
+</Property><Property Name="Date" Value="2008年6月20日">
+</Property><Property Name="Time" Value="13:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CaLua.sln" Description="File successfully backed up as E:\E_CLIENT\CaLua25\CaLua.sln.old">
+</Event><Event ErrorLevel="2" Project="CaLua" Source="CaLua\CaLua.vcproj" Description="The project file 'E:\E_CLIENT\CaLua25\CaLua\CaLua.vcproj' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event><Event ErrorLevel="2" Project="lua50" Source="Lua\lua50.vcproj" Description="The project file 'E:\E_CLIENT\CaLua25\Lua\lua50.vcproj' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event><Event ErrorLevel="2" Project="lualib" Source="Lua\lualib.vcproj" Description="The project file 'E:\E_CLIENT\CaLua25\Lua\lualib.vcproj' cannot be updated to this Visual Studio 2005 version format because it is read-only on disk. Please set the permissions on the project file and re-open it to migrate the project.">
+</Event><Event ErrorLevel="2" Project="" Source="CaLua.sln" Description="Solution file 'E:\E_CLIENT\CaLua25\CaLua.sln' cannot be converted because it is read-only on disk. To convert the solution, change the permissions on the solution file to allow modification and re-open it.">
+</Event><Event ErrorLevel="3" Project="" Source="CaLua.sln" Description="Not Converted">
+</Event></UpgradeLog>

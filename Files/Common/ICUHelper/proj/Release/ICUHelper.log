@@ -1,0 +1,33 @@
+﻿  pi_Alloc.cpp
+..\INC\pi_Alloc.h(99): warning C4091: 'typedef ': ignored on left of 'pi_LeakReporter::pi_LeakItem' when no variable is declared
+  pi_Memory.cpp
+..\src\pi_Memory.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ResourceBundleManage.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(48): warning C4005: 'INT8_MIN': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(119): note: see previous definition of 'INT8_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(49): warning C4005: 'INT16_MIN': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(123): note: see previous definition of 'INT16_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(50): warning C4005: 'INT32_MIN': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(127): note: see previous definition of 'INT32_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(52): warning C4005: 'INT8_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(132): note: see previous definition of 'INT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(53): warning C4005: 'INT16_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(136): note: see previous definition of 'INT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(54): warning C4005: 'INT32_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(140): note: see previous definition of 'INT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(56): warning C4005: 'UINT8_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(145): note: see previous definition of 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(57): warning C4005: 'UINT16_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(149): note: see previous definition of 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(58): warning C4005: 'UINT32_MAX': macro redefinition
+  ..\..\icu\include\unicode/umachine.h(153): note: see previous definition of 'UINT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(120): warning C4005: 'INT64_C': macro redefinition
+  ..\..\icu\include\unicode/pwin32.h(101): note: see previous definition of 'INT64_C'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(125): warning C4005: 'UINT64_C': macro redefinition
+  ..\..\icu\include\unicode/pwin32.h(104): note: see previous definition of 'UINT64_C'
+..\INC\pi_Alloc.h(99): warning C4091: 'typedef ': ignored on left of 'pi_LeakReporter::pi_LeakItem' when no variable is declared
+..\src\ResourceBundleManage.cpp(127): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+  ICUHelper.vcxproj -> E:\GG\VER 1\Files\Common\ICUHelper\proj\../lib\ICUHelper.lib

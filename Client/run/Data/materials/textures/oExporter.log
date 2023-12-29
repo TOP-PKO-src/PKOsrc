@@ -1,0 +1,455 @@
+11:28:14: == Exporting Objects ==
+
+11:28:14: Exporting Object: adobe_jail
+
+11:28:14: addMaterial 'orig_Material #35 [Plane01]' is baked class, getting second submaterial
+
+11:28:14: Object has 3 texture sets
+
+11:28:14: Compiling material baked_orig_Material_#35/01_-_Default
+
+11:28:14: New texture unit Plane01LightingMap.tga
+
+11:28:14:  Mesh: adobe_jail_mesh.... done 
+
+11:28:14: Exporting Object: Box01
+
+11:28:14: Object has 1 texture sets
+
+11:28:14: Compiling material 03_-_Default
+
+11:28:14:  Mesh: Box01_mesh.... done 
+
+11:28:14: Exporting Object: Door
+
+11:28:14: Compiling material 02_-_Default
+
+11:28:14:  Mesh: Door_mesh.... done 
+
+11:28:14: Exporting Object: Box02
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box02_mesh.... done 
+
+11:28:14: Exporting Object: Box03
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box03_mesh.... done 
+
+11:28:14: Exporting Object: Box04
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box04_mesh.... done 
+
+11:28:14: Exporting Object: Box05
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box05_mesh.... done 
+
+11:28:14: Exporting Object: Box06
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box06_mesh.... done 
+
+11:28:14: Exporting Object: Box07
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box07_mesh.... done 
+
+11:28:14: Exporting Object: Box08
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box08_mesh.... done 
+
+11:28:14: Exporting Object: Box09
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box09_mesh.... done 
+
+11:28:14: Exporting Object: Box10
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box10_mesh.... done 
+
+11:28:14: Exporting Object: Box11
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box11_mesh.... done 
+
+11:28:14: Exporting Object: bars
+
+11:28:14: Object has 1 texture sets
+
+11:28:14: Compiling material 04_-_Default
+
+11:28:14:  Mesh: bars_mesh.... done 
+
+11:28:14: Exporting Object: bars01
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: bars01_mesh.... done 
+
+11:28:14: Exporting Object: bars02
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: bars02_mesh.... done 
+
+11:28:14: Exporting Object: bars03
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: bars03_mesh.... done 
+
+11:28:14: Exporting Object: bars04
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: bars04_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder42
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder42_mesh.... done 
+
+11:28:14: Exporting Object: Box12
+
+11:28:14: Object has 1 texture sets
+
+11:28:14: Compiling material 01_-_Default222
+
+11:28:14:  Mesh: Box12_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder43
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder43_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder44
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder44_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder45
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder45_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder46
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder46_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder47
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder47_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder48
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder48_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder49
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder49_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder50
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder50_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder51
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder51_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder52
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder52_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder53
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder53_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder54
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder54_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder55
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder55_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder56
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder56_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder57
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder57_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder58
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder58_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder64
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder64_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder65
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder65_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder66
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder66_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder67
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder67_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder68
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder68_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder69
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder69_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder70
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder70_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder71
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder71_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder72
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder72_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder73
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder73_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder74
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder74_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder75
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder75_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder76
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder76_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder77
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder77_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder78
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder78_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder79
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder79_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder80
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder80_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder81
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder81_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder82
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder82_mesh.... done 
+
+11:28:14: Exporting Object: Box13
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box13_mesh.... done 
+
+11:28:14: Exporting Object: Box17
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box17_mesh.... done 
+
+11:28:14: Exporting Object: JailDoor
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: JailDoor_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder11
+
+11:28:14: Object has 1 texture sets
+
+11:28:14: Compiling material rafters
+
+11:28:14:  Mesh: Cylinder11_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder83
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder83_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder85
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder85_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder87
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder87_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder89
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder89_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder91
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder91_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder93
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder93_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder95
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder95_mesh.... done 
+
+11:28:14: Exporting Object: Cylinder96
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Cylinder96_mesh.... done 
+
+11:28:14: Exporting Object: Box18
+
+11:28:14: Object has 1 texture sets
+
+11:28:14:  Mesh: Box18_mesh.... done 
+
+11:28:14: Exporting Object: Plane02
+
+11:28:14: Object has 3 texture sets
+
+11:28:14: Compiling material baked_Plane02_mtl
+
+11:28:14: New texture unit Plane02LightingMap.tga
+
+11:28:14:  Mesh: Plane02_mesh.... done 
+
+11:28:14: Exporting Shape: Circle01
+
+11:28:14: 
+== Exporting Materials ==
+
+11:28:14:  baked_orig_Material_#35/01_-_Default
+
+11:28:14:  03_-_Default
+
+11:28:14:  02_-_Default
+
+11:28:14:  04_-_Default
+
+11:28:14:  01_-_Default222
+
+11:28:14:  rafters
+
+11:28:14:  baked_Plane02_mtl
+
+11:28:14: 7 material(s) exported to 8.material
+

@@ -1,0 +1,7 @@
+[08-28 10:26:36]Log stream open success.
+[08-28 10:31:16]recieved kill acctid:[1] command(not in play list)!
+[08-28 10:31:28](127.0.0.1)£º[test0001]login success, 	 nline/total:1/0
+[08-28 10:31:50](127.0.0.1)£º[test0001]select char[8564543]begin paly...£¬	 online/total£º1/0
+[08-28 10:31:50](127.0.0.1):[test0001] char [8564543]entry map server begin play...£¬	 online/total:1/1
+[08-28 10:35:22](127.0.0.1)£º[test0001]exit char[8564543]begin entry select char UI...£¬	 online/total:1/0
+[08-28 10:35:50](127.0.0.1)£º[test0001]logout,	 online/total:0/0

@@ -1,0 +1,168 @@
+10-19 01:24:10CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:24:10GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:24:10mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:24:26CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:24:26GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:24:26mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:24:37CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:24:37GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:24:37mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:27:07CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:27:07GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:27:07mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:29:14CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:29:14GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:29:14mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:31:19CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:31:19GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:31:19mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:31:41CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:31:41GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:31:41mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:37:58CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:38:07GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:38:07mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:40:09CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:40:09GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:40:09mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:42:37CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:42:37GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:42:37mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:43:56CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:43:56GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:43:56mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()
+10-19 01:45:24CGameApp::InitAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+c:\kopunicode\server\gameserver\src\entity.h(61) : GameServer.exe at Entity::SetID()
+c:\kopunicode\server\gameserver\src\gameapp.cpp(461) : GameServer.exe at CGameApp::Init()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(142) : GameServer.exe at GameServer_Begin()
+c:\kopunicode\server\gameserver\src\gamesmain.cpp(79) : GameServer.exe at main()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(259) : GameServer.exe at mainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()
+10-19 01:45:24GameServer_BeginAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+ (0) : GameServer.exe at ?()
+10-19 01:45:24mainAccess Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(415) : GameServer.exe at check_managed_app()

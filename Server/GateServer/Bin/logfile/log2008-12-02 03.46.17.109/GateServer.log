@@ -1,0 +1,169 @@
+[11-28 12:58:53]Log stream open success.
+[11-28 12:59:28]GameServer= [127.0.0.1] come,Socket num= 1
+[11-28 12:59:28]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[11-28 12:59:28]not found [magicsea] map!!!
+[11-28 12:59:28]add GameServer [GameServer01] ok
+[11-28 12:59:28]add [GameServer01]  [magicsea] map ok
+[11-28 13:02:09]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:02:09]client: 127.0.0.1	login ok.
+[11-28 13:02:22]client: 127.0.0.1:1071	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A25158
+[11-28 13:02:22]clinet: 127.0.0.1:1071	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25158
+[11-28 13:08:35]client: 127.0.0.1:1071	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:3,Gate address:A25158,Game address:2EC0024
+[11-28 13:10:30]client: 127.0.0.1:1071	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25158
+[11-28 13:10:30]clinet: 127.0.0.1:1071	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25158
+[11-28 13:10:45]client: 127.0.0.1:1071	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25158,Game address:2EC0024
+[11-28 13:10:45]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:10:59]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[11-28 13:10:59] delete [GameServer01]
+[11-28 13:10:59]delete map [magicsea]
+[11-28 13:11:00]becaulse GameServer trouble, notice 0 user offline
+[11-28 13:13:59]GameServer= [127.0.0.1] come,Socket num= 1
+[11-28 13:13:59]recieve GameServer [GameServer01] map string [magicsea;jialebi;] total [2]
+[11-28 13:13:59]not found [magicsea] map!!!
+[11-28 13:13:59]not found [jialebi] map!!!
+[11-28 13:13:59]add GameServer [GameServer01] ok
+[11-28 13:13:59]add [GameServer01]  [magicsea] map ok
+[11-28 13:13:59]add [GameServer01]  [jialebi] map ok
+[11-28 13:14:48]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:14:48]client: 127.0.0.1	login ok.
+[11-28 13:14:52]client: 127.0.0.1:1128	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25238
+[11-28 13:14:52]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:15:15]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:15:30]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:16:34]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:16:42]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:16:50]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:16:56]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:17:04]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:17:18]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:18:39]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:18:50]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:18:57]clinet: 127.0.0.1:1128	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25238
+[11-28 13:19:32]client: 127.0.0.1:1128	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25238,Game address:2EC0024
+[11-28 13:19:32]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:20:44]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:20:44]client: 127.0.0.1	login ok.
+[11-28 13:20:49]client: 127.0.0.1:1161	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A25318
+[11-28 13:20:49]clinet: 127.0.0.1:1161	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25318
+[11-28 13:21:11]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:21:11]client: 127.0.0.1:1161	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A25318,Game address:2EC0024
+[11-28 13:22:51]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:22:51]client: 127.0.0.1	login ok.
+[11-28 13:22:56]client: 127.0.0.1:1174	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A253F8
+[11-28 13:22:56]clinet: 127.0.0.1:1174	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A253F8
+[11-28 13:23:06]client: 127.0.0.1:1174	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A253F8,Game address:2EC0024
+[11-28 13:23:07]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:32:18]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:32:18]client: 127.0.0.1	login ok.
+[11-28 13:32:22]client: 127.0.0.1:1226	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A254D8
+[11-28 13:32:22]clinet: 127.0.0.1:1226	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A254D8
+[11-28 13:32:38]client: 127.0.0.1:1226	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:6,Gate address:A254D8,Game address:2EC0024
+[11-28 13:32:41]client: 127.0.0.1:1226	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A254D8
+[11-28 13:32:41]clinet: 127.0.0.1:1226	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A254D8
+[11-28 13:37:18]client: 127.0.0.1:1226	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A254D8,Game address:2EC0024
+[11-28 13:37:18]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:38:37]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:38:37]client: 127.0.0.1	login ok.
+[11-28 13:38:43]client: 127.0.0.1:1262	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A255B8
+[11-28 13:38:43]clinet: 127.0.0.1:1262	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A255B8
+[11-28 13:39:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=KeepAlive失败。
+[11-28 13:39:49]client: 127.0.0.1:1262	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A255B8,Game address:2EC0024
+[11-28 13:41:13]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:41:13]client: 127.0.0.1	login ok.
+[11-28 13:41:30]client: 127.0.0.1:1277	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25698
+[11-28 13:41:30]clinet: 127.0.0.1:1277	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25698
+[11-28 13:42:25]client: 127.0.0.1:1277	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25698,Game address:2EC0024
+[11-28 13:42:25]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:42:32]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:42:32]client: 127.0.0.1	login ok.
+[11-28 13:42:35]client: 127.0.0.1:1285	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25778
+[11-28 13:42:35]clinet: 127.0.0.1:1285	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25778
+[11-28 13:42:48]client: 127.0.0.1:1285	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25778,Game address:2EC0024
+[11-28 13:42:48]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:44:22]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:44:22]client: 127.0.0.1	login ok.
+[11-28 13:44:25]client: 127.0.0.1:1296	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A25858
+[11-28 13:44:26]clinet: 127.0.0.1:1296	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25858
+[11-28 13:44:38]client: 127.0.0.1:1296	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A25858,Game address:2EC0024
+[11-28 13:44:38]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:46:38]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:46:38]client: 127.0.0.1	login ok.
+[11-28 13:46:44]client: 127.0.0.1:1310	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25938
+[11-28 13:46:44]clinet: 127.0.0.1:1310	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25938
+[11-28 13:47:19]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:47:19]client: 127.0.0.1:1310	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25938,Game address:2EC0024
+[11-28 13:47:49]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:47:49]client: 127.0.0.1	login ok.
+[11-28 13:47:53]client: 127.0.0.1:1317	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25A18
+[11-28 13:47:54]clinet: 127.0.0.1:1317	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25A18
+[11-28 13:48:12]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 13:48:12]client: 127.0.0.1:1317	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25A18,Game address:2EC0024
+[11-28 13:51:53]client: 127.0.0.1	come...Socket num: 1
+[11-28 13:51:53]client: 127.0.0.1	login ok.
+[11-28 13:52:05]client: 127.0.0.1:1340	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A25AF8
+[11-28 13:52:05]clinet: 127.0.0.1:1340	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25AF8
+[11-28 13:54:03]client: 127.0.0.1:1340	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A25AF8,Game address:2EC0024
+[11-28 13:54:04]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 14:04:26]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[11-28 14:04:26] delete [GameServer01]
+[11-28 14:04:26]delete map [magicsea]
+[11-28 14:04:26]delete map [jialebi]
+[11-28 14:04:26]becaulse GameServer trouble, notice 0 user offline
+[11-28 15:11:52]client: 127.0.0.1	come...Socket num: 1
+[11-28 15:11:52]client: 127.0.0.1	login ok.
+[11-28 15:11:58]not found [magicsea] map!!!
+[11-28 15:12:04]not found [magicsea] map!!!
+[11-28 15:12:06]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 15:12:32]GameServer= [127.0.0.1] come,Socket num= 1
+[11-28 15:12:32]recieve GameServer [GameServer01] map string [magicsea;jialebi;] total [2]
+[11-28 15:12:32]not found [magicsea] map!!!
+[11-28 15:12:32]not found [jialebi] map!!!
+[11-28 15:12:32]add GameServer [GameServer01] ok
+[11-28 15:12:32]add [GameServer01]  [magicsea] map ok
+[11-28 15:12:32]add [GameServer01]  [jialebi] map ok
+[11-28 15:12:51]client: 127.0.0.1	come...Socket num: 1
+[11-28 15:12:51]client: 127.0.0.1	login ok.
+[11-28 15:12:55]client: 127.0.0.1:1405	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25CB8
+[11-28 15:12:55]clinet: 127.0.0.1:1405	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25CB8
+[11-28 15:13:11]client: 127.0.0.1:1405	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25CB8,Game address:2EC0024
+[11-28 15:13:11]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 15:13:28]client: 127.0.0.1	come...Socket num: 1
+[11-28 15:13:28]client: 127.0.0.1	login ok.
+[11-28 15:13:31]client: 127.0.0.1:1410	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A25D98
+[11-28 15:13:31]clinet: 127.0.0.1:1410	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25D98
+[11-28 15:15:34]client: 127.0.0.1:1410	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A25D98,Game address:2EC0024
+[11-28 15:15:34]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 17:07:46]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[11-28 17:07:46] delete [GameServer01]
+[11-28 17:07:46]delete map [magicsea]
+[11-28 17:07:46]delete map [jialebi]
+[11-28 17:07:46]becaulse GameServer trouble, notice 0 user offline
+[11-28 17:08:29]client: 127.0.0.1	come...Socket num: 1
+[11-28 17:08:29]client: 127.0.0.1	login ok.
+[11-28 17:08:34]not found [magicsea] map!!!
+[11-28 17:08:36]not found [magicsea] map!!!
+[11-28 17:08:38]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 17:09:04]GameServer= [127.0.0.1] come,Socket num= 1
+[11-28 17:09:04]recieve GameServer [GameServer01] map string [magicsea;jialebi;] total [2]
+[11-28 17:09:04]not found [magicsea] map!!!
+[11-28 17:09:04]not found [jialebi] map!!!
+[11-28 17:09:04]add GameServer [GameServer01] ok
+[11-28 17:09:04]add [GameServer01]  [magicsea] map ok
+[11-28 17:09:04]add [GameServer01]  [jialebi] map ok
+[11-28 17:09:26]client: 127.0.0.1	come...Socket num: 1
+[11-28 17:09:26]client: 127.0.0.1	login ok.
+[11-28 17:09:29]client: 127.0.0.1:1595	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25F58
+[11-28 17:09:29]clinet: 127.0.0.1:1595	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A25F58
+[11-28 17:09:45]client: 127.0.0.1:1595	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:6,Gate address:A25F58,Game address:2EC0024
+[11-28 17:09:45]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 17:10:06]client: 127.0.0.1	come...Socket num: 1
+[11-28 17:10:06]client: 127.0.0.1	login ok.
+[11-28 17:10:10]client: 127.0.0.1:1600	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:3,Gate address:A26038
+[11-28 17:10:10]clinet: 127.0.0.1:1600	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2EC0024,Gate address:A26038
+[11-28 17:12:06]client: 127.0.0.1:1600	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:3,Gate address:A26038,Game address:2EC0024
+[11-28 17:12:06]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[11-28 18:58:25]GameServer= [127.0.0.1] gone,Socket num= 1,reason= KeepAlive失败。
+[11-28 18:58:25] delete [GameServer01]
+[11-28 18:58:25]delete map [magicsea]
+[11-28 18:58:25]delete map [jialebi]
+[11-28 18:58:25]becaulse GameServer trouble, notice 0 user offline

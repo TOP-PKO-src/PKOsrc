@@ -1,0 +1,10 @@
+[08-22 12:15:15]Log stream open success.
+[08-22 12:16:01]recieved kill acctid:[14] command(not in play list)!
+[08-22 12:16:03](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 12:20:20](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 12:21:15]recieved kill acctid:[14] command(not in play list)!
+[08-22 12:21:18](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 12:21:23](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 12:21:24](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 12:23:45](127.0.0.1)£º[X1]exit char[VCD]begin entry select char UI...£¬	 online/total:1/0
+[08-22 12:29:50]account[X1]new char[9657745]find appreance data convert exception

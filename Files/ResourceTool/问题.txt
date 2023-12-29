@@ -1,0 +1,14 @@
+﻿
+1.客户端追加 res.clu
+2.lua中字符串连接没问题，但是clu中连接会出现问题。
+	mian.clu
+	1303 行 .. 要去掉 UI_SetCaption(xx, xx)==》UI_SetCaptionEx(xx, xx, i)
+
+3.mission.lua print 中..去掉
+	missioninfo.lua
+	AddMisData ==> AddMisDataFromLua
+	//gameserve中skilleffect.lua 16550语法有暧昧
+
+	//mission.lua 追加函数声明 
+
+4.需要最好发布前，makebin

@@ -1,0 +1,36 @@
+
+fragment_program	tile_ps hlsl
+{
+	source	tile_ps.hlsl
+	entry_point	main
+	target ps_2_0
+}
+
+vertex_program 	tile_vs	hlsl
+{
+	source		tile_vs.hlsl
+	target	vs_2_0
+	entry_point	main
+	default_params
+	{		
+        	param_named_auto worldViewProj worldviewproj_matrix
+	}
+}
+
+material	tile
+{
+	technique
+	{
+		pass
+		{
+			vertex_program_ref	tile_vs
+			{
+			}
+			fragment_program_ref	tile_ps
+			{
+			}
+		}
+	}
+}
+
+

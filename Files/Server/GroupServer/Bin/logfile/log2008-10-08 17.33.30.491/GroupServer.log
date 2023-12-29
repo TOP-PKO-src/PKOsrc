@@ -1,0 +1,8 @@
+[09-28 15:42:18]Log stream open success.
+[09-28 15:48:25](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-28 15:49:38](127.0.0.1):[test0001dsd1/0
+[09-28 15:52:35]account[test0001]new char[xxx]the same name exception
+[09-28 15:52:40](127.0.0.1):[test0001]create char [xxxxxxxx4]£¬	 online/total:1/0
+[09-28 15:52:47](127.0.0.1):[test0001]select char[xxxxxxxx4]begin paly...£¬	 online/total:1/0
+[09-28 15:52:48](127.0.0.1):[test0001] char [xxxxxxxx4]entry map server begin play...£¬	 online/total:1/1
+[09-28 17:55:36](127.0.0.1):[test0001]logout,	 online/total:0/0

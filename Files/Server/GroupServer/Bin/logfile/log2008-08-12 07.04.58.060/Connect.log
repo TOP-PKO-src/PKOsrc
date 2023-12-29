@@ -1,0 +1,10 @@
+[08-12 05:36:34]日志流被成功打开.
+[08-12 05:36:35]begin connect database
+[08-12 05:36:35]begin init AccountServer connect
+[08-12 05:36:35]AccountServer:127.0.0.1,1978come ! Socket num:1
+[08-12 05:36:35]begin read GroupServer.cfg
+[08-12 05:36:35]begin load ChaNameFilter.txt
+[08-12 05:36:35]begin listen port:1975
+[08-12 05:36:35]open listen port:1975success, init is ok
+[08-12 06:24:12]GateServer:127.0.0.1,2297come ! Socket num:2
+[08-12 07:04:42]GateServer:127.0.0.1,2297go ! Socket num:1reason=(-3)网络被对方正常关闭。

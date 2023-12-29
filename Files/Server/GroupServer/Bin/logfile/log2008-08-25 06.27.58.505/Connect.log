@@ -1,0 +1,13 @@
+[08-25 05:23:24]Log stream open success.
+[08-25 05:23:24]begin connect database
+[08-25 05:23:24]begin init AccountServer connect
+[08-25 05:23:25]AccountServer:127.0.0.1,1978come ! Socket num:1
+[08-25 05:23:25]begin read GroupServer.cfg
+[08-25 05:23:25]begin load ChaNameFilter.txt
+[08-25 05:23:25]begin listen port:1975
+[08-25 05:23:25]open listen port:1975success, init is ok
+[08-25 05:24:19]GateServer:127.0.0.1,1337come ! Socket num:2
+[08-25 05:55:29]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[08-25 05:55:34]AccountServer:127.0.0.1,1978come ! Socket num:2
+[08-25 05:58:13]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[08-25 05:58:18]AccountServer:127.0.0.1,1978come ! Socket num:2

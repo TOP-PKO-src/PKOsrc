@@ -1,0 +1,8 @@
+[09-19 19:17:02]Log stream open success.
+[09-19 19:19:50](127.0.0.1):[X3]login success, 	 nline/total:1/0
+[09-19 19:20:05](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 19:20:06](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 19:20:22](127.0.0.1):[X3]exit char[675476547]begin entry select char UI...£¬	 online/total:1/0
+[09-19 19:20:29](127.0.0.1):[X3]select char[675476547]begin paly...£¬	 online/total:1/0
+[09-19 19:20:30](127.0.0.1):[X3] char [675476547]entry map server begin play...£¬	 online/total:1/1
+[09-19 19:20:36](127.0.0.1):[X3]logout,	 online/total:0/0

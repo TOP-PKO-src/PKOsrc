@@ -1,0 +1,47 @@
+[07-29 10:47:45]Define __CATCH
+[07-29 10:47:45]game map server [] startup...
+[07-29 10:47:45]start initialization GameApp
+[07-29 10:47:45]Load Game Config File(Text Mode) [GameServer.cfg]
+[07-29 10:47:45][MSG]Load Game Config File(Text Mode) [GameServer.cfg] error! 
+[07-29 10:47:49]config init...Fail!
+[07-29 10:47:49]GameApp initialization failed, exit!
+[08-22 09:34:26]Define __CATCH
+[08-22 09:34:26]game map server [] startup...
+[08-22 09:34:26]start initialization GameApp
+[08-22 09:34:26]Load Game Config File(Text Mode) [GameServer.cfg]
+[08-22 09:34:26][MSG]Load Game Config File(Text Mode) [GameServer.cfg] error! 
+[08-22 09:34:30]config init...Fail!
+[08-22 09:34:30]GameApp initialization failed, exit!
+[08-22 09:35:07]Define __CATCH
+[08-22 09:35:07]game map server [] startup...
+[08-22 09:35:07]start initialization GameApp
+[08-22 09:35:07]Load Game Config File(Text Mode) [GameServer.cfg]
+[08-22 09:35:07][MSG]Load Game Config File(Text Mode) [GameServer.cfg] error! 
+[08-22 09:35:17]config init...Fail!
+[08-22 09:35:17]GameApp initialization failed, exit!
+[08-22 09:35:31]Define __CATCH
+[08-22 09:35:31]game map server [] startup...
+[08-22 09:35:31]start initialization GameApp
+[08-22 09:35:31]Load Game Config File(Text Mode) [GameServer.cfg]
+[08-22 09:35:31][MSG]Load Game Config File(Text Mode) [GameServer.cfg] error! 
+[08-22 09:35:37]config init...Fail!
+[08-22 09:35:37]GameApp initialization failed, exit!
+[08-22 09:36:03]Define __CATCH
+[08-22 09:36:03]game map server [] startup...
+[08-22 09:36:03]start initialization GameApp
+[08-22 09:36:03]Load Game Config File(Text Mode) [GameServer1.cfg]
+[08-22 09:36:03][MSG]Load Game Config File(Text Mode) [GameServer1.cfg] error! 
+[08-22 09:36:07]config init...Fail!
+[08-22 09:36:07]GameApp initialization failed, exit!
+[08-22 09:36:40]Define __CATCH
+[08-22 09:36:40]game map server [] startup...
+[08-22 09:36:40]start initialization GameApp
+[08-22 09:36:42]Load Game Config File(Text Mode) [GameServer1.cfg]
+[08-22 09:36:42][MSG]Load Game Config File(Text Mode) [GameServer1.cfg] error! 
+[08-22 09:36:49]Define __CATCH
+[08-22 09:36:49]game map server [] startup...
+[08-22 09:36:49]start initialization GameApp
+[08-22 09:36:52]Load Game Config File(Text Mode) [GameServer1.cfg]
+[10-18 23:38:35]Load Game Config File(Text Mode) [GameServer.cfg]
+[10-18 23:38:35][MSG]Load Game Config File(Text Mode) [GameServer.cfg] error! 
+[10-18 23:38:37]config init...Fail!

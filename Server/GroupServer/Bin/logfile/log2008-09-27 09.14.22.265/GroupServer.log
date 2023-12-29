@@ -1,0 +1,19 @@
+[09-26 15:59:23]Log stream open success.
+[09-26 16:57:22](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-26 16:57:45](127.0.0.1):[test0001]select char[1341324]begin paly...£¬	 online/total:1/0
+[09-26 16:57:52](127.0.0.1):[test0001]select char[limeili]begin paly...£¬	 online/total:1/0
+[09-26 16:58:05](127.0.0.1):[test000113413241/0
+[09-26 16:58:40]account[test0001]new char[xxx]the same name exception
+[09-26 16:58:44](127.0.0.1):[test0001]create char [xxxxxxx]£¬	 online/total:1/0
+[09-26 16:58:47](127.0.0.1):[test0001]select char[xxxxxxx]begin paly...£¬	 online/total:1/0
+[09-26 16:59:16](127.0.0.1):[test0001xxxxxxx1/0
+[09-26 16:59:33](127.0.0.1):[test0001]create char [1234sdf]£¬	 online/total:1/0
+[09-26 16:59:36](127.0.0.1):[test0001]select char[1234sdf]begin paly...£¬	 online/total:1/0
+[09-26 17:00:58](127.0.0.1):[test0001]select char[1234sdf]begin paly...£¬	 online/total:1/0
+[09-26 17:01:11](127.0.0.1):[test0001]select char[limeili]begin paly...£¬	 online/total:1/0
+[09-26 17:01:24](127.0.0.1):[test0001] char [limeili]entry map server begin play...£¬	 online/total:1/1
+[09-26 17:15:50](127.0.0.1):[test0001]logout,	 online/total:0/0
+[09-26 17:16:30](127.0.0.1):[test0001]login success, 	 nline/total:1/0
+[09-26 17:16:38](127.0.0.1):[test0001]select char[limeili]begin paly...£¬	 online/total:1/0
+[09-26 17:16:38](127.0.0.1):[test0001] char [limeili]entry map server begin play...£¬	 online/total:1/1
+[09-26 17:34:52](127.0.0.1):[test0001]logout,	 online/total:0/0

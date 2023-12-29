@@ -1,0 +1,6 @@
+[07-28 06:30:17]日志流被成功打开.
+[07-28 06:30:42]client: 127.0.0.1	come...Socket num: 1
+[07-28 06:30:42]client: 127.0.0.1	login ok.
+[07-28 06:30:48]not found [garner] map!!!
+[07-28 06:30:51]not found [garner] map!!!
+[07-28 06:30:54]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。

@@ -1,0 +1,9 @@
+[08-22 12:08:37]Log stream open success.
+[08-22 12:08:37]begin connect database
+[08-22 12:08:38]begin init AccountServer connect
+[08-22 12:08:38]AccountServer:127.0.0.1,1978come ! Socket num:1
+[08-22 12:08:39]begin read GroupServer.cfg
+[08-22 12:08:39]begin load ChaNameFilter.txt
+[08-22 12:08:39]begin listen port:1975
+[08-22 12:08:39]open listen port:1975success, init is ok
+[08-22 12:08:39]GateServer:127.0.0.1,3684come ! Socket num:2

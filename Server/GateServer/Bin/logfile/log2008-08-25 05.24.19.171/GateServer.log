@@ -1,0 +1,180 @@
+[08-22 09:34:10]Log stream open success.
+[08-22 09:47:51]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 09:47:51]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 09:47:51]not found [garner] map!!!
+[08-22 09:47:51]add GameServer [GameServer01] ok
+[08-22 09:47:51]add [GameServer01]  [garner] map ok
+[08-22 09:49:48]client: 127.0.0.1	come...Socket num: 1
+[08-22 09:49:49]client: 127.0.0.1	login error, error:1104
+[08-22 09:49:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-22 09:49:53]client: 127.0.0.1	come...Socket num: 1
+[08-22 09:49:53]client: 127.0.0.1	login ok.
+[08-22 09:50:54]client: 127.0.0.1:2904	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39C70
+[08-22 09:50:55]clinet: 127.0.0.1:2904	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 09:52:06]not found [magicsea] map!!!
+[08-22 09:52:06]clinet: 127.0.0.1:2904	Switch back map,to Gate[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39C70
+[08-22 09:52:06]clinet: 127.0.0.1:2904	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 09:52:26]not found [magicsea] map!!!
+[08-22 09:52:26]clinet: 127.0.0.1:2904	Switch back map,to Gate[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39C70
+[08-22 09:52:26]clinet: 127.0.0.1:2904	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 09:52:32]clinet: 127.0.0.1:2904	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 09:53:17]clinet: 127.0.0.1:2904	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39C70
+[08-22 09:58:49]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 09:58:49] delete [GameServer01]
+[08-22 09:58:49]delete map [garner]
+[08-22 09:58:49]becaulse GameServer trouble, notice 1 user offline
+[08-22 09:58:49]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 09:58:49]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 10:06:21]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 10:06:21]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 10:06:21]not found [garner] map!!!
+[08-22 10:06:21]add GameServer [GameServer01] ok
+[08-22 10:06:21]add [GameServer01]  [garner] map ok
+[08-22 10:06:49]client: 127.0.0.1	come...Socket num: 1
+[08-22 10:06:50]client: 127.0.0.1	login ok.
+[08-22 10:06:55]client: 127.0.0.1:2988	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39D70
+[08-22 10:06:55]clinet: 127.0.0.1:2988	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39D70
+[08-22 10:07:38]client: 127.0.0.1:2988	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:1431,Gate address:F39D70,Game address:3310044
+[08-22 10:08:12]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 10:08:12] delete [GameServer01]
+[08-22 10:08:12]delete map [garner]
+[08-22 10:08:12]becaulse GameServer trouble, notice 0 user offline
+[08-22 10:09:53]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 10:09:53]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 10:09:53]not found [garner] map!!!
+[08-22 10:09:53]add GameServer [GameServer01] ok
+[08-22 10:09:53]add [GameServer01]  [garner] map ok
+[08-22 10:10:00]client: 127.0.0.1:2988	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39D70
+[08-22 10:10:00]clinet: 127.0.0.1:2988	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39D70
+[08-22 10:10:12]client: 127.0.0.1:2988	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:1431,Gate address:F39D70,Game address:3310044
+[08-22 10:11:35]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 10:11:35] delete [GameServer01]
+[08-22 10:11:35]delete map [garner]
+[08-22 10:11:35]becaulse GameServer trouble, notice 0 user offline
+[08-22 10:18:32]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 10:18:32]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 10:18:32]not found [garner] map!!!
+[08-22 10:18:32]add GameServer [GameServer01] ok
+[08-22 10:18:32]add [GameServer01]  [garner] map ok
+[08-22 10:18:39]client: 127.0.0.1:2988	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39D70
+[08-22 10:18:39]clinet: 127.0.0.1:2988	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39D70
+[08-22 10:18:50]client: 127.0.0.1:2988	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1431,Gate address:F39D70,Game address:3310044
+[08-22 10:18:50]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户Logout。
+[08-22 10:20:59]client: 127.0.0.1	come...Socket num: 1
+[08-22 10:21:00]client: 127.0.0.1	login ok.
+[08-22 10:21:48]client: 127.0.0.1:3059	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39E70
+[08-22 10:21:48]clinet: 127.0.0.1:3059	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39E70
+[08-22 10:51:23]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 10:51:23] delete [GameServer01]
+[08-22 10:51:23]delete map [garner]
+[08-22 10:51:23]becaulse GameServer trouble, notice 1 user offline
+[08-22 10:51:23]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 10:51:23]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 10:53:14]client: 127.0.0.1	come...Socket num: 1
+[08-22 10:53:14]client: 127.0.0.1	login ok.
+[08-22 10:57:40]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 10:57:40]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 10:57:40]not found [garner] map!!!
+[08-22 10:57:40]add GameServer [GameServer01] ok
+[08-22 10:57:40]add [GameServer01]  [garner] map ok
+[08-22 10:58:01]client: 127.0.0.1:3281	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F39F70
+[08-22 10:58:01]clinet: 127.0.0.1:3281	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F39F70
+[08-22 10:59:13]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 10:59:13] delete [GameServer01]
+[08-22 10:59:13]delete map [garner]
+[08-22 10:59:13]becaulse GameServer trouble, notice 1 user offline
+[08-22 10:59:13]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 10:59:13]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 11:00:32]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 11:00:32]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 11:00:32]not found [garner] map!!!
+[08-22 11:00:32]add GameServer [GameServer01] ok
+[08-22 11:00:32]add [GameServer01]  [garner] map ok
+[08-22 11:00:44]client: 127.0.0.1	come...Socket num: 1
+[08-22 11:00:44]client: 127.0.0.1	login ok.
+[08-22 11:00:49]client: 127.0.0.1:3312	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F3A070
+[08-22 11:00:49]clinet: 127.0.0.1:3312	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A070
+[08-22 11:02:34]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 11:02:34] delete [GameServer01]
+[08-22 11:02:34]delete map [garner]
+[08-22 11:02:34]becaulse GameServer trouble, notice 1 user offline
+[08-22 11:02:34]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 11:02:34]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 11:08:04]client: 127.0.0.1	come...Socket num: 1
+[08-22 11:08:04]client: 127.0.0.1	login ok.
+[08-22 11:09:03]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 11:09:03]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 11:09:03]not found [garner] map!!!
+[08-22 11:09:03]add GameServer [GameServer01] ok
+[08-22 11:09:03]add [GameServer01]  [garner] map ok
+[08-22 11:09:07]client: 127.0.0.1:3326	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F3A170
+[08-22 11:09:07]clinet: 127.0.0.1:3326	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A170
+[08-22 11:10:18]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 11:10:18] delete [GameServer01]
+[08-22 11:10:18]delete map [garner]
+[08-22 11:10:18]becaulse GameServer trouble, notice 1 user offline
+[08-22 11:10:18]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 11:10:18]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 11:12:39]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 11:12:39]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 11:12:39]not found [garner] map!!!
+[08-22 11:12:39]add GameServer [GameServer01] ok
+[08-22 11:12:39]add [GameServer01]  [garner] map ok
+[08-22 11:13:24]client: 127.0.0.1	come...Socket num: 1
+[08-22 11:13:24]client: 127.0.0.1	login ok.
+[08-22 11:13:28]client: 127.0.0.1:3357	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F3A270
+[08-22 11:13:29]clinet: 127.0.0.1:3357	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A270
+[08-22 11:17:58]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 11:17:58] delete [GameServer01]
+[08-22 11:17:58]delete map [garner]
+[08-22 11:17:58]becaulse GameServer trouble, notice 1 user offline
+[08-22 11:17:58]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 11:17:58]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 11:21:19]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 11:21:19]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 11:21:19]not found [garner] map!!!
+[08-22 11:21:19]add GameServer [GameServer01] ok
+[08-22 11:21:19]add [GameServer01]  [garner] map ok
+[08-22 11:21:39]client: 127.0.0.1	come...Socket num: 1
+[08-22 11:21:39]client: 127.0.0.1	login ok.
+[08-22 11:21:43]client: 127.0.0.1:3393	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F3A370
+[08-22 11:21:43]clinet: 127.0.0.1:3393	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3A370
+[08-22 11:23:32]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 11:23:32] delete [GameServer01]
+[08-22 11:23:32]delete map [garner]
+[08-22 11:23:32]becaulse GameServer trouble, notice 1 user offline
+[08-22 11:23:32]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[08-22 11:23:32]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。
+[08-22 11:35:06]GameServer= [127.0.0.1] come,Socket num= 1
+[08-22 11:35:06]recieve GameServer [GameServer01] map string [garner;] total [1]
+[08-22 11:35:06]not found [garner] map!!!
+[08-22 11:35:06]add GameServer [GameServer01] ok
+[08-22 11:35:06]add [GameServer01]  [garner] map ok
+[08-22 12:03:56]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:03:56]client: 127.0.0.1	login ok.
+[08-22 12:10:12]client: 127.0.0.1 gone...Socket num: 0 ,reason=远程主机强迫关闭了一个现有的连接。
+[08-22 12:11:45]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:11:45]client: 127.0.0.1	login error, error:1104
+[08-22 12:11:45]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-22 12:11:47]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:11:48]client: 127.0.0.1	login ok.
+[08-22 12:15:28]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-22 12:16:01]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:16:01]client: 127.0.0.1	login error, error:1104
+[08-22 12:16:01]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-22 12:16:03]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:16:03]client: 127.0.0.1	login ok.
+[08-22 12:20:53]client: 127.0.0.1 gone...Socket num: 0 ,reason=远程主机强迫关闭了一个现有的连接。
+[08-22 12:21:15]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:21:15]client: 127.0.0.1	login error, error:1104
+[08-22 12:21:15]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[08-22 12:21:18]client: 127.0.0.1	come...Socket num: 1
+[08-22 12:21:18]client: 127.0.0.1	login ok.
+[08-22 12:21:23]client: 127.0.0.1:3813	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1431,Gate address:F3AA70
+[08-22 12:21:24]clinet: 127.0.0.1:3813	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:3310044,Gate address:F3AA70
+[08-22 12:23:45]client: 127.0.0.1:3813	GoOut map,Gate to[127.0.0.1] send GoOutMap command,dbid:1431,Gate address:F3AA70,Game address:3310044
+[08-22 12:30:09]client: 127.0.0.1 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[08-22 12:30:13]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[08-22 12:30:13] delete [GameServer01]
+[08-22 12:30:13]delete map [garner]
+[08-22 12:30:13]becaulse GameServer trouble, notice 0 user offline

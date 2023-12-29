@@ -1,0 +1,19 @@
+
+material 01_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 1 0 0 1
+			diffuse 0.992157 0 0 1
+			specular 0.9 0.9 0.9 1 20
+			depth_check off
+			depth_write off
+			cull_hardware none
+			cull_software none
+		}
+
+	}
+
+}

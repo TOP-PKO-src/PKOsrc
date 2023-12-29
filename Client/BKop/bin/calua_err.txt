@@ -1,0 +1,5 @@
+CaLua Library : Error compiling scripts/lua/res.clu : 
+ cannot read scripts/lua/res.clu: No such file or directory
+
+CaLua Library : Unknown function called from Lua script
+CaLua Library : Unknown function called from Lua script

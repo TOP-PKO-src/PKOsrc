@@ -1,0 +1,17 @@
+[07-28 06:25:13]日志流被成功打开.
+[07-28 06:27:30]recieved kill acctid:[3] command(not in play list)!
+[07-28 06:27:32](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-28 06:27:47](127.0.0.1)：[test0003]select char[asdf]begin paly...，	 online/total：1/0
+[07-28 06:27:50](127.0.0.1)：[test0003]select char[tudi1]begin paly...，	 online/total：1/0
+[07-28 06:27:52](127.0.0.1)：[test0003]select char[ddasda]begin paly...，	 online/total：1/0
+[07-28 06:28:06](127.0.0.1)：[test0003asdf1/0
+[07-28 06:28:17](127.0.0.1)：[test0003tudi11/0
+[07-28 06:28:28](127.0.0.1)：[test0003ddasda1/0
+[07-28 06:28:56](127.0.0.1)：[test0003]create char [45]，	 online/total:1/0
+[07-28 06:29:03](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-28 06:29:06](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-28 06:29:53](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-28 06:30:42](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-28 06:30:48](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-28 06:30:51](127.0.0.1)：[test0003]select char[45]begin paly...，	 online/total：1/0
+[07-28 06:30:54](127.0.0.1)：[test0003]logout,	 online/total:0/0

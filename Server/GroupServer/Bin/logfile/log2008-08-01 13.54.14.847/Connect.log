@@ -1,0 +1,18 @@
+[07-31 10:48:13]日志流被成功打开.
+[07-31 10:48:13]begin connect database
+[07-31 10:48:14]begin init AccountServer connect
+[07-31 10:48:14]AccountServer:127.0.0.1,1978come ! Socket num:1
+[07-31 10:48:14]begin read GroupServer.cfg
+[07-31 10:48:14]begin load ChaNameFilter.txt
+[07-31 10:48:14]begin listen port:1975
+[07-31 10:48:14]open listen port:1975success, init is ok
+[07-31 10:48:23]GateServer:127.0.0.1,2906come ! Socket num:2
+[07-31 10:53:12]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-31 10:53:17]AccountServer:127.0.0.1,1978come ! Socket num:2
+[07-31 10:56:55]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10053)您的主机中的软件放弃了一个已建立的连接。
+[07-31 10:57:00]AccountServer:127.0.0.1,1978come ! Socket num:2
+[07-31 13:04:24]GateServer:127.0.0.1,3719come ! Socket num:2
+[07-31 13:04:24]GateServer:127.0.0.1,2906go ! Socket num:1reason=(10054)远程主机强迫关闭了一个现有的连接。
+[07-31 13:21:05]GateServer:127.0.0.1,3719go ! Socket num:1reason=(-9)KeepAlive失败。
+[07-31 13:30:20]GateServer:127.0.0.1,3922come ! Socket num:2
+[07-31 18:06:01]GateServer:127.0.0.1,3922go ! Socket num:1reason=(-3)网络被对方正常关闭。

@@ -1,0 +1,16 @@
+[08-28 17:19:43]Log stream open success.
+[08-28 17:20:44]GameServer= [127.0.0.1] come,Socket num= 1
+[08-28 17:20:44]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[08-28 17:20:44]not found [magicsea] map!!!
+[08-28 17:20:44]add GameServer [GameServer01] ok
+[08-28 17:20:44]add [GameServer01]  [magicsea] map ok
+[08-28 17:22:05]client: 127.0.0.1	come...Socket num: 1
+[08-28 17:22:07]client: 127.0.0.1	login ok.
+[08-28 17:22:23]client: 127.0.0.1:1731	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:1493,Gate address:F39B70
+[08-28 17:22:24]clinet: 127.0.0.1:1731	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:33A0044,Gate address:F39B70
+[08-28 17:27:31]client: 127.0.0.1:1731	GoOut map,Gate to [127.0.0.1]send GoOutMap command,dbid:1493,Gate address:F39B70,Game address:33A0044
+[08-28 17:27:31]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户Logout。
+[08-28 17:31:16]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[08-28 17:31:16] delete [GameServer01]
+[08-28 17:31:16]delete map [magicsea]
+[08-28 17:31:16]becaulse GameServer trouble, notice 0 user offline

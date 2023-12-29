@@ -1,0 +1,38 @@
+[10-19 01:45:08]Log stream open success.
+[10-19 01:47:27](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 01:47:32](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 01:47:32](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 01:53:18](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 01:55:36](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 01:55:40](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 01:55:40](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 02:07:19](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 02:28:06](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 02:28:10](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 02:28:10](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 13:41:57](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 14:07:12]recieved kill acctid:[1] command(not in play list)!
+[10-19 14:07:14](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 14:09:00](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 14:09:00](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 14:17:27](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 14:25:57](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 14:26:07](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 14:26:07](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 14:30:41](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 14:32:31](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 14:32:35](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 14:32:35](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 14:43:19](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 14:50:02](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 14:50:06](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 14:50:06](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 19:25:48](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-19 19:32:12]recieved kill acctid:[1] command(not in play list)!
+[10-19 19:32:15](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-19 19:32:19](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 19:32:21](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-19 19:32:25](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 19:33:36](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-19 19:33:36](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-19 19:45:10](127.0.0.1):[yyy]logout,	 online/total:0/0

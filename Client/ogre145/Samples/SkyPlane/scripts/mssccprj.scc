@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Demo_SkyPlane.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Samples/SkyPlane/scripts", BLNAAAAA
+
+[Demo_SkyPlane_vc8.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Samples/SkyPlane/scripts", BLNAAAAA

@@ -1,0 +1,28 @@
+[10-18 23:38:00]Log stream open success.
+[10-18 23:39:16]GameServer= [127.0.0.1] come,Socket num= 1
+[10-18 23:39:16]recieve GameServer [GameServer01] map string [magicsea;] total [1]
+[10-18 23:39:16]not found [magicsea] map!!!
+[10-18 23:39:16]add GameServer [GameServer01] ok
+[10-18 23:39:16]add [GameServer01]  [magicsea] map ok
+[10-18 23:51:38]client: 127.0.0.1	come...Socket num: 1
+[10-18 23:51:38]client: 127.0.0.1	login error: GroupServer is disresponse!
+[10-18 23:51:38]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-18 23:51:42]client: 127.0.0.1	come...Socket num: 1
+[10-18 23:51:42]client: 127.0.0.1	login error: GroupServer is disresponse!
+[10-18 23:51:42]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-18 23:55:43]client: 127.0.0.1	come...Socket num: 1
+[10-18 23:55:43]client: 127.0.0.1	login error: GroupServer is disresponse!
+[10-18 23:55:43]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-18 23:56:22]client: 127.0.0.1	come...Socket num: 1
+[10-18 23:56:53]client: 127.0.0.1	login error: GroupServer is disresponse!
+[10-18 23:56:53]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[10-18 23:57:08]client: 127.0.0.1	come...Socket num: 1
+[10-18 23:57:10]client: 127.0.0.1	login ok.
+[10-18 23:57:16]client: 127.0.0.1:2646	BeginPlay entry map,Gate to[127.0.0.1]send EnterMap command,dbid:6,Gate address:A25580
+[10-18 23:57:16]clinet: 127.0.0.1:2646	recieve Gate  from [127.0.0.1]success EnterMap command,Game address:2DB0024,Gate address:A25580
+[10-19 01:23:21]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 网络被对方正常关闭。
+[10-19 01:23:21] delete [GameServer01]
+[10-19 01:23:21]delete map [magicsea]
+[10-19 01:23:21]becaulse GameServer trouble, notice 1 user offline
+[10-19 01:23:21]becaulse GameServer trouble, disconnect [127.0.0.1] 
+[10-19 01:23:22]client: 127.0.0.1 gone...Socket num: 0 ,reason=因GameServer故障，其上的所有玩家都被踢掉。

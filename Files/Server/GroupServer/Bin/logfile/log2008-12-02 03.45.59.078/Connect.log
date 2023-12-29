@@ -1,0 +1,26 @@
+[11-28 12:58:40]Log stream open success.
+[11-28 12:58:40]begin connect database
+[11-28 12:58:42]begin init AccountServer connect
+[11-28 12:58:42]AccountServer:127.0.0.1,1978come ! Socket num:1
+[11-28 12:58:42]begin read GroupServer.cfg
+[11-28 12:58:42]begin load ChaNameFilter.txt
+[11-28 12:58:42]begin listen port:1975
+[11-28 12:58:42]open listen port:1975success, init is ok
+[11-28 12:58:54]GateServer:127.0.0.1,1053come ! Socket num:2
+[11-28 14:04:26]GateServer:127.0.0.1,1356come ! Socket num:2
+[11-28 14:04:26]GateServer:127.0.0.1,1053go ! Socket num:1reason=(-3)网络被对方正常关闭。
+[11-28 14:04:26]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(10054)远程主机强迫关闭了一个现有的连接。
+[11-28 14:04:31]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 15:09:58]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 15:09:58]GateServer:127.0.0.1,1356go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 15:09:59]GateServer:127.0.0.1,1386come ! Socket num:1
+[11-28 15:10:03]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 17:07:46]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 17:07:46]GateServer:127.0.0.1,1386go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 17:07:47]GateServer:127.0.0.1,1583come ! Socket num:1
+[11-28 17:07:51]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 18:58:25]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 18:58:25]GateServer:127.0.0.1,1618come ! Socket num:1
+[11-28 18:58:25]GateServer:127.0.0.1,1583go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 18:58:30]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 18:59:20]GateServer:127.0.0.1,1618go ! Socket num:1reason=(-3)网络被对方正常关闭。

@@ -1,0 +1,7 @@
+09-23 13:57:05Access Violation
+The thread attempted to read from or write to a virtual address for which it does not have the appropriate access
+e:\item\source\vc2003\project_kop\engine\sdk\include\mpgameapp.h(108) : MindPower3D_D8R.dll at MPGameApp::IsFullScreen()
+e:\item\source\vc2003\project_kop\client\client\src\uisystemform.cpp(336) : Game.exe at GUI::CSystemMgr::LoadCustomProp()
+e:\item\source\vc2003\project_kop\client\client\src\main.cpp(135) : Game.exe at WinMain()
+f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c(251) : Game.exe at WinMainCRTStartup()
+ (0) : kernel32.dll at RegisterWaitForInputIdle()

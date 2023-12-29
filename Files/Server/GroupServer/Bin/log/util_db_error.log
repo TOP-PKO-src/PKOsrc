@@ -1,0 +1,720 @@
+[07-25 13:25:53]SQL Error State:28000, Native Error Code: 4818, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]用户 'usr' 登录失败。
+[07-25 13:26:58]SQL Error State:28000, Native Error Code: 4818, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]用户 'usr' 登录失败。
+[07-25 13:32:13]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-25 13:52:39]SQL Error State:01000, Native Error Code: 2746, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionWrite (send()).
+[07-25 13:52:39][STMT:0xa94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-25 13:52:39]connecting database...
+[07-25 13:52:39]ready connect database...
+[07-25 13:54:57]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 13:54:58]reconnect database...
+[07-25 13:56:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 13:56:57]reconnect database...
+[07-25 13:58:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 13:58:57]reconnect database...
+[07-25 14:00:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:00:57]reconnect database...
+[07-25 14:02:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:02:57]reconnect database...
+[07-25 14:04:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:04:57]reconnect database...
+[07-25 14:06:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:06:57]reconnect database...
+[07-25 14:08:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:08:57]reconnect database...
+[07-25 14:10:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:10:57]reconnect database...
+[07-25 14:12:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:12:57]reconnect database...
+[07-25 14:14:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:14:57]reconnect database...
+[07-25 14:16:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:16:57]reconnect database...
+[07-25 14:18:56]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[07-25 14:18:57]reconnect database...
+[07-28 05:29:54]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-28 06:25:13]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-28 06:41:09]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-29 09:57:27]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-29 10:29:17]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-29 10:42:38]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-29 11:26:50]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:26:50][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:29:50]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:29:50][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:32:19]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:32:19][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:33:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:33:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 11:34:19]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:34:19][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 11:35:19]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:35:19][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 11:35:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:35:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 11:37:09]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:37:09][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 11:37:59]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:37:59][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:38:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:38:38][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:39:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:39:48][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:40:28]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:40:28][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:40:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:40:38][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:40:58]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:40:58][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:41:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:41:18][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:41:28]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:41:28][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:45:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:45:18][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:54:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:54:26][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:54:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:54:56][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:55:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:55:56][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:56:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:56:26][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:56:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:56:56][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:58:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:58:26][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:58:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:58:55][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 11:59:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 11:59:35][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:00:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:00:05][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:00:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:00:35][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:01:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:01:05][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:01:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:01:35][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:02:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:02:55][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:03:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:03:25][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:04:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:04:45][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:05:24]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:05:24][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:05:54]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:05:54][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:07:24]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:07:24][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:07:54]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:07:54][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:08:24]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:08:24][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:09:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:09:04][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:09:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:09:34][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:10:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:10:04][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:10:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:10:34][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:10:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:10:44][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:10:54]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:10:54][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:11:24]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:11:24][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:12:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:12:33][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:12:43]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:12:43][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:13:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:13:03][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:13:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:13:33][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:13:43]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:13:43][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:14:13]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:14:13][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:15:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:15:03][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:15:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:15:33][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:20:12]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:20:12][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:24:52]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:24:52][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:25:21]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:25:21][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:26:21]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:26:21][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:30:21]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:30:21][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:31:21]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:31:21][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:32:20]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:32:20][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:32:50]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:32:50][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:34:30]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:34:30][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:37:10]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:37:10][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:37:40]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:37:40][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:37:50]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:37:50][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:38:20]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:38:20][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:38:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:38:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:39:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:39:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:40:19]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:40:19][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:40:29]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:40:29][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:40:59]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:40:59][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:41:29]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:41:29][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:42:09]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:42:09][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:42:39]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:42:39][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:42:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:42:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:43:49]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:43:49][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:44:19]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:44:19][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:45:09]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:45:09][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:45:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:45:38][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:46:08]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:46:08][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:46:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:46:38][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:46:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:46:48][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:47:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:47:38][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:47:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:47:48][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:48:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:48:18][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:51:28]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:51:28][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[07-29 12:53:57]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[07-29 12:53:57][STMT:0xe94f48][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[07-29 13:34:31]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-29 15:04:53]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 05:17:22]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 06:02:23]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 06:13:18]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 06:36:41]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 07:00:15]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-30 07:34:39]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 UNIQUE KEY 约束 'IX_character'。不能在对象 'dbo.character' 中插入重复键。
+[07-30 07:34:39][STMT:0xe94f48][SQLERR]: [insert character (cha_name, act_id, birth,map,look) values ('234', 2, '白银城','garner', '111#2,2062;0,0,0,0,0,0,0,0,0,0;2554,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;4618')]
+[07-30 12:34:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 UNIQUE KEY 约束 'IX_character'。不能在对象 'dbo.character' 中插入重复键。
+[07-30 12:34:06][STMT:0xe94f48][SQLERR]: [insert character (cha_name, act_id, birth,map,look) values ('1234', 2, '白银城','garner', '111#4,2291;0,0,0,0,0,0,0,0,0,0;2554,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0;4849')]
+[07-31 04:50:47]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-31 04:58:45]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[07-31 10:48:14]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-01 13:54:15]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-05 11:36:34]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-07 09:18:05]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-12 05:36:35]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-12 07:04:58]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-12 07:45:18]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-21 09:35:10]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[08-21 09:42:11]SQL Error State:08001, Native Error Code: 6, ODBC Error: [Microsoft][ODBC SQL Server Driver][DBNETLIB]未找到指定的 SQL Server。
+[08-21 09:45:02]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-22 05:20:01]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-22 09:27:47]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-22 09:34:04]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-22 12:08:38]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-22 12:15:16]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-25 05:23:24]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-25 06:28:00]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-25 06:31:03]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-25 08:33:20]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[08-25 08:33:20][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 1, 0)]
+[08-28 10:26:37]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-28 17:19:39]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[08-29 09:30:51]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-02 09:01:51]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-02 11:34:50]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-02 15:10:39]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-02 15:58:59]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-02 15:58:59][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-02 16:01:58]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-02 16:01:58][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-02 16:02:28]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-02 16:02:28][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-02 16:03:08]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-02 16:03:08][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-02 16:04:38]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-02 16:04:38][STMT:0xe95898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-03 08:44:06]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-03 13:29:55]SQL Error State:01000, Native Error Code: 1645, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]已将数据库上下文更改为 'GameDB'。
+[09-16 18:21:59]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-16 18:21:59][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-16 18:22:28]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-16 18:22:28][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (1, 0, 0)]
+[09-16 18:22:58]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-16 18:22:58][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-16 18:23:08]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-16 18:23:08][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-19 19:18:01]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-19 19:18:01][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:22:32]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:22:32][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:40:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:40:33][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:41:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:41:03][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:41:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:41:33][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:43:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:43:03][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:43:13]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:43:13][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:43:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:43:33][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:43:43]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:43:43][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:44:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:44:03][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:44:13]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:44:13][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:44:33]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:44:33][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:44:43]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:44:43][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:45:03]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:45:03][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:45:13]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:45:13][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:45:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:45:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:45:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:45:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:46:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:46:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:46:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:46:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:46:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:46:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:46:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:46:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:47:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:47:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:47:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:47:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:47:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:47:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:47:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:47:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:48:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:48:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:48:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:48:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:48:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:48:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:48:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:48:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:49:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:49:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:49:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:49:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:49:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:49:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:49:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:49:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:50:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:50:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:50:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:50:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:50:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:50:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:50:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:50:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:51:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:51:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:51:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:51:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:51:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:51:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:51:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:51:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:52:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:52:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:52:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:52:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:52:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:52:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:52:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:52:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:53:04]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:53:04][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:53:14]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:53:14][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:53:34]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:53:34][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 19:53:44]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 19:53:44][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:04:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:04:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:04:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:04:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:05:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:05:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:06:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:06:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:07:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:07:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:08:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:08:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:09:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:09:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:10:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:10:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:11:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:11:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:35][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:12:55]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:12:55][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:05]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:05][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:25]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:25][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:13:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:13:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:14:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:14:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:15:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:15:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:16:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:16:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:17:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:17:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:18:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:18:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:19:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:19:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:20:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:20:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:21:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:21:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:22:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:22:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:23:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:23:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:06]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:06][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:26]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:26][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:36]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:36][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:24:56]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:24:56][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:29:57]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:29:57][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:30:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:30:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:30:27]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:30:27][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:30:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:30:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:30:57]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:30:57][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:31:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:31:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:31:27]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:31:27][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:46:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:46:18][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:46:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:46:48][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:47:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:47:18][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:47:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:47:48][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:48:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:48:18][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:48:48]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:48:48][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:49:18]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:49:18][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:49:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:49:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:50:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:50:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:50:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:50:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:51:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:51:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:51:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:51:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:52:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:52:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:52:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:52:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:53:47]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:53:47][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:54:17]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:54:17][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:54:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:54:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:55:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:55:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:55:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:55:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:56:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:56:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:56:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:56:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:57:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:57:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:57:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:57:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:58:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:58:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:58:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:58:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:59:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:59:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 20:59:46]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 20:59:46][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:00:16]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:00:16][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:00:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:00:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:01:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:01:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:01:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:01:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:02:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:02:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:02:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:02:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:03:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:03:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:03:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:03:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:04:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:04:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:04:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:04:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:05:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:05:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:05:45]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:05:45][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-23 21:06:15]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-23 21:06:15][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-26 16:58:40]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 UNIQUE KEY 约束 'IX_character'。不能在对象 'dbo.character' 中插入重复键。
+[09-26 16:58:40][STMT:0xea5898][SQLERR]: [insert character (cha_name, act_id, birth,map,look) values ('xxx', 1, '白银城','garner', '112#3,2124;0,0,0,0,0,0,0,0,0,0,0;0,2554,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;4681')]
+[09-27 09:15:22]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-27 09:15:22][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-27 09:15:52]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-27 09:15:52][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-27 09:16:22]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-27 09:16:22][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-27 09:17:52]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 PRIMARY KEY 约束 'PK_stat_log'。不能在对象 'dbo.stat_log' 中插入重复键。
+[09-27 09:17:52][STMT:0xea5898][SQLERR]: [insert stat_log (login_num , play_num, wgplay_num) values (0, 0, 0)]
+[09-28 15:52:35]SQL Error State:23000, Native Error Code: A43, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]违反了 UNIQUE KEY 约束 'IX_character'。不能在对象 'dbo.character' 中插入重复键。
+[09-28 15:52:35][STMT:0xea5898][SQLERR]: [insert character (cha_name, act_id, birth,map,look) values ('xxx', 1, '白银城','garner', '112#3,2124;0,0,0,0,0,0,0,0,0,0,0;0,2554,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;0,0,0,0,0,0,0,0,0,0,0;4681')]
+[06-06 15:25:34]SQL Error State:28000, Native Error Code: 4818, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'yyy'.
+[06-06 15:26:02]SQL Error State:28000, Native Error Code: 4818, ODBC Error: [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'yyy'.

@@ -1,0 +1,127 @@
+
+material baked_orig_Material_#35/01_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.866667 0.796079 0.588235 1
+			diffuse 0.866667 0.796079 0.588235 1
+			specular 0 0 0 1 10
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture_alias baked_orig_Material #35_LightingMap
+				texture Plane01LightingMap.tga
+				tex_coord_set 2
+				colour_op_ex modulate_x2 src_texture src_current
+				colour_op_multipass_fallback dest_colour zero
+			}
+		}
+
+	}
+
+}
+
+material 03_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.898039 0.898039 0.898039 1
+			diffuse 0.898039 0.898039 0.898039 1
+			specular 0 0 0 1 10
+		}
+
+	}
+
+}
+
+material 02_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.478431 0.415686 0.298039 1
+			diffuse 0.478431 0.415686 0.298039 1
+			specular 0.125725 0.125725 0.125725 1 10
+		}
+
+	}
+
+}
+
+material 04_-_Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.294118 0.294118 0.294118 1
+			diffuse 0.294118 0.294118 0.294118 1
+			specular 0.619647 0.619647 0.619647 1 30
+		}
+
+	}
+
+}
+
+material 01_-_Default222
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.866667 0.796079 0.588235 1
+			diffuse 0.866667 0.796079 0.588235 1
+			specular 0 0 0 1 10
+			cull_hardware none
+			cull_software none
+		}
+
+	}
+
+}
+
+material rafters
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.25098 0.192157 0.0705882 1
+			diffuse 0.25098 0.192157 0.0705882 1
+			specular 0.125725 0.125725 0.125725 1 10
+		}
+
+	}
+
+}
+
+material baked_Plane02_mtl
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.929412 0.815686 0.560784 1
+			diffuse 0.929412 0.815686 0.560784 1
+			specular 0 0 0 1 10
+			alpha_rejection greater 128
+
+			texture_unit
+			{
+				texture_alias baked_Plane02_mtl_LightingMap
+				texture Plane02LightingMap.tga
+				tex_coord_set 2
+				colour_op_ex modulate_x2 src_texture src_current
+				colour_op_multipass_fallback dest_colour zero
+			}
+		}
+
+	}
+
+}

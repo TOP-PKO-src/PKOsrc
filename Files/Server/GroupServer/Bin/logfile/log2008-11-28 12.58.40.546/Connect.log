@@ -1,0 +1,27 @@
+[11-28 02:01:32]Log stream open success.
+[11-28 02:01:32]begin connect database
+[11-28 02:01:34]begin init AccountServer connect
+[11-28 02:01:34]AccountServer:127.0.0.1,1978come ! Socket num:1
+[11-28 02:01:34]begin read GroupServer.cfg
+[11-28 02:01:34]begin load ChaNameFilter.txt
+[11-28 02:01:34]begin listen port:1975
+[11-28 02:01:34]open listen port:1975success, init is ok
+[11-28 02:02:19]GateServer:127.0.0.1,3112come ! Socket num:2
+[11-28 03:33:09]GateServer:127.0.0.1,3583come ! Socket num:1
+[11-28 03:33:09]GateServer:127.0.0.1,3112go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 03:33:09]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 03:33:14]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 05:51:21]Log stream open success.
+[11-28 05:51:21]begin connect database
+[11-28 05:51:22]begin init AccountServer connect
+[11-28 05:51:22]AccountServer:127.0.0.1,1978come ! Socket num:1
+[11-28 05:51:22]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(200)未知Disconnect码：200
+[11-28 05:51:22]begin read GroupServer.cfg
+[11-28 05:51:22]begin load ChaNameFilter.txt
+[11-28 05:51:22]begin listen port:1975
+[11-28 05:51:22]File:c:\kopunicode\server\groupserver\src\groupserverappinit.cpp Line:126 desc:127.0.0.1,1975 打开失败！请检查端口 1975 是否被占用或者GroupServer.cfg的Listen_IP参数配置是否正确.
+[11-28 10:37:46]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 10:37:46]GateServer:127.0.0.1,3583go ! Socket num:0reason=(-9)KeepAlive失败。
+[11-28 10:37:49]GateServer:127.0.0.1,1416come ! Socket num:1
+[11-28 10:37:51]AccountServer:127.0.0.1,1978come ! Socket num:2
+[11-28 11:41:00]GateServer:127.0.0.1,1416go ! Socket num:1reason=(-3)网络被对方正常关闭。

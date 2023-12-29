@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Demo_CelShading.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Samples/CelShading/scripts", YJLAAAAA
+
+[Demo_CelShading_vc8.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\ogre145"
+SCC_Project_Name = "$/Samples/CelShading/scripts", YJLAAAAA

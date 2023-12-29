@@ -1,0 +1,18 @@
+[10-19 01:45:09]Log stream open success.
+[10-19 01:45:09]begin connect database
+[10-19 01:45:10]begin init AccountServer connect
+[10-19 01:45:10]AccountServer:127.0.0.1,1978come ! Socket num:1
+[10-19 01:45:10]begin read GroupServer.cfg
+[10-19 01:45:10]begin load ChaNameFilter.txt
+[10-19 01:45:10]begin listen port:1975
+[10-19 01:45:10]open listen port:1975success, init is ok
+[10-19 01:45:16]GateServer:127.0.0.1,3188come ! Socket num:2
+[10-19 13:41:55]GateServer:127.0.0.1,3188go ! Socket num:0reason=(-9)KeepAlive ß∞‹°£
+[10-19 13:41:55]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive ß∞‹°£
+[10-19 13:41:56]GateServer:127.0.0.1,3210come ! Socket num:1
+[10-19 13:42:00]AccountServer:127.0.0.1,1978come ! Socket num:2
+[10-19 19:25:45]GateServer:127.0.0.1,3210go ! Socket num:1reason=(-9)KeepAlive ß∞‹°£
+[10-19 19:25:45]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(-9)KeepAlive ß∞‹°£
+[10-19 19:25:45]GateServer:127.0.0.1,3860come ! Socket num:1
+[10-19 19:25:50]AccountServer:127.0.0.1,1978come ! Socket num:2
+[10-19 19:45:23]GateServer:127.0.0.1,3860go ! Socket num:1reason=(-3)Õ¯¬Á±ª∂‘∑Ω’˝≥£πÿ±’°£

@@ -1,0 +1,7 @@
+[07-29 09:57:27]日志流被成功打开.
+[07-29 10:03:32](127.0.0.1)：[test0003]login success, 	 nline/total:1/0
+[07-29 10:05:34](127.0.0.1)：[test0003]logout,	 online/total:0/0
+[07-29 10:05:49](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 10:08:54](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[07-29 10:15:41](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[07-29 10:16:19](127.0.0.1)：[test0002]logout,	 online/total:0/0

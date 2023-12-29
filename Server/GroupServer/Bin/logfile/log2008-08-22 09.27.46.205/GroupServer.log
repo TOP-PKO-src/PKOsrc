@@ -1,0 +1,11 @@
+[08-22 05:20:00]Log stream open success.
+[08-22 07:05:04](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 07:05:20](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 07:05:31](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 07:05:49](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 07:06:39](127.0.0.1)£º[X1]login success, 	 nline/total:1/0
+[08-22 07:06:48](127.0.0.1)£º[X1]select char[VCD]begin paly...£¬	 online/total£º1/0
+[08-22 07:06:48](127.0.0.1):[X1] char [VCD]entry map server begin play...£¬	 online/total:1/1
+[08-22 07:30:25](127.0.0.1)£º[X1]exit char[VCD]begin entry select char UI...£¬	 online/total:1/0
+[08-22 09:18:47](127.0.0.1)£º[X1]logout,	 online/total:0/0
+[08-22 09:20:19](127.0.0.1)£º[X1]login success, 	 nline/total:1/0

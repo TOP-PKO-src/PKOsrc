@@ -1,0 +1,12 @@
+[07-29 15:04:52]日志流被成功打开.
+[07-29 15:04:52]begin connect database
+[07-29 15:04:53]begin init AccountServer connect
+[07-29 15:04:53]AccountServer:127.0.0.1,1978come ! Socket num:1
+[07-29 15:04:53]begin read GroupServer.cfg
+[07-29 15:04:53]begin load ChaNameFilter.txt
+[07-29 15:04:53]begin listen port:1975
+[07-29 15:04:53]open listen port:1975success, init is ok
+[07-29 15:05:47]GateServer:127.0.0.1,1222come ! Socket num:2
+[07-29 15:08:12]AccountServer:127.0.0.1,1978go ! Socket num:1reason=(10054)远程主机强迫关闭了一个现有的连接。
+[07-29 15:08:35]GateServer:127.0.0.1,1222go ! Socket num:0reason=(65535)程序因为退出而ShutDown网络子系统。
+[07-29 15:08:41]日志流被成功关闭.

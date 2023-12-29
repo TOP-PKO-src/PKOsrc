@@ -1,0 +1,6 @@
+[08-12 05:36:34]日志流被成功打开.
+[08-12 06:34:19](127.0.0.1)：[test0002]login success, 	 nline/total:1/0
+[08-12 06:34:29](127.0.0.1)：[test0002]select char[hthtfhy]begin paly...，	 online/total：1/0
+[08-12 06:34:29](127.0.0.1):[test0002] char [hthtfhy]entry map server begin play...，	 online/total:1/1
+[08-12 06:35:25](127.0.0.1)：[test0002]logout,	 online/total:0/0
+[08-12 06:45:37](127.0.0.1)：[x1]login failed, error:1001

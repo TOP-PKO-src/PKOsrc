@@ -1,0 +1,128 @@
+[10-13 21:39:52]Log stream open success.
+[10-13 21:50:32](127.0.0.1):[test0001]login failed, error:1001
+[10-13 21:50:44](127.0.0.1):[yyy]login failed, error:1002
+[10-13 21:50:52](127.0.0.1):[yyy]login failed, error:1002
+[10-13 21:53:37](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 21:54:00](127.0.0.1):[yyy]create char [XXX]£¬	 online/total:1/0
+[10-13 21:54:04](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 21:54:04](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 21:56:30](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 21:56:54](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 21:56:59](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 21:56:59](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 22:15:55]recieved killed acctid/acctname:[1]/[yyy] command!
+[10-13 22:16:09](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 22:16:15](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 22:16:15](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 22:18:26](127.0.0.1):[xxx]login success, 	 nline/total:2/1
+[10-13 22:19:07](127.0.0.1):[xxx]create char [YYY]£¬	 online/total:2/1
+[10-13 22:19:10](127.0.0.1):[xxx]select char[YYY]begin paly...£¬	 online/total:2/1
+[10-13 22:19:10](127.0.0.1):[xxx] char [YYY]entry map server begin play...£¬	 online/total:2/2
+[10-13 22:22:54](127.0.0.1):[xxx]logout,	 online/total:1/1
+[10-13 22:47:59](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 22:48:22](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 22:48:28](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 22:48:28](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 22:49:27](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 22:50:20](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 22:50:27](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 22:50:27](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 22:52:12](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 22:55:18](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 22:55:22](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 22:55:22](127.0.0.1):[yyy] char [XXX]entry map server begin play...£¬	 online/total:1/1
+[10-13 22:57:26](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 23:00:39](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 23:00:44](127.0.0.1):[yyy]select char[XXX]begin paly...£¬	 online/total:1/0
+[10-13 23:00:44](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 23:00:59](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 23:01:10](127.0.0.1):[yyyXXX1/0
+[10-13 23:01:49](127.0.0.1):[yyy]create char [ly]£¬	 online/total:1/0
+[10-13 23:01:54](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:01:54](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:04:42](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-13 23:04:49](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:04:49](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:05:16](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 23:05:25](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 23:05:30](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:05:30](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:06:04](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-13 23:06:08](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:06:08](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:08:06](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-13 23:08:11](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:08:11](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:09:15](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 23:10:00](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 23:10:04](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:10:04](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:10:55](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-13 23:11:00](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:11:00](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:15:14](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-13 23:24:45](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-13 23:25:09](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-13 23:25:09](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-13 23:32:27](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-14 21:49:48](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-14 21:49:57](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-14 21:49:58](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-14 22:04:38](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-14 22:56:12](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-14 22:56:34](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-14 22:57:10](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-14 22:58:22](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-14 22:58:22](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-14 22:59:05](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 22:49:55](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 22:50:01](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 22:55:58](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 22:56:22](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 22:56:31](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 22:56:34](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 22:56:34](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 22:57:37](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:17:58](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:18:03](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 23:18:03](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:18:37](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:20:13](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:20:18](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 23:20:19](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:20:30](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:20:40](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:20:52](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 23:20:52](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:30:36](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:30:49](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:31:42]account[yyy] when create char , can't restore database failed.
+[10-15 23:32:12](127.0.0.1):[yyy]create char [zzz]£¬	 online/total:1/0
+[10-15 23:32:26](127.0.0.1):[yyy]select char[zzz]begin paly...£¬	 online/total:1/0
+[10-15 23:32:38](127.0.0.1):[yyy]select char[zzz]begin paly...£¬	 online/total:1/0
+[10-15 23:32:43](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 23:32:44](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:32:57](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-15 23:33:10](127.0.0.1):[yyyzzz1/0
+[10-15 23:33:25](127.0.0.1):[yyy]create char [5765]£¬	 online/total:1/0
+[10-15 23:33:29](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-15 23:33:29](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:34:00](127.0.0.1):[yyy]exit char[5765]begin entry select char UI...£¬	 online/total:1/0
+[10-15 23:34:19](127.0.0.1):[yyy]create char [675]£¬	 online/total:1/0
+[10-15 23:34:53](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:37:46](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:38:04](127.0.0.1):[yyy6751/0
+[10-15 23:38:54](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:40:52](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:40:57](127.0.0.1):[yyy]select char[ly]begin paly...£¬	 online/total:1/0
+[10-15 23:40:57](127.0.0.1):[yyy] char [ly]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:41:07](127.0.0.1):[yyy]exit char[ly]begin entry select char UI...£¬	 online/total:1/0
+[10-15 23:41:15](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:42:04](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:42:17](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:43:26](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:43:59](127.0.0.1):[yyy]logout,	 online/total:0/0
+[10-15 23:45:47](127.0.0.1):[yyy]login success, 	 nline/total:1/0
+[10-15 23:45:53](127.0.0.1):[yyy]select char[5765]begin paly...£¬	 online/total:1/0
+[10-15 23:45:53](127.0.0.1):[yyy] char [5765]entry map server begin play...£¬	 online/total:1/1
+[10-15 23:49:50](127.0.0.1):[yyy]logout,	 online/total:0/0

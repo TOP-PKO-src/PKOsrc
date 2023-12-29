@@ -1,0 +1,17 @@
+SCC = This is a Source Code Control file
+
+[lua50.dsp]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\CaLua25"
+SCC_Project_Name = "$/Lua", ACAAAAAA
+
+[lua50.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\CaLua25"
+SCC_Project_Name = "$/Lua", ACAAAAAA
+
+[lualib.dsp]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\CaLua25"
+SCC_Project_Name = "$/Lua", ACAAAAAA
+
+[lualib.vcproj]
+SCC_Aux_Path = "\\192.168.16.6\vss_6\CaLua25"
+SCC_Project_Name = "$/Lua", ACAAAAAA

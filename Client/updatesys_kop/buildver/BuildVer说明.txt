@@ -1,0 +1,44 @@
+
+BuildVer说明
+
+版本制作：
+
+[Parent Dir]
+  |
+   -- BuildVer.exe
+  |
+   -- ver                       （VerComp.dat的摘要，文本文件）
+  |
+   -- VerComp.dat               （所有文件的摘要集合，文本文件）
+
+
+[dest]
+  |
+  |-- [run_dest]                （自动更新系统使用，每一次制作版本之前应先将此目录清空）
+  |
+   -- [patch_yyyymmdd_hhmm_ss]  （制作手动更新补丁包使用）
+  
+  
+[src]                           （海盗王最新客户端）
+   
+   
+  如上图： 
+
+	src  海盗王最新客户端程序目录，含全部程序文件
+		 制作前要先清除此目录下的下列文件（如果存在）：
+		 kop_d.exe, ver, ver.rec, VerComp.dat, VerInfo.rec, _TempData, ulog.txt, _Update.exe
+		
+	dest 海盗王客户端版本产生目录
+	
+		 子文件夹run_dest内是给自动更新系统所使用的更新文件（压缩版本，全部文件的集合）
+		 
+		 子文件夹patch_yyyymmdd_hhmm_ss内是给制作手动更新补丁包所使用的未压缩的原始文件
+		 其中yyyy是年，mm是月，dd是日，hh是小时，mm是分钟，ss是秒
+
+命令行：
+
+	BuildVer.exe src dest [-rebuild]
+	
+	注意：如果使用 -rebuild 参数，则不会产生手动更新补丁目录！
+	一般情况下不推荐使用 -rebuild 参数
+	

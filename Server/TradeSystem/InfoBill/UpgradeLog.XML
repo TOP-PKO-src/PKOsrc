@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InfoBill">
+</Property><Property Name="解决方案文件" Value="E:\程序开发专用\KopUnicode\Server\TradeSystem\InfoBill\InfoBill.sln">
+</Property><Property Name="Date" Value="2010年4月1日">
+</Property><Property Name="Time" Value="11:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InfoBill.sln" Description="文件已成功备份为 E:\程序开发专用\KopUnicode\Server\TradeSystem\InfoBill\InfoBill.sln.old">
+</Event><Event ErrorLevel="2" Project="InfoBill" Source="InfoBill\InfoBill.vcproj" Description="项目文件“E:\程序开发专用\KopUnicode\Server\TradeSystem\InfoBill\InfoBill\InfoBill.vcproj”无法更新为此 Visual Studio 2005 版本格式，因为它在磁盘上是只读的。请设置该项目文件的权限，然后重新打开它以迁移项目。">
+</Event><Event ErrorLevel="2" Project="" Source="InfoBill.sln" Description="无法转换解决方案文件“E:\程序开发专用\KopUnicode\Server\TradeSystem\InfoBill\InfoBill.sln”，因为它在磁盘上是只读的。若要转换此解决方案，请将此解决方案文件的权限更改为允许修改，然后重新打开它。">
+</Event><Event ErrorLevel="3" Project="" Source="InfoBill.sln" Description="未转换">
+</Event></UpgradeLog>

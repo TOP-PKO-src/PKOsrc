@@ -1,0 +1,15 @@
+[07-30 06:02:50]日志流被成功打开.
+[07-30 06:04:10]GameServer= [127.0.0.1] come,Socket num= 1
+[07-30 06:04:11]recieve GameServer [GameServer01] map string [garner;] total [1]
+[07-30 06:04:11]not found [garner] map!!!
+[07-30 06:04:11]add GameServer [GameServer01] ok
+[07-30 06:04:11]add [GameServer01]  [garner] map ok
+[07-30 06:04:37]client: 127.0.0.1	come...Socket num: 1
+[07-30 06:04:37]client: 127.0.0.1	login error, error:1104
+[07-30 06:04:37]client: 127.0.0.1 gone...Socket num: 0 ,reason=用户登录错误。
+[07-30 06:05:10]client: 127.0.0.1	come...Socket num: 1
+[07-30 06:05:10]client: 127.0.0.1	login ok.
+[07-30 06:11:46]GameServer= [127.0.0.1] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[07-30 06:11:46] delete [GameServer01]
+[07-30 06:11:46]delete map [garner]
+[07-30 06:11:47]becaulse GameServer trouble, notice 0 user offline

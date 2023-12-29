@@ -1,0 +1,166 @@
+
+//////////////////////
+    公共接口说明
+//////////////////////
+
+
+数据结构：NetMessageHead
+成员列表：
+    unsigned char msgChk[4];    //  有效网络消息标识码为 0x4A, 0x4D, 0x50, 0x53
+    long msgID;                 //  消息编号
+    long subID;                 //  消息子编号
+    long long msgOrder;         //  消息握手
+    long msgSection;            //  小区编号
+    long msgExtend;             //  扩展字段
+    long msgSize;               //  消息体长度
+    long msgEncSize;            //  加密后长度
+
+
+数据结构：NetMessage
+成员列表：
+    NetMessageHead      msgHead;    //  消息头
+    void*               msgBody;    //  消息体
+
+
+原形：void FreeNetMessage(pNetMessage msg)
+函数：FreeNetMessage
+参数列表：
+    pNetMessage msg             //  需要被释放的消息指针
+返回值：
+    无
+功能说明：
+    用于释放由 BuildNetMessage 函数或者开发库中所产生的消息对象。
+
+
+原形：bool BuildNetMessage(pNetMessage nm, long msgID, long subID, long extend, long section, unsigned char* body, long size)
+函数：BuildNetMessage
+参数列表：
+    pNetMessage nm              //  消息指针（需要实现分配好空间）
+    long msgID                  //  消息编号
+    long subID                  //  消息子编号
+    long extend                 //  扩展字段
+    long section                //  小区号
+    unsigned char* body         //  消息体（二进制数据）
+    long size                   //  消息体长度
+返回值：
+    无
+功能说明：
+    通过指定参数，来生成消息对象。消息对象需要由 FreeNetMessage 函数释放。
+
+
+
+
+//////////////////////
+    用户接口说明
+//////////////////////
+
+
+原形：
+    class InfoNetBase
+    {
+    public:
+        InfoNetBase();
+        virtual ~InfoNetBase();
+        virtual bool RunInfoService(const char* ip, short port);
+        virtual bool StopInfoService();
+        virtual bool PostInfoSend(long msgID, long subID, long extend, long section, unsigned char* body, long size);
+        virtual bool PostInfoSend(pNetMessage msg);
+        virtual bool IsConnect();
+    public:
+        virtual void OnConnect(bool result) = 0;
+        virtual void OnNetMessage(pNetMessage msg) = 0;
+        virtual void OnResend(pNetMessage msg) = 0;
+        virtual void OnDisconnect() = 0;
+    protected:
+        virtual bool Connect();
+        virtual bool Disconnect();
+        virtual bool PostInfoRecv();
+        friend class InfoThread;
+    protected:
+        void*       m_client;
+        void*       m_list;
+        int         m_state;
+        char        m_ip[260];
+        short       m_port;
+    };
+
+基类名称：InfoNetBase
+
+接口方法列表：
+
+    函数：RunInfoService
+    参数列表：
+        const char* ip              //  服务器IP地址（可以使用域名）
+        short port                  //  服务器端口
+    返回值：
+        bool                        //  true成功，false失败
+    功能说明：
+        运行InfoServer工作线程，调用此方法后。会为InfoServer单独启动一个服务线程。
+
+
+    函数：StopInfoService
+    参数列表：
+        无
+    返回值：
+        bool                        //  true成功，false失败
+    功能说明：
+        停止运行InfoServer工作线程，调用此方法来停止InfoServer的工作线程。
+
+
+    函数：PostInfoSend
+    参数列表：
+        long msgID                  //  消息编号
+        long subID                  //  消息子编号
+        long extend                 //  扩展字段
+        long section                //  小区号
+        unsigned char* body         //  消息体（二进制）
+        long size                   //  消息体长度
+    返回值：
+        bool                        //  true成功，false失败（失败后，如果Server没有被停止，则会进行自动重发）
+    功能说明：
+        投递一个发送请求。有自动重发机制。
+
+
+    函数：PostInfoSend
+    参数列表：
+        pNetMessage msg             //  待发消息指针
+        bool resnd                  //  使用重发机制，默认使用
+    返回值：
+        bool                        //  true成功，false失败（失败后，如果Server没有被停止，则会进行自动重发）
+    功能说明：
+        投递一个发送请求。有自动重发机制。
+
+    函数：IsConnect
+    参数列表：
+        无
+    返回值：
+        bool                        //  true已连接，false未连接
+    功能说明：
+        查询当前连接状态
+
+用户接口列表：
+
+    函数：OnConnect
+    参数：
+        bool result                 //  连接状态（true连接成功，false连接失败）
+    说明：
+        在连接InfoServer后响应，通过参数通知用户是否连接成功
+
+    函数：OnNetMessage
+    参数：
+        pNetMessage msg             //  消息指针
+    说明：
+        在接收到网络消息后响应，此msg需要由用户手工释放。
+
+    函数：OnResend
+    参数：
+        pNetMessage msg             //  消息指针
+    说明：
+        重发消息时响应。
+
+    函数：OnDisconnect()
+    参数：
+        无
+    说明：
+        断开连接时响应
+

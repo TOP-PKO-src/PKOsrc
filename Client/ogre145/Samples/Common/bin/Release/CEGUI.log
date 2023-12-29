@@ -1,0 +1,373 @@
+18/09/2008 17:20:29 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+18/09/2008 17:20:29 (InfL1)	+                     Crazy Eddie's GUI System - Event log                    +
+18/09/2008 17:20:29 (InfL1)	+                          (http://www.cegui.org.uk/)                         +
+18/09/2008 17:20:29 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+18/09/2008 17:20:29 (InfL1)	CEGUI::Logger singleton created.
+18/09/2008 17:20:29 (InfL1)	---- Begining CEGUI System initialisation ----
+18/09/2008 17:20:29 (InfL1)	CEGUI::ImagesetManager singleton created
+18/09/2008 17:20:29 (InfL1)	CEGUI::FontManager singleton created.
+18/09/2008 17:20:29 (InfL1)	CEGUI::WindowFactoryManager singleton created
+18/09/2008 17:20:29 (InfL1)	CEGUI::WindowManager singleton created
+18/09/2008 17:20:29 (InfL1)	CEGUI::SchemeManager singleton created.
+18/09/2008 17:20:29 (InfL1)	CEGUI::MouseCursor singleton created.
+18/09/2008 17:20:29 (InfL1)	CEGUI::GlobalEventSet singleton created.
+18/09/2008 17:20:29 (InfL1)	CEGUI::WidgetLookManager singleton created.
+18/09/2008 17:20:29 (InfL1)	CEGUI::WindowRendererManager singleton created
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'DefaultWindow' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'DragContainer' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'ScrolledContainer' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'ClippedContainer' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Checkbox' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/PushButton' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/RadioButton' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Combobox' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ComboDropList' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Editbox' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/FrameWindow' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ItemEntry' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Listbox' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ListHeader' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ListHeaderSegment' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Menubar' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/PopupMenu' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/MenuItem' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/MultiColumnList' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/MultiLineEditbox' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ProgressBar' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ScrollablePane' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Scrollbar' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Slider' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Spinner' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/TabButton' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/TabControl' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Thumb' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Titlebar' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/Tooltip' windows added.
+18/09/2008 17:20:29 (InfL1)	WindowFactory for 'CEGUI/ItemListbox' windows added.
+18/09/2008 17:20:29 (InfL1)	Window type alias named 'DefaultGUISheet' added for window type 'DefaultWindow'.
+18/09/2008 17:20:29 (InfL1)	CEGUI::System singleton created.
+18/09/2008 17:20:29 (InfL1)	---- CEGUI System initialisation completed ----
+18/09/2008 17:20:29 (InfL1)	---- Version 0.5.1 ----
+18/09/2008 17:20:29 (InfL1)	---- Renderer module is: CEGUI::OgreRenderer - Official Ogre based renderer module for CEGUI ----
+18/09/2008 17:20:29 (InfL1)	---- XML Parser module is: CEGUI::ExpatParser - Official expat based parser module for CEGUI ----
+18/09/2008 17:20:29 (InfL1)	---- Scripting module is: None ----
+18/09/2008 17:20:29 (InfL1)	Attempting to create Imageset 'RttImageset' with texture only.
+18/09/2008 17:20:29 (InfL1)	Attempting to load Scheme from file 'TaharezLookSkin.scheme'.
+18/09/2008 17:20:29 (InfL2)	Started creation of Scheme 'TaharezLook' via XML file.
+18/09/2008 17:20:29 (InfL2)	Finished creation of Scheme 'TaharezLook' via XML file.
+18/09/2008 17:20:29 (InfL2)	Loaded GUI scheme 'TaharezLook' from data in file 'TaharezLookSkin.scheme'.
+18/09/2008 17:20:29 (InfL2)	---- Begining resource loading for GUI scheme 'TaharezLook' ----
+18/09/2008 17:20:29 (InfL1)	Attempting to create an Imageset from the information specified in file 'TaharezLook.imageset'.
+18/09/2008 17:20:29 (InfL1)	Started creation of Imageset from XML specification:
+18/09/2008 17:20:29 (InfL1)	---- CEGUI Imageset name: TaharezLook
+18/09/2008 17:20:29 (InfL1)	---- Source texture file: TaharezLook.tga in resource group: (Default)
+18/09/2008 17:20:30 (InfL2)	Finished creation of Imageset 'TaharezLook' via XML file.
+18/09/2008 17:20:30 (InfL1)	Attempting to create Font from the information specified in file 'bluehighway-12.font'.
+18/09/2008 17:20:30 (InfL1)	Started creation of FreeType Font:
+18/09/2008 17:20:30 (InfL1)	---- CEGUI font name: BlueHighway-12
+18/09/2008 17:20:30 (InfL1)	----     Source file: bluehigh.ttf in resource group: (Default)
+18/09/2008 17:20:30 (InfL1)	---- Real point size: 12
+18/09/2008 17:20:30 (InfL1)	Succsessfully loaded 289 glyphs
+18/09/2008 17:20:30 (InfL2)	Finished creation of Font 'BlueHighway-12' via XML file.
+18/09/2008 17:20:30 (InfL1)	Attempting to create Font from the information specified in file 'bluehighway-10.font'.
+18/09/2008 17:20:30 (InfL1)	Started creation of FreeType Font:
+18/09/2008 17:20:30 (InfL1)	---- CEGUI font name: BlueHighway-10
+18/09/2008 17:20:30 (InfL1)	----     Source file: bluehigh.ttf in resource group: (Default)
+18/09/2008 17:20:30 (InfL1)	---- Real point size: 10
+18/09/2008 17:20:30 (InfL1)	Succsessfully loaded 289 glyphs
+18/09/2008 17:20:30 (InfL2)	Finished creation of Font 'BlueHighway-10' via XML file.
+18/09/2008 17:20:30 (InfL1)	Attempting to create Font from the information specified in file 'bluehighway-8.font'.
+18/09/2008 17:20:30 (InfL1)	Started creation of FreeType Font:
+18/09/2008 17:20:30 (InfL1)	---- CEGUI font name: BlueHighway-8
+18/09/2008 17:20:30 (InfL1)	----     Source file: bluehigh.ttf in resource group: (Default)
+18/09/2008 17:20:30 (InfL1)	---- Real point size: 8
+18/09/2008 17:20:30 (InfL1)	Succsessfully loaded 289 glyphs
+18/09/2008 17:20:30 (InfL2)	Finished creation of Font 'BlueHighway-8' via XML file.
+18/09/2008 17:20:30 (InfL1)	===== Falagard 'root' element: look and feel parsing begins =====
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Button'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Button'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/RadioButton'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/RadioButton'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Checkbox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Checkbox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Editbox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Editbox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Titlebar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Titlebar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/FrameWindow'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/FrameWindow'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ProgressBar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ProgressBar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/AltProgressBar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/AltProgressBar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/VUMeter'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/VUMeter'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/SliderThumb'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/SliderThumb'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Slider'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Slider'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/HorizontalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/HorizontalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/HorizontalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/HorizontalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/VerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/VerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/VerticalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/VerticalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Listbox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Listbox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ComboDropList'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ComboDropList'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ComboEditbox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ComboEditbox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Combobox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Combobox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Spinner'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Spinner'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/StaticShared'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/StaticShared'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/StaticImage'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/StaticImage'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/StaticText'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/StaticText'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ListHeaderSegment'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ListHeaderSegment'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ListHeader'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ListHeader'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/MultiColumnList'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/MultiColumnList'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/MultiLineEditbox'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/MultiLineEditbox'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Tooltip'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Tooltip'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ScrollablePane'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ScrollablePane'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/TabButton'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/TabButton'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/TabContentPane'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/TabContentPane'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/TabButtonPane'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/TabButtonPane'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/TabControl'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/TabControl'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/MenuItem'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/MenuItem'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/PopupMenu'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/PopupMenu'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/Menubar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/Menubar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/LargeVerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/LargeVerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/LargeVerticalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/LargeVerticalScrollbar'.
+18/09/2008 17:20:30 (InfL2)	---> Start of definition for widget look 'TaharezLook/ImageButton'.
+18/09/2008 17:20:30 (InfL2)	---< End of definition for widget look 'TaharezLook/ImageButton'.
+18/09/2008 17:20:30 (InfL1)	===== Look and feel parsing completed =====
+18/09/2008 17:20:30 (InfL1)	No window renderer factories specified for module 'CEGUIFalagardWRBase' - adding all available factories...
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Button' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Default' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Editbox' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/FrameWindow' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ItemEntry' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ListHeader' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ListHeaderSegment' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Listbox' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Menubar' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/MenuItem' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/MultiColumnList' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/MultiLineEditbox' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/PopupMenu' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ProgressBar' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ScrollablePane' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Scrollbar' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Slider' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Static' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/StaticImage' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/StaticText' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/SystemButton' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/TabButton' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/TabControl' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Titlebar' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ToggleButton' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/Tooltip' added.
+18/09/2008 17:20:30 (InfL1)	WindowRendererFactory 'Falagard/ItemListbox' added.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Button' using base type 'CEGUI/PushButton', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/Button'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Checkbox' using base type 'CEGUI/Checkbox', window renderer 'Falagard/ToggleButton' and Look'N'Feel 'TaharezLook/Checkbox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ImageButton' using base type 'CEGUI/PushButton', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/ImageButton'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/RadioButton' using base type 'CEGUI/RadioButton', window renderer 'Falagard/ToggleButton' and Look'N'Feel 'TaharezLook/RadioButton'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/FrameWindow' using base type 'CEGUI/FrameWindow', window renderer 'Falagard/FrameWindow' and Look'N'Feel 'TaharezLook/FrameWindow'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Titlebar' using base type 'CEGUI/Titlebar', window renderer 'Falagard/Titlebar' and Look'N'Feel 'TaharezLook/Titlebar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/SystemButton' using base type 'CEGUI/PushButton', window renderer 'Falagard/SystemButton' and Look'N'Feel 'TaharezLook/Button'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Editbox' using base type 'CEGUI/Editbox', window renderer 'Falagard/Editbox' and Look'N'Feel 'TaharezLook/Editbox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/MultiLineEditbox' using base type 'CEGUI/MultiLineEditbox', window renderer 'Falagard/MultiLineEditbox' and Look'N'Feel 'TaharezLook/MultiLineEditbox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Menubar' using base type 'CEGUI/Menubar', window renderer 'Falagard/Menubar' and Look'N'Feel 'TaharezLook/Menubar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/PopupMenu' using base type 'CEGUI/PopupMenu', window renderer 'Falagard/PopupMenu' and Look'N'Feel 'TaharezLook/PopupMenu'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/MenuItem' using base type 'CEGUI/MenuItem', window renderer 'Falagard/MenuItem' and Look'N'Feel 'TaharezLook/MenuItem'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/AlternateProgressBar' using base type 'CEGUI/ProgressBar', window renderer 'Falagard/ProgressBar' and Look'N'Feel 'TaharezLook/AltProgressBar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ProgressBar' using base type 'CEGUI/ProgressBar', window renderer 'Falagard/ProgressBar' and Look'N'Feel 'TaharezLook/ProgressBar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/VUMeter' using base type 'CEGUI/ProgressBar', window renderer 'Falagard/ProgressBar' and Look'N'Feel 'TaharezLook/VUMeter'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/VerticalScrollbar' using base type 'CEGUI/Scrollbar', window renderer 'Falagard/Scrollbar' and Look'N'Feel 'TaharezLook/VerticalScrollbar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/HorizontalScrollbar' using base type 'CEGUI/Scrollbar', window renderer 'Falagard/Scrollbar' and Look'N'Feel 'TaharezLook/HorizontalScrollbar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/VerticalScrollbarThumb' using base type 'CEGUI/Thumb', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/VerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/HorizontalScrollbarThumb' using base type 'CEGUI/Thumb', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/HorizontalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/LargeVerticalScrollbar' using base type 'CEGUI/Scrollbar', window renderer 'Falagard/Scrollbar' and Look'N'Feel 'TaharezLook/LargeVerticalScrollbar'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/LargeVerticalScrollbarThumb' using base type 'CEGUI/Thumb', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/LargeVerticalScrollbarThumb'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/TabButton' using base type 'CEGUI/TabButton', window renderer 'Falagard/TabButton' and Look'N'Feel 'TaharezLook/TabButton'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/TabControl' using base type 'CEGUI/TabControl', window renderer 'Falagard/TabControl' and Look'N'Feel 'TaharezLook/TabControl'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/TabContentPane' using base type 'DefaultWindow', window renderer 'Falagard/Default' and Look'N'Feel 'TaharezLook/TabContentPane'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/TabButtonPane' using base type 'DefaultWindow', window renderer 'Falagard/Default' and Look'N'Feel 'TaharezLook/TabButtonPane'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ComboDropList' using base type 'CEGUI/ComboDropList', window renderer 'Falagard/Listbox' and Look'N'Feel 'TaharezLook/ComboDropList'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ComboEditbox' using base type 'CEGUI/Editbox', window renderer 'Falagard/Editbox' and Look'N'Feel 'TaharezLook/ComboEditbox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Combobox' using base type 'CEGUI/Combobox', window renderer 'Falagard/Default' and Look'N'Feel 'TaharezLook/Combobox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Listbox' using base type 'CEGUI/Listbox', window renderer 'Falagard/Listbox' and Look'N'Feel 'TaharezLook/Listbox'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ListHeader' using base type 'CEGUI/ListHeader', window renderer 'Falagard/ListHeader' and Look'N'Feel 'TaharezLook/ListHeader'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ListHeaderSegment' using base type 'CEGUI/ListHeaderSegment', window renderer 'Falagard/ListHeaderSegment' and Look'N'Feel 'TaharezLook/ListHeaderSegment'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/MultiColumnList' using base type 'CEGUI/MultiColumnList', window renderer 'Falagard/MultiColumnList' and Look'N'Feel 'TaharezLook/MultiColumnList'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Slider' using base type 'CEGUI/Slider', window renderer 'Falagard/Slider' and Look'N'Feel 'TaharezLook/Slider'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/SliderThumb' using base type 'CEGUI/Thumb', window renderer 'Falagard/Button' and Look'N'Feel 'TaharezLook/SliderThumb'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/ScrollablePane' using base type 'CEGUI/ScrollablePane', window renderer 'Falagard/ScrollablePane' and Look'N'Feel 'TaharezLook/ScrollablePane'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Spinner' using base type 'CEGUI/Spinner', window renderer 'Falagard/Default' and Look'N'Feel 'TaharezLook/Spinner'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/Tooltip' using base type 'CEGUI/Tooltip', window renderer 'Falagard/Tooltip' and Look'N'Feel 'TaharezLook/Tooltip'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/StaticImage' using base type 'DefaultWindow', window renderer 'Falagard/StaticImage' and Look'N'Feel 'TaharezLook/StaticImage'.
+18/09/2008 17:20:30 (InfL1)	Creating falagard mapping for type 'TaharezLook/StaticText' using base type 'DefaultWindow', window renderer 'Falagard/StaticText' and Look'N'Feel 'TaharezLook/StaticText'.
+18/09/2008 17:20:30 (InfL2)	---- Resource loading for GUI scheme 'TaharezLook' completed ----
+18/09/2008 17:20:30 (InfL2)	---- Beginning loading of GUI layout from 'ogregui.layout' ----
+18/09/2008 17:20:30 (InfL2)	Window 'root' of type 'DefaultGUISheet' has been created.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo' of type 'DefaultGUISheet' has been created.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl' of type 'TaharezLook/TabControl' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/TabControl' to the window 'OgreGuiDemo/TabCtrl'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/TabControl' to window 'OgreGuiDemo/TabCtrl'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__' of type 'TaharezLook/TabContentPane' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Default' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/TabContentPane' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons' of type 'TaharezLook/TabButtonPane' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Default' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/TabButtonPane' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollLeft' of type 'TaharezLook/SystemButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/SystemButton' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollLeft'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollLeft'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollRight' of type 'TaharezLook/SystemButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/SystemButton' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollRight'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollRight'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1' of type 'DefaultGUISheet' has been created.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage1' of type 'TaharezLook/TabButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/TabButton' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage1'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/TabButton' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage1'.
+18/09/2008 17:20:30 (InfL1)	Attempting to create Imageset 'BlueHighway-12_auto_glyph_images_ ' with texture only.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/NewButton' of type 'TaharezLook/Button' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page1/NewButton'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo/TabCtrl/Page1/NewButton'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/LoadButton' of type 'TaharezLook/Button' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page1/LoadButton'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo/TabCtrl/Page1/LoadButton'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/QuitButton' of type 'TaharezLook/Button' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page1/QuitButton'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo/TabCtrl/Page1/QuitButton'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2' of type 'DefaultGUISheet' has been created.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage2' of type 'TaharezLook/TabButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/TabButton' to the window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage2'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/TabButton' to window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage2'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList' of type 'TaharezLook/Combobox' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Default' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Combobox' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_editbox__' of type 'TaharezLook/ComboEditbox' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Editbox' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_editbox__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ComboEditbox' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_editbox__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist__' of type 'TaharezLook/ComboDropList' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Listbox' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ComboDropList' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar__' of type 'TaharezLook/HorizontalScrollbar' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Scrollbar' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/HorizontalScrollbar' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_incbtn__' of type 'TaharezLook/ImageButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_incbtn__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ImageButton' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_incbtn__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_decbtn__' of type 'TaharezLook/ImageButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_decbtn__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ImageButton' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_decbtn__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_thumb__' of type 'TaharezLook/HorizontalScrollbarThumb' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_thumb__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/HorizontalScrollbarThumb' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_thumb__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar__' of type 'TaharezLook/VerticalScrollbar' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Scrollbar' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/VerticalScrollbar' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_incbtn__' of type 'TaharezLook/ImageButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_incbtn__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ImageButton' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_incbtn__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_decbtn__' of type 'TaharezLook/ImageButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_decbtn__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ImageButton' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_decbtn__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_thumb__' of type 'TaharezLook/VerticalScrollbarThumb' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_thumb__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/VerticalScrollbarThumb' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_thumb__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_button__' of type 'TaharezLook/ImageButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Button' to the window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_button__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/ImageButton' to window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_button__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo2' of type 'DefaultGUISheet' has been created.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo2/MainWindow' of type 'TaharezLook/FrameWindow' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/FrameWindow' to the window 'OgreGuiDemo2/MainWindow'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/FrameWindow' to window 'OgreGuiDemo2/MainWindow'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo2/MainWindow__auto_titlebar__' of type 'TaharezLook/Titlebar' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/Titlebar' to the window 'OgreGuiDemo2/MainWindow__auto_titlebar__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Titlebar' to window 'OgreGuiDemo2/MainWindow__auto_titlebar__'.
+18/09/2008 17:20:30 (InfL2)	Window 'OgreGuiDemo2/MainWindow__auto_closebutton__' of type 'TaharezLook/SystemButton' has been created.
+18/09/2008 17:20:30 (InfL2)	Assigning the window renderer 'Falagard/SystemButton' to the window 'OgreGuiDemo2/MainWindow__auto_closebutton__'
+18/09/2008 17:20:30 (InfL2)	Assigning LookNFeel 'TaharezLook/Button' to window 'OgreGuiDemo2/MainWindow__auto_closebutton__'.
+18/09/2008 17:20:30 (InfL1)	---- Successfully completed loading of GUI layout from 'ogregui.layout' ----
+18/09/2008 17:20:33 (InfL1)	---- Begining CEGUI System destruction ----
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/NewButton' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/LoadButton' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1/QuitButton' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page1' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_editbox__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_incbtn__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_decbtn__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar____auto_thumb__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_hscrollbar__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_incbtn__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_decbtn__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar____auto_thumb__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist____auto_vscrollbar__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_droplist__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList__auto_button__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2/ObjectTypeList' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl/Page2' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage1' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons__auto_btnPage2' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__Buttons' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollLeft' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl__auto_TabPane__ScrollRight' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo/TabCtrl' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo2/MainWindow__auto_titlebar__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo2/MainWindow__auto_closebutton__' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo2/MainWindow' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'OgreGuiDemo2' has been added to dead pool.
+18/09/2008 17:20:33 (InfL2)	Window 'root' has been added to dead pool.
+18/09/2008 17:20:33 (InfL1)	---- Begining cleanup of GUI Scheme system ----
+18/09/2008 17:20:33 (InfL2)	---- Begining resource cleanup for GUI scheme 'TaharezLook' ----
+18/09/2008 17:20:33 (InfL2)	Imageset 'BlueHighway-12_auto_glyph_images_ ' has been destroyed.
+18/09/2008 17:20:33 (InfL1)	Font 'BlueHighway-12' has been destroyed.
+18/09/2008 17:20:33 (InfL1)	Font 'BlueHighway-10' has been destroyed.
+18/09/2008 17:20:33 (InfL1)	Font 'BlueHighway-8' has been destroyed.
+18/09/2008 17:20:33 (InfL2)	Imageset 'TaharezLook' has been destroyed.
+18/09/2008 17:20:33 (InfL2)	---- Resource cleanup for GUI scheme 'TaharezLook' completed ----
+18/09/2008 17:20:33 (InfL2)	GUI scheme 'TaharezLook' has been unloaded.
+18/09/2008 17:20:33 (InfL1)	Scheme 'TaharezLook' has been unloaded.
+18/09/2008 17:20:33 (InfL1)	CEGUI::SchemeManager singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	CEGUI::WindowManager singleton destroyed
+18/09/2008 17:20:33 (InfL1)	CEGUI::WindowFactoryManager singleton destroyed
+18/09/2008 17:20:33 (InfL1)	CEGUI::WidgetLookManager singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	CEGUI::WindowRendererManager singleton destroyed
+18/09/2008 17:20:33 (InfL1)	---- Begining cleanup of Font system ----
+18/09/2008 17:20:33 (InfL1)	CEGUI::FontManager singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	CEGUI::MouseCursor singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	---- Begining cleanup of Imageset system ----
+18/09/2008 17:20:33 (InfL2)	Imageset 'RttImageset' has been destroyed.
+18/09/2008 17:20:33 (InfL1)	CEGUI::ImagesetManager singleton destroyed
+18/09/2008 17:20:33 (InfL1)	CEGUI::GlobalEventSet singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	CEGUI::System singleton destroyed.
+18/09/2008 17:20:33 (InfL1)	---- CEGUI System destruction completed ----
+18/09/2008 17:20:33 (InfL1)	CEGUI::Logger singleton destroyed.

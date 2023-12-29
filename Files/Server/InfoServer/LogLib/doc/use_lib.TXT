@@ -1,0 +1,55 @@
+
+使用说明：
+    正确设置VC目录后。需要调用日志接口的地方。包含接口头文件LogLib.h。
+    例：#include <LogLib.h>
+
+
+接口说明：
+    class LogInterface
+        Instance()              获取唯一实力（整个接口为单例模式）
+        
+        ConnectLogServer()      连接日志服务器。
+                                参数1: 为目标服务器IP地址(可以使用域名)
+                                参数2: 为目标服务端口。
+                                返回true成功，false连接失败
+        
+        DisconnectLogServer()   断开日志服务器连接
+                                无需关心返回值(始终为true)。
+        
+        SendLogMessage()        发送日志。10个参数均为字符串。
+                                与数据库字段对应关系如下(此函数已做了SQL语句过滤工作)：
+                                    str1    对应数据库第一个字段，长度256
+                                    str2    对应数据库第二个字段，长度256
+                                    str3    对应数据库第三个字段，长度256
+                                    str4    对应数据库第四个字段，长度256
+                                    str5    对应数据库第五个字段，长度256
+                                    str6    对应数据库第六个字段，数据库数据类型为 ntext。较长信息一般存放在此字段中
+                                    ext1    对应数据库第一个扩展字段，长度128
+                                    ext1    对应数据库第二个扩展字段，长度128
+                                    ext1    对应数据库第三个扩展字段，长度128
+                                    ext1    对应数据库第四个扩展字段，长度128
+                                无需关心返回值(始终为true)。
+
+宏说明：
+        GetLogInterface()       直接获取对象接口。同LogInterface::Instance()效果一样
+        
+        LOG()                   发送日志接口。需要填满10个参数，如有不需的参数可以用""或者NULL来填充。
+
+
+
+使用例程:
+
+#include <LogLib.h>
+
+void main()
+{
+    LogInterface* li = GetLogInterface();       //  获取对象指针
+
+    if(li->ConnectLogServer("127.0.0.1", 5005)) //  连接日志服务器，并且检查是否成功
+    {
+        li->SendLogMessage("LogString1", "LogString2", "LogString3", NULL, "L'o'g'S't'r'i'n'g'5", "string6");   //  参数4为NULL时，数据库中被写入空字符产。参数5的分号可以被直接写入数据库。
+    
+        li->DisconnectLogServer();              //  断开连接
+    }
+}
+

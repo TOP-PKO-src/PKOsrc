@@ -1,0 +1,10 @@
+[06-06 15:34:15]Log stream open success.
+[06-06 15:34:15]begin connect database
+[06-06 15:34:18]begin init AccountServer connect
+[06-06 15:34:18]AccountServer:127.0.0.1,1978come ! Socket num:1
+[06-06 15:34:18]begin read GroupServer.cfg
+[06-06 15:34:18]begin load ChaNameFilter.txt
+[06-06 15:34:18]begin listen port:1975
+[06-06 15:34:18]open listen port:1975success, init is ok
+[06-06 15:34:20]AccountServer:127.0.0.1,1978go ! Socket num:0reason=(65535)程序因为退出而ShutDown网络子系统。
+[06-06 15:34:22]Log stream close success.
